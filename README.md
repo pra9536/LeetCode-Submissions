@@ -5,7 +5,7 @@ Contains topicwise list of solved problems.
 
 | Total Solved | Easy | Medium | Hard |
 | ---: | ---: | ---: | ---: |
-| 1 | 0 | 1 | 0 |
+| 2 | 1 | 1 | 0 |
 
 ## Activity
 
@@ -15,21 +15,23 @@ Contains topicwise list of solved problems.
 
 | Date | Problems |
 | --- | ---: |
-| 2026-10-14 | 1 |
+| 2026-10-14 | 2 |
 
 ## Top Tags
 
 | Tag | Problems | Coverage |
 | --- | ---: | ---: |
-| Array | 1 | 100% |
-| Greedy | 1 | 100% |
-| Sorting | 1 | 100% |
+| Array | 2 | 100% |
+| Greedy | 1 | 50% |
+| Hash Table | 1 | 50% |
+| Sorting | 1 | 50% |
 
 ## Topics
 
 | Topic | Problems |
 | --- | ---: |
-| [Array](Topics/array/) | 1 |
+| [Array](Topics/array/) | 2 |
 | [Greedy](Topics/greedy/) | 1 |
+| [Hash Table](Topics/hash-table/) | 1 |
 | [Sorting](Topics/sorting/) | 1 |
 <!---LeetHub Summary End-->
