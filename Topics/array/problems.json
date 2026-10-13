@@ -5,8 +5,28 @@
     "name": "Array",
     "tagId": "5"
   },
-  "updatedAt": "2026-10-13T18:31:49.810Z",
+  "updatedAt": "2026-10-13T18:42:42.674Z",
   "problems": [
+    {
+      "frontendId": "1",
+      "title": "Two Sum",
+      "slug": "two-sum",
+      "problemName": "0001-two-sum",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/two-sum/",
+      "folderPath": "0001-two-sum/",
+      "readmePath": "0001-two-sum/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "0001-two-sum.java",
+          "path": "0001-two-sum/0001-two-sum.java",
+          "sha": "8a77007fa25bf7258224400afd8ba0236f784afb",
+          "lastSyncedAt": "2026-10-13T18:42:42.674Z"
+        }
+      ]
+    },
     {
       "frontendId": "3727",
       "title": "Maximum Alternating Sum of Squares",
