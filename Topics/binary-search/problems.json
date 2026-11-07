@@ -5,7 +5,7 @@
     "name": "Binary Search",
     "tagId": "11"
   },
-  "updatedAt": "2026-11-07T06:09:32.704Z",
+  "updatedAt": "2026-11-07T06:09:45.452Z",
   "problems": [
     {
       "frontendId": "4",
@@ -484,6 +484,26 @@
           "path": "Medium/3635-earliest-finish-time-for-land-and-water-rides-ii/Java/3635-earliest-finish-time-for-land-and-water-rides-ii.java",
           "sha": "6095347a9907fe6bd9f3af6b6e3de8299e95291c",
           "lastSyncedAt": "2026-11-07T05:41:12.621Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "3824",
+      "title": "Minimum K to Reduce Array Within Limit",
+      "slug": "minimum-k-to-reduce-array-within-limit",
+      "problemName": "3824-minimum-k-to-reduce-array-within-limit",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/minimum-k-to-reduce-array-within-limit/",
+      "folderPath": "Medium/3824-minimum-k-to-reduce-array-within-limit/",
+      "readmePath": "Medium/3824-minimum-k-to-reduce-array-within-limit/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "3824-minimum-k-to-reduce-array-within-limit.java",
+          "path": "Medium/3824-minimum-k-to-reduce-array-within-limit/Java/3824-minimum-k-to-reduce-array-within-limit.java",
+          "sha": "bfab85beb746ed6669330f65c4772053a795e236",
+          "lastSyncedAt": "2026-11-07T06:09:45.452Z"
         }
       ]
     },
