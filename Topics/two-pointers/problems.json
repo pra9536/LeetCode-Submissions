@@ -5,7 +5,7 @@
     "name": "Two Pointers",
     "tagId": "9"
   },
-  "updatedAt": "2026-11-07T04:51:56.742Z",
+  "updatedAt": "2026-11-07T04:52:25.964Z",
   "problems": [
     {
       "frontendId": "15",
@@ -64,6 +64,26 @@
           "path": "Easy/0028-find-the-index-of-the-first-occurrence-in-a-string/Java/0028-find-the-index-of-the-first-occurrence-in-a-string.java",
           "sha": "cbe7b00fb51691af564e868ec4dcc1d71e63a724",
           "lastSyncedAt": "2026-11-07T04:51:56.742Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "75",
+      "title": "Sort Colors",
+      "slug": "sort-colors",
+      "problemName": "0075-sort-colors",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/sort-colors/",
+      "folderPath": "Medium/0075-sort-colors/",
+      "readmePath": "Medium/0075-sort-colors/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "0075-sort-colors.java",
+          "path": "Medium/0075-sort-colors/Java/0075-sort-colors.java",
+          "sha": "26474b9e489fc30350df7ff067245a4d23e7971e",
+          "lastSyncedAt": "2026-11-07T04:52:25.964Z"
         }
       ]
     },
