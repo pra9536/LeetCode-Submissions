@@ -5,7 +5,7 @@
     "name": "Binary Tree",
     "tagId": "61057"
   },
-  "updatedAt": "2026-11-07T06:01:25.246Z",
+  "updatedAt": "2026-11-07T06:01:42.905Z",
   "problems": [
     {
       "frontendId": "94",
@@ -44,6 +44,26 @@
           "path": "Medium/0098-validate-binary-search-tree/Java/0098-validate-binary-search-tree.java",
           "sha": "c8898848a2deb76758b1c9aa89c471ba0050802d",
           "lastSyncedAt": "2026-11-07T05:55:48.474Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "101",
+      "title": "Symmetric Tree",
+      "slug": "symmetric-tree",
+      "problemName": "0101-symmetric-tree",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/symmetric-tree/",
+      "folderPath": "Easy/0101-symmetric-tree/",
+      "readmePath": "Easy/0101-symmetric-tree/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "0101-symmetric-tree.java",
+          "path": "Easy/0101-symmetric-tree/Java/0101-symmetric-tree.java",
+          "sha": "9635eb165edbd2cbea8e9442c7eff2b5631d5663",
+          "lastSyncedAt": "2026-11-07T06:01:42.905Z"
         }
       ]
     },
