@@ -5,7 +5,7 @@
     "name": "Linked List",
     "tagId": "7"
   },
-  "updatedAt": "2026-11-07T05:33:40.242Z",
+  "updatedAt": "2026-11-07T05:33:47.343Z",
   "problems": [
     {
       "frontendId": "24",
@@ -144,6 +144,26 @@
           "path": "Medium/0148-sort-list/Java/0148-sort-list.java",
           "sha": "2a785304ac3237bccdbf03bc2334d8741dcea871",
           "lastSyncedAt": "2026-11-07T05:31:37.201Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "203",
+      "title": "Remove Linked List Elements",
+      "slug": "remove-linked-list-elements",
+      "problemName": "0203-remove-linked-list-elements",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/remove-linked-list-elements/",
+      "folderPath": "Easy/0203-remove-linked-list-elements/",
+      "readmePath": "Easy/0203-remove-linked-list-elements/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "0203-remove-linked-list-elements.java",
+          "path": "Easy/0203-remove-linked-list-elements/Java/0203-remove-linked-list-elements.java",
+          "sha": "2a24da380a598927b36c73e83173637604f20ec2",
+          "lastSyncedAt": "2026-11-07T05:33:47.343Z"
         }
       ]
     },
