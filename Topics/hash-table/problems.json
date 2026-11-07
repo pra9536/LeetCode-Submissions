@@ -5,7 +5,7 @@
     "name": "Hash Table",
     "tagId": "6"
   },
-  "updatedAt": "2026-11-07T06:06:56.460Z",
+  "updatedAt": "2026-11-07T06:07:20.130Z",
   "problems": [
     {
       "frontendId": "1",
@@ -704,6 +704,26 @@
           "path": "Medium/3629-minimum-jumps-to-reach-end-via-prime-teleportation/Java/3629-minimum-jumps-to-reach-end-via-prime-teleportation.java",
           "sha": "82a01f6812b2ae525a3c09823288de11a5b7a7e1",
           "lastSyncedAt": "2026-11-07T05:48:23.054Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "3839",
+      "title": "Number of Prefix Connected Groups",
+      "slug": "number-of-prefix-connected-groups",
+      "problemName": "3839-number-of-prefix-connected-groups",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/number-of-prefix-connected-groups/",
+      "folderPath": "Medium/3839-number-of-prefix-connected-groups/",
+      "readmePath": "Medium/3839-number-of-prefix-connected-groups/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "3839-number-of-prefix-connected-groups.java",
+          "path": "Medium/3839-number-of-prefix-connected-groups/Java/3839-number-of-prefix-connected-groups.java",
+          "sha": "1763151bc7dc2557862921dc10dc527f1d54f4dc",
+          "lastSyncedAt": "2026-11-07T06:07:20.130Z"
         }
       ]
     },
