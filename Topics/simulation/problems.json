@@ -5,8 +5,28 @@
     "name": "Simulation",
     "tagId": "61055"
   },
-  "updatedAt": "2026-11-07T05:30:58.566Z",
+  "updatedAt": "2026-11-07T05:47:26.773Z",
   "problems": [
+    {
+      "frontendId": "2553",
+      "title": "Separate the Digits in an Array",
+      "slug": "separate-the-digits-in-an-array",
+      "problemName": "2553-separate-the-digits-in-an-array",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/separate-the-digits-in-an-array/",
+      "folderPath": "Easy/2553-separate-the-digits-in-an-array/",
+      "readmePath": "Easy/2553-separate-the-digits-in-an-array/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "2553-separate-the-digits-in-an-array.java",
+          "path": "Easy/2553-separate-the-digits-in-an-array/Java/2553-separate-the-digits-in-an-array.java",
+          "sha": "46eb2edd4139de442d48450aaab7e5d392e9523a",
+          "lastSyncedAt": "2026-11-07T05:47:26.773Z"
+        }
+      ]
+    },
     {
       "frontendId": "2696",
       "title": "Minimum String Length After Removing Substrings",
