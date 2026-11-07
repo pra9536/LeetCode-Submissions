@@ -5,7 +5,7 @@
     "name": "Math",
     "tagId": "8"
   },
-  "updatedAt": "2026-11-07T05:01:26.280Z",
+  "updatedAt": "2026-11-07T05:29:50.593Z",
   "problems": [
     {
       "frontendId": "12",
@@ -84,6 +84,26 @@
           "path": "Medium/0062-unique-paths/Java/0062-unique-paths.java",
           "sha": "1418ee08de0af00c43fa7c9a3b5a6a3744681cfe",
           "lastSyncedAt": "2026-11-07T05:00:03.228Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "69",
+      "title": "Sqrt(x)",
+      "slug": "sqrtx",
+      "problemName": "0069-sqrtx",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/sqrtx/",
+      "folderPath": "Easy/0069-sqrtx/",
+      "readmePath": "Easy/0069-sqrtx/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "0069-sqrtx.java",
+          "path": "Easy/0069-sqrtx/Java/0069-sqrtx.java",
+          "sha": "d5da23b0fd14bfe46fd3b2564158ae032a74982a",
+          "lastSyncedAt": "2026-11-07T05:29:50.593Z"
         }
       ]
     },
