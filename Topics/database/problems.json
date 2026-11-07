@@ -5,8 +5,28 @@
     "name": "Database",
     "tagId": "61043"
   },
-  "updatedAt": "2026-11-07T04:58:13.259Z",
+  "updatedAt": "2026-11-07T04:58:20.955Z",
   "problems": [
+    {
+      "frontendId": "197",
+      "title": "Rising Temperature",
+      "slug": "rising-temperature",
+      "problemName": "0197-rising-temperature",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/rising-temperature/",
+      "folderPath": "Easy/0197-rising-temperature/",
+      "readmePath": "Easy/0197-rising-temperature/README.md",
+      "solutions": [
+        {
+          "language": "MySQL",
+          "extension": ".sql",
+          "filename": "0197-rising-temperature.sql",
+          "path": "Easy/0197-rising-temperature/MySQL/0197-rising-temperature.sql",
+          "sha": "4e5a2d458a848489c48ac036a603347c12ff408d",
+          "lastSyncedAt": "2026-11-07T04:58:20.955Z"
+        }
+      ]
+    },
     {
       "frontendId": "577",
       "title": "Employee Bonus",
