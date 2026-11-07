@@ -5,7 +5,7 @@
     "name": "Bit Manipulation",
     "tagId": "19"
   },
-  "updatedAt": "2026-11-07T05:01:42.650Z",
+  "updatedAt": "2026-11-07T05:45:30.756Z",
   "problems": [
     {
       "frontendId": "187",
@@ -104,6 +104,26 @@
           "path": "Medium/0287-find-the-duplicate-number/Java/0287-find-the-duplicate-number.java",
           "sha": "fad54e2da4dcfe6c73fc28b2251a9064cbe70ffc",
           "lastSyncedAt": "2026-11-07T04:55:24.736Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "2657",
+      "title": "Find the Prefix Common Array of Two Arrays",
+      "slug": "find-the-prefix-common-array-of-two-arrays",
+      "problemName": "2657-find-the-prefix-common-array-of-two-arrays",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/find-the-prefix-common-array-of-two-arrays/",
+      "folderPath": "Medium/2657-find-the-prefix-common-array-of-two-arrays/",
+      "readmePath": "Medium/2657-find-the-prefix-common-array-of-two-arrays/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "2657-find-the-prefix-common-array-of-two-arrays.java",
+          "path": "Medium/2657-find-the-prefix-common-array-of-two-arrays/Java/2657-find-the-prefix-common-array-of-two-arrays.java",
+          "sha": "d5078ad7e97d2cd4b9400ae40a0a31ec4e4cb8f1",
+          "lastSyncedAt": "2026-11-07T05:45:30.756Z"
         }
       ]
     }
