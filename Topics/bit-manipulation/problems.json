@@ -5,8 +5,28 @@
     "name": "Bit Manipulation",
     "tagId": "19"
   },
-  "updatedAt": "2026-11-07T05:58:54.302Z",
+  "updatedAt": "2026-11-07T05:59:12.386Z",
   "problems": [
+    {
+      "frontendId": "137",
+      "title": "Single Number II",
+      "slug": "single-number-ii",
+      "problemName": "0137-single-number-ii",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/single-number-ii/",
+      "folderPath": "Medium/0137-single-number-ii/",
+      "readmePath": "Medium/0137-single-number-ii/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "0137-single-number-ii.java",
+          "path": "Medium/0137-single-number-ii/Java/0137-single-number-ii.java",
+          "sha": "632d39fe35863235413514392744716766993868",
+          "lastSyncedAt": "2026-11-07T05:59:12.386Z"
+        }
+      ]
+    },
     {
       "frontendId": "187",
       "title": "Repeated DNA Sequences",
