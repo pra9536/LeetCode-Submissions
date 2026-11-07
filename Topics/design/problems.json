@@ -5,8 +5,28 @@
     "name": "Design",
     "tagId": "25"
   },
-  "updatedAt": "2026-11-07T05:38:06.104Z",
+  "updatedAt": "2026-11-07T06:03:56.185Z",
   "problems": [
+    {
+      "frontendId": "225",
+      "title": "Implement Stack using Queues",
+      "slug": "implement-stack-using-queues",
+      "problemName": "0225-implement-stack-using-queues",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/implement-stack-using-queues/",
+      "folderPath": "Easy/0225-implement-stack-using-queues/",
+      "readmePath": "Easy/0225-implement-stack-using-queues/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "0225-implement-stack-using-queues.java",
+          "path": "Easy/0225-implement-stack-using-queues/Java/0225-implement-stack-using-queues.java",
+          "sha": "9b9b13ac83cf61189c49109b56f24c6084fed8b4",
+          "lastSyncedAt": "2026-11-07T06:03:56.185Z"
+        }
+      ]
+    },
     {
       "frontendId": "232",
       "title": "Implement Queue using Stacks",
