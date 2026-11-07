@@ -5,7 +5,7 @@
     "name": "Stack",
     "tagId": "15"
   },
-  "updatedAt": "2026-11-07T05:31:26.930Z",
+  "updatedAt": "2026-11-07T05:33:05.726Z",
   "problems": [
     {
       "frontendId": "20",
@@ -24,6 +24,26 @@
           "path": "Easy/0020-valid-parentheses/Java/0020-valid-parentheses.java",
           "sha": "eb65db6a2d4cf9654217e34b13bcb05fab9f565a",
           "lastSyncedAt": "2026-11-07T05:31:13.962Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "143",
+      "title": "Reorder List",
+      "slug": "reorder-list",
+      "problemName": "0143-reorder-list",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/reorder-list/",
+      "folderPath": "Medium/0143-reorder-list/",
+      "readmePath": "Medium/0143-reorder-list/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "0143-reorder-list.java",
+          "path": "Medium/0143-reorder-list/Java/0143-reorder-list.java",
+          "sha": "203a80cf1995dfd41f367db4323e65b2b43e5b12",
+          "lastSyncedAt": "2026-11-07T05:33:05.726Z"
         }
       ]
     },
