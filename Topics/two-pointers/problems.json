@@ -5,7 +5,7 @@
     "name": "Two Pointers",
     "tagId": "9"
   },
-  "updatedAt": "2026-11-07T05:49:07.539Z",
+  "updatedAt": "2026-11-07T05:49:49.419Z",
   "problems": [
     {
       "frontendId": "15",
@@ -524,6 +524,26 @@
           "path": "Medium/1721-swapping-nodes-in-a-linked-list/Java/1721-swapping-nodes-in-a-linked-list.java",
           "sha": "24a98791e47d1fef6e84af1b783c5c309b2804a3",
           "lastSyncedAt": "2026-11-07T05:32:53.807Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "1855",
+      "title": "Maximum Distance Between a Pair of Values",
+      "slug": "maximum-distance-between-a-pair-of-values",
+      "problemName": "1855-maximum-distance-between-a-pair-of-values",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/maximum-distance-between-a-pair-of-values/",
+      "folderPath": "Medium/1855-maximum-distance-between-a-pair-of-values/",
+      "readmePath": "Medium/1855-maximum-distance-between-a-pair-of-values/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "1855-maximum-distance-between-a-pair-of-values.java",
+          "path": "Medium/1855-maximum-distance-between-a-pair-of-values/Java/1855-maximum-distance-between-a-pair-of-values.java",
+          "sha": "73dc1dafccddead9182414c2a5c6c586ae7c17df",
+          "lastSyncedAt": "2026-11-07T05:49:49.419Z"
         }
       ]
     },
