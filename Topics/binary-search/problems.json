@@ -5,7 +5,7 @@
     "name": "Binary Search",
     "tagId": "11"
   },
-  "updatedAt": "2026-11-07T05:29:40.551Z",
+  "updatedAt": "2026-11-07T05:29:50.593Z",
   "problems": [
     {
       "frontendId": "33",
@@ -24,6 +24,26 @@
           "path": "Medium/0033-search-in-rotated-sorted-array/Java/0033-search-in-rotated-sorted-array.java",
           "sha": "f09205d236376ebf3df725d84419811280ef0b21",
           "lastSyncedAt": "2026-11-07T05:29:24.417Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "69",
+      "title": "Sqrt(x)",
+      "slug": "sqrtx",
+      "problemName": "0069-sqrtx",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/sqrtx/",
+      "folderPath": "Easy/0069-sqrtx/",
+      "readmePath": "Easy/0069-sqrtx/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "0069-sqrtx.java",
+          "path": "Easy/0069-sqrtx/Java/0069-sqrtx.java",
+          "sha": "d5da23b0fd14bfe46fd3b2564158ae032a74982a",
+          "lastSyncedAt": "2026-11-07T05:29:50.593Z"
         }
       ]
     },
