@@ -5,7 +5,7 @@
     "name": "Sliding Window",
     "tagId": "55821"
   },
-  "updatedAt": "2026-11-07T05:02:12.542Z",
+  "updatedAt": "2026-11-07T05:02:22.808Z",
   "problems": [
     {
       "frontendId": "3",
@@ -44,6 +44,26 @@
           "path": "Medium/0187-repeated-dna-sequences/Java/0187-repeated-dna-sequences.java",
           "sha": "917d620f365ada180dccc34138b7e5b6858f2822",
           "lastSyncedAt": "2026-11-07T05:01:42.650Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "219",
+      "title": "Contains Duplicate II",
+      "slug": "contains-duplicate-ii",
+      "problemName": "0219-contains-duplicate-ii",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/contains-duplicate-ii/",
+      "folderPath": "Easy/0219-contains-duplicate-ii/",
+      "readmePath": "Easy/0219-contains-duplicate-ii/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "0219-contains-duplicate-ii.java",
+          "path": "Easy/0219-contains-duplicate-ii/Java/0219-contains-duplicate-ii.java",
+          "sha": "5012e0348e0337f45e6f5db1ccd363d21f2afe44",
+          "lastSyncedAt": "2026-11-07T05:02:22.808Z"
         }
       ]
     },
