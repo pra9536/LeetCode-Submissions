@@ -5,7 +5,7 @@
     "name": "Tree",
     "tagId": "20"
   },
-  "updatedAt": "2026-11-07T05:56:59.370Z",
+  "updatedAt": "2026-11-07T05:57:16.385Z",
   "problems": [
     {
       "frontendId": "94",
@@ -124,6 +124,26 @@
           "path": "Easy/0653-two-sum-iv-input-is-a-bst/Java/0653-two-sum-iv-input-is-a-bst.java",
           "sha": "31df2e3eff6d0fae6e18634710fdffee3152be4d",
           "lastSyncedAt": "2026-11-07T05:54:24.344Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "700",
+      "title": "Search in a Binary Search Tree",
+      "slug": "search-in-a-binary-search-tree",
+      "problemName": "0700-search-in-a-binary-search-tree",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/search-in-a-binary-search-tree/",
+      "folderPath": "Easy/0700-search-in-a-binary-search-tree/",
+      "readmePath": "Easy/0700-search-in-a-binary-search-tree/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "0700-search-in-a-binary-search-tree.java",
+          "path": "Easy/0700-search-in-a-binary-search-tree/Java/0700-search-in-a-binary-search-tree.java",
+          "sha": "2039971d4f25be2c73ef0199ca34e6e32ba401b0",
+          "lastSyncedAt": "2026-11-07T05:57:16.385Z"
         }
       ]
     },
