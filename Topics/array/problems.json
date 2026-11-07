@@ -5,7 +5,7 @@
     "name": "Array",
     "tagId": "5"
   },
-  "updatedAt": "2026-11-07T05:46:32.107Z",
+  "updatedAt": "2026-11-07T05:46:43.258Z",
   "problems": [
     {
       "frontendId": "1",
@@ -1204,6 +1204,26 @@
           "path": "Medium/2657-find-the-prefix-common-array-of-two-arrays/Java/2657-find-the-prefix-common-array-of-two-arrays.java",
           "sha": "d5078ad7e97d2cd4b9400ae40a0a31ec4e4cb8f1",
           "lastSyncedAt": "2026-11-07T05:45:30.756Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "2784",
+      "title": "Check if Array is Good",
+      "slug": "check-if-array-is-good",
+      "problemName": "2784-check-if-array-is-good",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/check-if-array-is-good/",
+      "folderPath": "Easy/2784-check-if-array-is-good/",
+      "readmePath": "Easy/2784-check-if-array-is-good/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "2784-check-if-array-is-good.java",
+          "path": "Easy/2784-check-if-array-is-good/Java/2784-check-if-array-is-good.java",
+          "sha": "2c6bd559f7ab7c516d623dae083eb54a342276bc",
+          "lastSyncedAt": "2026-11-07T05:46:43.258Z"
         }
       ]
     },
