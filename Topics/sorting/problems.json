@@ -5,8 +5,28 @@
     "name": "Sorting",
     "tagId": "61049"
   },
-  "updatedAt": "2026-10-13T18:31:49.810Z",
+  "updatedAt": "2026-11-07T04:47:36.268Z",
   "problems": [
+    {
+      "frontendId": "229",
+      "title": "Majority Element II",
+      "slug": "majority-element-ii",
+      "problemName": "0229-majority-element-ii",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/majority-element-ii/",
+      "folderPath": "Medium/0229-majority-element-ii/",
+      "readmePath": "Medium/0229-majority-element-ii/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "0229-majority-element-ii.java",
+          "path": "Medium/0229-majority-element-ii/Java/0229-majority-element-ii.java",
+          "sha": "015ed9f03694ed9b3a1c7fde86180850f93cfdda",
+          "lastSyncedAt": "2026-11-07T04:47:36.268Z"
+        }
+      ]
+    },
     {
       "frontendId": "3727",
       "title": "Maximum Alternating Sum of Squares",
