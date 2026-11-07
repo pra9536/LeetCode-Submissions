@@ -5,7 +5,7 @@
     "name": "Array",
     "tagId": "5"
   },
-  "updatedAt": "2026-11-07T05:42:41.670Z",
+  "updatedAt": "2026-11-07T05:43:07.167Z",
   "problems": [
     {
       "frontendId": "1",
@@ -884,6 +884,26 @@
           "path": "Medium/0986-interval-list-intersections/Java/0986-interval-list-intersections.java",
           "sha": "10b74d15b89135ce25bdc9aa562f8f0a093a3f96",
           "lastSyncedAt": "2026-11-07T05:39:04.195Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "1020",
+      "title": "Number of Enclaves",
+      "slug": "number-of-enclaves",
+      "problemName": "1020-number-of-enclaves",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/number-of-enclaves/",
+      "folderPath": "Medium/1020-number-of-enclaves/",
+      "readmePath": "Medium/1020-number-of-enclaves/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "1020-number-of-enclaves.java",
+          "path": "Medium/1020-number-of-enclaves/Java/1020-number-of-enclaves.java",
+          "sha": "bb925389c297432b8d58a7abb14e80dd44a67ba1",
+          "lastSyncedAt": "2026-11-07T05:43:07.167Z"
         }
       ]
     },
