@@ -5,7 +5,7 @@
     "name": "Array",
     "tagId": "5"
   },
-  "updatedAt": "2026-11-07T05:00:52.761Z",
+  "updatedAt": "2026-11-07T05:01:16.256Z",
   "problems": [
     {
       "frontendId": "1",
@@ -524,6 +524,26 @@
           "path": "Easy/0674-longest-continuous-increasing-subsequence/Java/0674-longest-continuous-increasing-subsequence.java",
           "sha": "25084ce243629f1a4823c3b1cb004a27fb5d0761",
           "lastSyncedAt": "2026-11-07T04:47:04.790Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "746",
+      "title": "Min Cost Climbing Stairs",
+      "slug": "min-cost-climbing-stairs",
+      "problemName": "0746-min-cost-climbing-stairs",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/min-cost-climbing-stairs/",
+      "folderPath": "Easy/0746-min-cost-climbing-stairs/",
+      "readmePath": "Easy/0746-min-cost-climbing-stairs/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "0746-min-cost-climbing-stairs.java",
+          "path": "Easy/0746-min-cost-climbing-stairs/Java/0746-min-cost-climbing-stairs.java",
+          "sha": "f4165b46b1ae5886ddee19cd9cd7d890f9753c4a",
+          "lastSyncedAt": "2026-11-07T05:01:16.256Z"
         }
       ]
     },
