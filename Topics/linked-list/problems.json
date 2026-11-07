@@ -5,8 +5,28 @@
     "name": "Linked List",
     "tagId": "7"
   },
-  "updatedAt": "2026-11-07T05:32:13.626Z",
+  "updatedAt": "2026-11-07T05:32:26.147Z",
   "problems": [
+    {
+      "frontendId": "24",
+      "title": "Swap Nodes in Pairs",
+      "slug": "swap-nodes-in-pairs",
+      "problemName": "0024-swap-nodes-in-pairs",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/swap-nodes-in-pairs/",
+      "folderPath": "Medium/0024-swap-nodes-in-pairs/",
+      "readmePath": "Medium/0024-swap-nodes-in-pairs/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "0024-swap-nodes-in-pairs.java",
+          "path": "Medium/0024-swap-nodes-in-pairs/Java/0024-swap-nodes-in-pairs.java",
+          "sha": "660e5eea094992048c0ee5af8bdd26c8a89dfd22",
+          "lastSyncedAt": "2026-11-07T05:32:26.147Z"
+        }
+      ]
+    },
     {
       "frontendId": "25",
       "title": "Reverse Nodes in k-Group",
