@@ -5,8 +5,28 @@
     "name": "Monotonic Stack",
     "tagId": "61054"
   },
-  "updatedAt": "2026-11-07T06:04:51.658Z",
+  "updatedAt": "2026-11-07T06:05:09.170Z",
   "problems": [
+    {
+      "frontendId": "84",
+      "title": "Largest Rectangle in Histogram",
+      "slug": "largest-rectangle-in-histogram",
+      "problemName": "0084-largest-rectangle-in-histogram",
+      "difficulty": "Hard",
+      "leetcodeUrl": "https://leetcode.com/problems/largest-rectangle-in-histogram/",
+      "folderPath": "Hard/0084-largest-rectangle-in-histogram/",
+      "readmePath": "Hard/0084-largest-rectangle-in-histogram/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "0084-largest-rectangle-in-histogram.java",
+          "path": "Hard/0084-largest-rectangle-in-histogram/Java/0084-largest-rectangle-in-histogram.java",
+          "sha": "19e3ac20e780f88438a9dacf75fe73d09cf8a6ef",
+          "lastSyncedAt": "2026-11-07T06:05:09.170Z"
+        }
+      ]
+    },
     {
       "frontendId": "85",
       "title": "Maximal Rectangle",
