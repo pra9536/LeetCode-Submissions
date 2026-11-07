@@ -5,7 +5,7 @@
     "name": "Array",
     "tagId": "5"
   },
-  "updatedAt": "2026-11-07T05:38:06.104Z",
+  "updatedAt": "2026-11-07T05:38:33.843Z",
   "problems": [
     {
       "frontendId": "1",
@@ -804,6 +804,26 @@
           "path": "Medium/1277-count-square-submatrices-with-all-ones/Java/1277-count-square-submatrices-with-all-ones.java",
           "sha": "02817b529bc0867ff0def23d66a556e90452aced",
           "lastSyncedAt": "2026-11-07T04:59:24.580Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "1288",
+      "title": "Remove Covered Intervals",
+      "slug": "remove-covered-intervals",
+      "problemName": "1288-remove-covered-intervals",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/remove-covered-intervals/",
+      "folderPath": "Medium/1288-remove-covered-intervals/",
+      "readmePath": "Medium/1288-remove-covered-intervals/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "1288-remove-covered-intervals.java",
+          "path": "Medium/1288-remove-covered-intervals/Java/1288-remove-covered-intervals.java",
+          "sha": "742f9a43da0583e28516a2686318e6e507a81401",
+          "lastSyncedAt": "2026-11-07T05:38:33.843Z"
         }
       ]
     },
