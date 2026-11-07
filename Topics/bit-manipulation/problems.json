@@ -5,8 +5,28 @@
     "name": "Bit Manipulation",
     "tagId": "19"
   },
-  "updatedAt": "2026-11-07T04:56:04.919Z",
+  "updatedAt": "2026-11-07T05:01:42.650Z",
   "problems": [
+    {
+      "frontendId": "187",
+      "title": "Repeated DNA Sequences",
+      "slug": "repeated-dna-sequences",
+      "problemName": "0187-repeated-dna-sequences",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/repeated-dna-sequences/",
+      "folderPath": "Medium/0187-repeated-dna-sequences/",
+      "readmePath": "Medium/0187-repeated-dna-sequences/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "0187-repeated-dna-sequences.java",
+          "path": "Medium/0187-repeated-dna-sequences/Java/0187-repeated-dna-sequences.java",
+          "sha": "917d620f365ada180dccc34138b7e5b6858f2822",
+          "lastSyncedAt": "2026-11-07T05:01:42.650Z"
+        }
+      ]
+    },
     {
       "frontendId": "190",
       "title": "Reverse Bits",
