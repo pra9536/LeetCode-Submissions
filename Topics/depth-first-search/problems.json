@@ -5,7 +5,7 @@
     "name": "Depth-First Search",
     "tagId": "21"
   },
-  "updatedAt": "2026-11-07T06:00:20.606Z",
+  "updatedAt": "2026-11-07T06:01:04.086Z",
   "problems": [
     {
       "frontendId": "94",
@@ -224,6 +224,26 @@
           "path": "Medium/0236-lowest-common-ancestor-of-a-binary-tree/Java/0236-lowest-common-ancestor-of-a-binary-tree.java",
           "sha": "bcca3add85dd72ea113cce8c76b0960b1c432e90",
           "lastSyncedAt": "2026-11-07T05:58:34.972Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "257",
+      "title": "Binary Tree Paths",
+      "slug": "binary-tree-paths",
+      "problemName": "0257-binary-tree-paths",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/binary-tree-paths/",
+      "folderPath": "Easy/0257-binary-tree-paths/",
+      "readmePath": "Easy/0257-binary-tree-paths/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "0257-binary-tree-paths.java",
+          "path": "Easy/0257-binary-tree-paths/Java/0257-binary-tree-paths.java",
+          "sha": "39a736a7de3ee4530b13a7821ab7a342b6cc38ab",
+          "lastSyncedAt": "2026-11-07T06:01:04.086Z"
         }
       ]
     },
