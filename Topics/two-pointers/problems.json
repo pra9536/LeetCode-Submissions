@@ -5,7 +5,7 @@
     "name": "Two Pointers",
     "tagId": "9"
   },
-  "updatedAt": "2026-11-07T05:36:16.316Z",
+  "updatedAt": "2026-11-07T05:36:33.726Z",
   "problems": [
     {
       "frontendId": "15",
@@ -144,6 +144,26 @@
           "path": "Medium/0082-remove-duplicates-from-sorted-list-ii/Java/0082-remove-duplicates-from-sorted-list-ii.java",
           "sha": "0f638764b91cd301926b1aeeabe907dcb5ffefed",
           "lastSyncedAt": "2026-11-07T05:33:29.235Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "88",
+      "title": "Merge Sorted Array",
+      "slug": "merge-sorted-array",
+      "problemName": "0088-merge-sorted-array",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/merge-sorted-array/",
+      "folderPath": "Easy/0088-merge-sorted-array/",
+      "readmePath": "Easy/0088-merge-sorted-array/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "0088-merge-sorted-array.java",
+          "path": "Easy/0088-merge-sorted-array/Java/0088-merge-sorted-array.java",
+          "sha": "c3ee8e10511ac436f7703687b080dcd98d9f2889",
+          "lastSyncedAt": "2026-11-07T05:36:33.726Z"
         }
       ]
     },
