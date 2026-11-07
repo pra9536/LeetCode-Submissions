@@ -5,7 +5,7 @@
     "name": "Two Pointers",
     "tagId": "9"
   },
-  "updatedAt": "2026-11-07T05:35:34.750Z",
+  "updatedAt": "2026-11-07T05:35:52.030Z",
   "problems": [
     {
       "frontendId": "15",
@@ -404,6 +404,26 @@
           "path": "Medium/2130-maximum-twin-sum-of-a-linked-list/Java/2130-maximum-twin-sum-of-a-linked-list.java",
           "sha": "ae61445f6ffa66fb6697fd38c2672c25fdf1c216",
           "lastSyncedAt": "2026-11-07T05:34:10.618Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "2486",
+      "title": "Append Characters to String to Make Subsequence",
+      "slug": "append-characters-to-string-to-make-subsequence",
+      "problemName": "2486-append-characters-to-string-to-make-subsequence",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/append-characters-to-string-to-make-subsequence/",
+      "folderPath": "Medium/2486-append-characters-to-string-to-make-subsequence/",
+      "readmePath": "Medium/2486-append-characters-to-string-to-make-subsequence/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "2486-append-characters-to-string-to-make-subsequence.java",
+          "path": "Medium/2486-append-characters-to-string-to-make-subsequence/Java/2486-append-characters-to-string-to-make-subsequence.java",
+          "sha": "506cbeff5533c192e8e6f4b830f76e6aa7691285",
+          "lastSyncedAt": "2026-11-07T05:35:52.030Z"
         }
       ]
     }
