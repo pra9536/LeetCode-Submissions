@@ -5,8 +5,28 @@
     "name": "Simulation",
     "tagId": "61055"
   },
-  "updatedAt": "2026-11-07T05:47:26.773Z",
+  "updatedAt": "2026-11-07T05:47:49.207Z",
   "problems": [
+    {
+      "frontendId": "1914",
+      "title": "Cyclically Rotating a Grid",
+      "slug": "cyclically-rotating-a-grid",
+      "problemName": "1914-cyclically-rotating-a-grid",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/cyclically-rotating-a-grid/",
+      "folderPath": "Medium/1914-cyclically-rotating-a-grid/",
+      "readmePath": "Medium/1914-cyclically-rotating-a-grid/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "1914-cyclically-rotating-a-grid.java",
+          "path": "Medium/1914-cyclically-rotating-a-grid/Java/1914-cyclically-rotating-a-grid.java",
+          "sha": "87e01e76207016fe70632c6ecc8855bea07dabbc",
+          "lastSyncedAt": "2026-11-07T05:47:49.207Z"
+        }
+      ]
+    },
     {
       "frontendId": "2553",
       "title": "Separate the Digits in an Array",
