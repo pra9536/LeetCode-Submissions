@@ -5,7 +5,7 @@
     "name": "String",
     "tagId": "10"
   },
-  "updatedAt": "2026-11-07T04:57:11.255Z",
+  "updatedAt": "2026-11-07T04:57:21.361Z",
   "problems": [
     {
       "frontendId": "3",
@@ -144,6 +144,26 @@
           "path": "Medium/0151-reverse-words-in-a-string/Java/0151-reverse-words-in-a-string.java",
           "sha": "4adb5b01e72983245f3df83e8239f3c891e9d7b0",
           "lastSyncedAt": "2026-11-07T04:53:17.858Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "205",
+      "title": "Isomorphic Strings",
+      "slug": "isomorphic-strings",
+      "problemName": "0205-isomorphic-strings",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/isomorphic-strings/",
+      "folderPath": "Easy/0205-isomorphic-strings/",
+      "readmePath": "Easy/0205-isomorphic-strings/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "0205-isomorphic-strings.java",
+          "path": "Easy/0205-isomorphic-strings/Java/0205-isomorphic-strings.java",
+          "sha": "3fe3f7cac520c3424b0e379b24dfd5d3754be73b",
+          "lastSyncedAt": "2026-11-07T04:57:21.361Z"
         }
       ]
     },
