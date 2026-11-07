@@ -5,7 +5,7 @@
     "name": "Array",
     "tagId": "5"
   },
-  "updatedAt": "2026-11-07T05:51:35.733Z",
+  "updatedAt": "2026-11-07T05:52:15.798Z",
   "problems": [
     {
       "frontendId": "1",
@@ -144,6 +144,26 @@
           "path": "Medium/0034-find-first-and-last-position-of-element-in-sorted-array/Java/0034-find-first-and-last-position-of-element-in-sorted-array.java",
           "sha": "64b6980149ac5a14d4d00afbf62a0c1104326d00",
           "lastSyncedAt": "2026-11-07T05:30:07.059Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "46",
+      "title": "Permutations",
+      "slug": "permutations",
+      "problemName": "0046-permutations",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/permutations/",
+      "folderPath": "Medium/0046-permutations/",
+      "readmePath": "Medium/0046-permutations/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "0046-permutations.java",
+          "path": "Medium/0046-permutations/Java/0046-permutations.java",
+          "sha": "e96fd24558a2ef59395f3446afca8470f020c206",
+          "lastSyncedAt": "2026-11-07T05:52:15.798Z"
         }
       ]
     },
