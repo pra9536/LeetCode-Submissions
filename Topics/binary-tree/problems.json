@@ -5,7 +5,7 @@
     "name": "Binary Tree",
     "tagId": "61057"
   },
-  "updatedAt": "2026-11-07T06:02:52.520Z",
+  "updatedAt": "2026-11-07T06:03:22.002Z",
   "problems": [
     {
       "frontendId": "94",
@@ -284,6 +284,26 @@
           "path": "Medium/0199-binary-tree-right-side-view/Java/0199-binary-tree-right-side-view.java",
           "sha": "b2a11e639c9720a2569cec1667bb00b626222182",
           "lastSyncedAt": "2026-11-07T05:59:44.570Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "222",
+      "title": "Count Complete Tree Nodes",
+      "slug": "count-complete-tree-nodes",
+      "problemName": "0222-count-complete-tree-nodes",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/count-complete-tree-nodes/",
+      "folderPath": "Medium/0222-count-complete-tree-nodes/",
+      "readmePath": "Medium/0222-count-complete-tree-nodes/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "0222-count-complete-tree-nodes.java",
+          "path": "Medium/0222-count-complete-tree-nodes/Java/0222-count-complete-tree-nodes.java",
+          "sha": "f681b49fa710118c35b3848d65b612604f17e7be",
+          "lastSyncedAt": "2026-11-07T06:03:22.002Z"
         }
       ]
     },
