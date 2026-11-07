@@ -5,7 +5,7 @@
     "name": "Backtracking",
     "tagId": "14"
   },
-  "updatedAt": "2026-11-07T05:52:15.798Z",
+  "updatedAt": "2026-11-07T06:01:04.086Z",
   "problems": [
     {
       "frontendId": "46",
@@ -24,6 +24,26 @@
           "path": "Medium/0046-permutations/Java/0046-permutations.java",
           "sha": "e96fd24558a2ef59395f3446afca8470f020c206",
           "lastSyncedAt": "2026-11-07T05:52:15.798Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "257",
+      "title": "Binary Tree Paths",
+      "slug": "binary-tree-paths",
+      "problemName": "0257-binary-tree-paths",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/binary-tree-paths/",
+      "folderPath": "Easy/0257-binary-tree-paths/",
+      "readmePath": "Easy/0257-binary-tree-paths/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "0257-binary-tree-paths.java",
+          "path": "Easy/0257-binary-tree-paths/Java/0257-binary-tree-paths.java",
+          "sha": "39a736a7de3ee4530b13a7821ab7a342b6cc38ab",
+          "lastSyncedAt": "2026-11-07T06:01:04.086Z"
         }
       ]
     }
