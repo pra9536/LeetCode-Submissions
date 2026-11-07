@@ -5,7 +5,7 @@
     "name": "Array",
     "tagId": "5"
   },
-  "updatedAt": "2026-11-07T04:50:04.002Z",
+  "updatedAt": "2026-11-07T04:50:18.863Z",
   "problems": [
     {
       "frontendId": "1",
@@ -24,6 +24,26 @@
           "path": "0001-two-sum/0001-two-sum.java",
           "sha": "8a77007fa25bf7258224400afd8ba0236f784afb",
           "lastSyncedAt": "2026-11-07T04:49:11.774Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "15",
+      "title": "3Sum",
+      "slug": "3sum",
+      "problemName": "0015-3sum",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/3sum/",
+      "folderPath": "Medium/0015-3sum/",
+      "readmePath": "Medium/0015-3sum/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "0015-3sum.java",
+          "path": "Medium/0015-3sum/Java/0015-3sum.java",
+          "sha": "f9acdca275ed72a384a5a6e8cdf96c0418db2b36",
+          "lastSyncedAt": "2026-11-07T04:50:18.863Z"
         }
       ]
     },
