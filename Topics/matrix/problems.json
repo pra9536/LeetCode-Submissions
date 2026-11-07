@@ -5,7 +5,7 @@
     "name": "Matrix",
     "tagId": "61053"
   },
-  "updatedAt": "2026-11-07T05:47:49.207Z",
+  "updatedAt": "2026-11-07T05:49:07.539Z",
   "problems": [
     {
       "frontendId": "48",
@@ -164,6 +164,26 @@
           "path": "Medium/1277-count-square-submatrices-with-all-ones/Java/1277-count-square-submatrices-with-all-ones.java",
           "sha": "02817b529bc0867ff0def23d66a556e90452aced",
           "lastSyncedAt": "2026-11-07T04:59:24.580Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "1861",
+      "title": "Rotating the Box",
+      "slug": "rotating-the-box",
+      "problemName": "1861-rotating-the-box",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/rotating-the-box/",
+      "folderPath": "Medium/1861-rotating-the-box/",
+      "readmePath": "Medium/1861-rotating-the-box/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "1861-rotating-the-box.java",
+          "path": "Medium/1861-rotating-the-box/Java/1861-rotating-the-box.java",
+          "sha": "4e199ff9838de8d025569c77f97681c2d62ab370",
+          "lastSyncedAt": "2026-11-07T05:49:07.539Z"
         }
       ]
     },
