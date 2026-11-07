@@ -5,7 +5,7 @@
     "name": "Dynamic Programming",
     "tagId": "13"
   },
-  "updatedAt": "2026-11-07T05:40:36.282Z",
+  "updatedAt": "2026-11-07T05:42:41.670Z",
   "problems": [
     {
       "frontendId": "53",
@@ -284,6 +284,26 @@
           "path": "Medium/1277-count-square-submatrices-with-all-ones/Java/1277-count-square-submatrices-with-all-ones.java",
           "sha": "02817b529bc0867ff0def23d66a556e90452aced",
           "lastSyncedAt": "2026-11-07T04:59:24.580Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "3946",
+      "title": "Maximum Number of Items From Sale I",
+      "slug": "maximum-number-of-items-from-sale-i",
+      "problemName": "3946-maximum-number-of-items-from-sale-i",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/maximum-number-of-items-from-sale-i/",
+      "folderPath": "Medium/3946-maximum-number-of-items-from-sale-i/",
+      "readmePath": "Medium/3946-maximum-number-of-items-from-sale-i/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "3946-maximum-number-of-items-from-sale-i.java",
+          "path": "Medium/3946-maximum-number-of-items-from-sale-i/Java/3946-maximum-number-of-items-from-sale-i.java",
+          "sha": "25aefa42c58209768155114130a8e1d2c58613d9",
+          "lastSyncedAt": "2026-11-07T05:42:41.670Z"
         }
       ]
     },
