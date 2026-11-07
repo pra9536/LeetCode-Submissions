@@ -5,7 +5,7 @@
     "name": "Array",
     "tagId": "5"
   },
-  "updatedAt": "2026-11-07T05:40:15.473Z",
+  "updatedAt": "2026-11-07T05:40:36.282Z",
   "problems": [
     {
       "frontendId": "1",
@@ -1064,6 +1064,26 @@
           "path": "Medium/3904-smallest-stable-index-ii/Java/3904-smallest-stable-index-ii.java",
           "sha": "b9e04d5f328f764b3493c25b1cacedd56c5057e1",
           "lastSyncedAt": "2026-11-07T04:54:50.775Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "3976",
+      "title": "Maximum Subarray Sum After Multiplier",
+      "slug": "maximum-subarray-sum-after-multiplier",
+      "problemName": "3976-maximum-subarray-sum-after-multiplier",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/maximum-subarray-sum-after-multiplier/",
+      "folderPath": "Medium/3976-maximum-subarray-sum-after-multiplier/",
+      "readmePath": "Medium/3976-maximum-subarray-sum-after-multiplier/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "3976-maximum-subarray-sum-after-multiplier.java",
+          "path": "Medium/3976-maximum-subarray-sum-after-multiplier/Java/3976-maximum-subarray-sum-after-multiplier.java",
+          "sha": "0d94b88b9bffe30569ab0e98570e0ef7d521dbbd",
+          "lastSyncedAt": "2026-11-07T05:40:36.282Z"
         }
       ]
     },
