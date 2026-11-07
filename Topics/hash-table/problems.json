@@ -5,7 +5,7 @@
     "name": "Hash Table",
     "tagId": "6"
   },
-  "updatedAt": "2026-11-07T05:44:04.535Z",
+  "updatedAt": "2026-11-07T05:44:16.296Z",
   "problems": [
     {
       "frontendId": "1",
@@ -424,6 +424,26 @@
           "path": "Medium/2461-maximum-sum-of-distinct-subarrays-with-length-k/Java/2461-maximum-sum-of-distinct-subarrays-with-length-k.java",
           "sha": "7147f1a578d09c45fa106b33e987a5b10f5bdc20",
           "lastSyncedAt": "2026-11-07T05:28:07.657Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "3120",
+      "title": "Count the Number of Special Characters I",
+      "slug": "count-the-number-of-special-characters-i",
+      "problemName": "3120-count-the-number-of-special-characters-i",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/count-the-number-of-special-characters-i/",
+      "folderPath": "Easy/3120-count-the-number-of-special-characters-i/",
+      "readmePath": "Easy/3120-count-the-number-of-special-characters-i/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "3120-count-the-number-of-special-characters-i.java",
+          "path": "Easy/3120-count-the-number-of-special-characters-i/Java/3120-count-the-number-of-special-characters-i.java",
+          "sha": "db10cd8980552bc7440aebbcad605af19c04e871",
+          "lastSyncedAt": "2026-11-07T05:44:16.296Z"
         }
       ]
     },
