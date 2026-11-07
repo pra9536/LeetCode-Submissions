@@ -5,7 +5,7 @@
     "name": "Two Pointers",
     "tagId": "9"
   },
-  "updatedAt": "2026-11-07T05:41:33.787Z",
+  "updatedAt": "2026-11-07T05:45:44.545Z",
   "problems": [
     {
       "frontendId": "15",
@@ -544,6 +544,26 @@
           "path": "Medium/2486-append-characters-to-string-to-make-subsequence/Java/2486-append-characters-to-string-to-make-subsequence.java",
           "sha": "506cbeff5533c192e8e6f4b830f76e6aa7691285",
           "lastSyncedAt": "2026-11-07T05:35:52.030Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "2540",
+      "title": "Minimum Common Value",
+      "slug": "minimum-common-value",
+      "problemName": "2540-minimum-common-value",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/minimum-common-value/",
+      "folderPath": "Easy/2540-minimum-common-value/",
+      "readmePath": "Easy/2540-minimum-common-value/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "2540-minimum-common-value.java",
+          "path": "Easy/2540-minimum-common-value/Java/2540-minimum-common-value.java",
+          "sha": "662e705b4a896ecf10bef0308da9971619e2d2d3",
+          "lastSyncedAt": "2026-11-07T05:45:44.545Z"
         }
       ]
     },
