@@ -5,7 +5,7 @@
     "name": "Database",
     "tagId": "61043"
   },
-  "updatedAt": "2026-11-07T04:58:42.075Z",
+  "updatedAt": "2026-11-07T04:58:49.473Z",
   "problems": [
     {
       "frontendId": "197",
@@ -144,6 +144,26 @@
           "path": "Easy/1661-average-time-of-process-per-machine/MySQL/1661-average-time-of-process-per-machine.sql",
           "sha": "18d538579094a9e346eb3bf52f966931119aad61",
           "lastSyncedAt": "2026-11-07T04:58:13.259Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "1683",
+      "title": "Invalid Tweets",
+      "slug": "invalid-tweets",
+      "problemName": "1683-invalid-tweets",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/invalid-tweets/",
+      "folderPath": "Easy/1683-invalid-tweets/",
+      "readmePath": "Easy/1683-invalid-tweets/README.md",
+      "solutions": [
+        {
+          "language": "MySQL",
+          "extension": ".sql",
+          "filename": "1683-invalid-tweets.sql",
+          "path": "Easy/1683-invalid-tweets/MySQL/1683-invalid-tweets.sql",
+          "sha": "c590521cca0d74d238fc4808bb662c877921aad6",
+          "lastSyncedAt": "2026-11-07T04:58:49.473Z"
         }
       ]
     }
