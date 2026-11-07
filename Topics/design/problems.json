@@ -5,7 +5,7 @@
     "name": "Design",
     "tagId": "25"
   },
-  "updatedAt": "2026-11-07T05:30:42.875Z",
+  "updatedAt": "2026-11-07T05:35:21.798Z",
   "problems": [
     {
       "frontendId": "232",
@@ -24,6 +24,26 @@
           "path": "Easy/0232-implement-queue-using-stacks/Java/0232-implement-queue-using-stacks.java",
           "sha": "75f356c950b9ff29b995b38c958f1dcf8a2b0aff",
           "lastSyncedAt": "2026-11-07T05:30:42.875Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "707",
+      "title": "Design Linked List",
+      "slug": "design-linked-list",
+      "problemName": "0707-design-linked-list",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/design-linked-list/",
+      "folderPath": "Medium/0707-design-linked-list/",
+      "readmePath": "Medium/0707-design-linked-list/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "0707-design-linked-list.java",
+          "path": "Medium/0707-design-linked-list/Java/0707-design-linked-list.java",
+          "sha": "a10fd9fc5a1e4b0075fdf31be1dc2cf04878b3d6",
+          "lastSyncedAt": "2026-11-07T05:35:21.798Z"
         }
       ]
     }
