@@ -5,7 +5,7 @@
     "name": "Merge Sort",
     "tagId": "61051"
   },
-  "updatedAt": "2026-11-07T05:31:37.201Z",
+  "updatedAt": "2026-11-07T06:08:36.410Z",
   "problems": [
     {
       "frontendId": "148",
@@ -24,6 +24,26 @@
           "path": "Medium/0148-sort-list/Java/0148-sort-list.java",
           "sha": "2a785304ac3237bccdbf03bc2334d8741dcea871",
           "lastSyncedAt": "2026-11-07T05:31:37.201Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "912",
+      "title": "Sort an Array",
+      "slug": "sort-an-array",
+      "problemName": "0912-sort-an-array",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/sort-an-array/",
+      "folderPath": "Medium/0912-sort-an-array/",
+      "readmePath": "Medium/0912-sort-an-array/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "0912-sort-an-array.java",
+          "path": "Medium/0912-sort-an-array/Java/0912-sort-an-array.java",
+          "sha": "76f174f07938225365b1d396c9e763b7a6564b05",
+          "lastSyncedAt": "2026-11-07T06:08:36.410Z"
         }
       ]
     }
