@@ -5,7 +5,7 @@
     "name": "Array",
     "tagId": "5"
   },
-  "updatedAt": "2026-11-07T05:02:22.808Z",
+  "updatedAt": "2026-11-07T05:28:07.657Z",
   "problems": [
     {
       "frontendId": "1",
@@ -644,6 +644,26 @@
           "path": "Medium/1985-find-the-kth-largest-integer-in-the-array/Java/1985-find-the-kth-largest-integer-in-the-array.java",
           "sha": "abcb95153cc1da01a5de7745fb54c473abc09f8d",
           "lastSyncedAt": "2026-11-07T04:56:47.876Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "2461",
+      "title": "Maximum Sum of Distinct Subarrays With Length K",
+      "slug": "maximum-sum-of-distinct-subarrays-with-length-k",
+      "problemName": "2461-maximum-sum-of-distinct-subarrays-with-length-k",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/maximum-sum-of-distinct-subarrays-with-length-k/",
+      "folderPath": "Medium/2461-maximum-sum-of-distinct-subarrays-with-length-k/",
+      "readmePath": "Medium/2461-maximum-sum-of-distinct-subarrays-with-length-k/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "2461-maximum-sum-of-distinct-subarrays-with-length-k.java",
+          "path": "Medium/2461-maximum-sum-of-distinct-subarrays-with-length-k/Java/2461-maximum-sum-of-distinct-subarrays-with-length-k.java",
+          "sha": "7147f1a578d09c45fa106b33e987a5b10f5bdc20",
+          "lastSyncedAt": "2026-11-07T05:28:07.657Z"
         }
       ]
     },
