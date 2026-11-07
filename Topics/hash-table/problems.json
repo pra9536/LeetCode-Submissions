@@ -5,7 +5,7 @@
     "name": "Hash Table",
     "tagId": "6"
   },
-  "updatedAt": "2026-11-07T05:54:24.344Z",
+  "updatedAt": "2026-11-07T05:57:53.093Z",
   "problems": [
     {
       "frontendId": "1",
@@ -104,6 +104,26 @@
           "path": "Medium/0049-group-anagrams/Java/0049-group-anagrams.java",
           "sha": "8ea55edef11538716508c8c4f9b35e402b0c8d8f",
           "lastSyncedAt": "2026-11-07T04:48:31.483Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "106",
+      "title": "Construct Binary Tree from Inorder and Postorder Traversal",
+      "slug": "construct-binary-tree-from-inorder-and-postorder-traversal",
+      "problemName": "0106-construct-binary-tree-from-inorder-and-postorder-traversal",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/construct-binary-tree-from-inorder-and-postorder-traversal/",
+      "folderPath": "Medium/0106-construct-binary-tree-from-inorder-and-postorder-traversal/",
+      "readmePath": "Medium/0106-construct-binary-tree-from-inorder-and-postorder-traversal/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "0106-construct-binary-tree-from-inorder-and-postorder-traversal.java",
+          "path": "Medium/0106-construct-binary-tree-from-inorder-and-postorder-traversal/Java/0106-construct-binary-tree-from-inorder-and-postorder-traversal.java",
+          "sha": "21a8668331fb0bb2bb53f38dc6ed68aca4524b1b",
+          "lastSyncedAt": "2026-11-07T05:57:53.093Z"
         }
       ]
     },
