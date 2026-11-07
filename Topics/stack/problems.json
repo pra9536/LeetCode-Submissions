@@ -5,7 +5,7 @@
     "name": "Stack",
     "tagId": "15"
   },
-  "updatedAt": "2026-11-07T06:05:35.150Z",
+  "updatedAt": "2026-11-07T06:05:48.188Z",
   "problems": [
     {
       "frontendId": "20",
@@ -404,6 +404,26 @@
           "path": "Medium/2130-maximum-twin-sum-of-a-linked-list/Java/2130-maximum-twin-sum-of-a-linked-list.java",
           "sha": "ae61445f6ffa66fb6697fd38c2672c25fdf1c216",
           "lastSyncedAt": "2026-11-07T05:34:10.618Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "2487",
+      "title": "Remove Nodes From Linked List",
+      "slug": "remove-nodes-from-linked-list",
+      "problemName": "2487-remove-nodes-from-linked-list",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/remove-nodes-from-linked-list/",
+      "folderPath": "Medium/2487-remove-nodes-from-linked-list/",
+      "readmePath": "Medium/2487-remove-nodes-from-linked-list/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "2487-remove-nodes-from-linked-list.java",
+          "path": "Medium/2487-remove-nodes-from-linked-list/Java/2487-remove-nodes-from-linked-list.java",
+          "sha": "ca34bd5aa58a66f564bf464ee5b0625838b34de9",
+          "lastSyncedAt": "2026-11-07T06:05:48.188Z"
         }
       ]
     },
