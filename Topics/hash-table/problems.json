@@ -5,7 +5,7 @@
     "name": "Hash Table",
     "tagId": "6"
   },
-  "updatedAt": "2026-11-07T05:42:23.088Z",
+  "updatedAt": "2026-11-07T05:42:56.433Z",
   "problems": [
     {
       "frontendId": "1",
@@ -424,6 +424,26 @@
           "path": "Medium/2461-maximum-sum-of-distinct-subarrays-with-length-k/Java/2461-maximum-sum-of-distinct-subarrays-with-length-k.java",
           "sha": "7147f1a578d09c45fa106b33e987a5b10f5bdc20",
           "lastSyncedAt": "2026-11-07T05:28:07.657Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "3945",
+      "title": "Digit Frequency Score",
+      "slug": "digit-frequency-score",
+      "problemName": "3945-digit-frequency-score",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/digit-frequency-score/",
+      "folderPath": "Easy/3945-digit-frequency-score/",
+      "readmePath": "Easy/3945-digit-frequency-score/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "3945-digit-frequency-score.java",
+          "path": "Easy/3945-digit-frequency-score/Java/3945-digit-frequency-score.java",
+          "sha": "323e84e2ad86f86ce80e708995155032000f874e",
+          "lastSyncedAt": "2026-11-07T05:42:56.433Z"
         }
       ]
     },
