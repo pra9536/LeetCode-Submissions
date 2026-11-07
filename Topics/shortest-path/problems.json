@@ -1,0 +1,31 @@
+{
+  "version": 1,
+  "topic": {
+    "slug": "shortest-path",
+    "name": "Shortest Path",
+    "tagId": "61076"
+  },
+  "updatedAt": "2026-11-07T05:40:15.473Z",
+  "problems": [
+    {
+      "frontendId": "3977",
+      "title": "Minimum Time to Reach Target With Limited Power",
+      "slug": "minimum-time-to-reach-target-with-limited-power",
+      "problemName": "3977-minimum-time-to-reach-target-with-limited-power",
+      "difficulty": "Hard",
+      "leetcodeUrl": "https://leetcode.com/problems/minimum-time-to-reach-target-with-limited-power/",
+      "folderPath": "Hard/3977-minimum-time-to-reach-target-with-limited-power/",
+      "readmePath": "Hard/3977-minimum-time-to-reach-target-with-limited-power/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "3977-minimum-time-to-reach-target-with-limited-power.java",
+          "path": "Hard/3977-minimum-time-to-reach-target-with-limited-power/Java/3977-minimum-time-to-reach-target-with-limited-power.java",
+          "sha": "6e674db95f36bc2fdc9f0417add91805f8291f8f",
+          "lastSyncedAt": "2026-11-07T05:40:15.473Z"
+        }
+      ]
+    }
+  ]
+}
