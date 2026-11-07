@@ -1,0 +1,31 @@
+{
+  "version": 1,
+  "topic": {
+    "slug": "interactive",
+    "name": "Interactive",
+    "tagId": "61059"
+  },
+  "updatedAt": "2026-11-07T05:29:10.786Z",
+  "problems": [
+    {
+      "frontendId": "278",
+      "title": "First Bad Version",
+      "slug": "first-bad-version",
+      "problemName": "0278-first-bad-version",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/first-bad-version/",
+      "folderPath": "Easy/0278-first-bad-version/",
+      "readmePath": "Easy/0278-first-bad-version/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "0278-first-bad-version.java",
+          "path": "Easy/0278-first-bad-version/Java/0278-first-bad-version.java",
+          "sha": "d4e499310e1b6d29408180e5be7a11322c6897e6",
+          "lastSyncedAt": "2026-11-07T05:29:10.786Z"
+        }
+      ]
+    }
+  ]
+}
