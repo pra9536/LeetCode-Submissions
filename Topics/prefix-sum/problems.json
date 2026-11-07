@@ -5,7 +5,7 @@
     "name": "Prefix Sum",
     "tagId": "61068"
   },
-  "updatedAt": "2026-11-07T05:46:58.229Z",
+  "updatedAt": "2026-11-07T06:06:32.331Z",
   "problems": [
     {
       "frontendId": "209",
@@ -84,6 +84,26 @@
           "path": "Medium/0731-my-calendar-ii/Java/0731-my-calendar-ii.java",
           "sha": "eb8dc47db0b2e48891b93187d96734db67160401",
           "lastSyncedAt": "2026-11-07T05:38:06.104Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "1004",
+      "title": "Max Consecutive Ones III",
+      "slug": "max-consecutive-ones-iii",
+      "problemName": "1004-max-consecutive-ones-iii",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/max-consecutive-ones-iii/",
+      "folderPath": "Medium/1004-max-consecutive-ones-iii/",
+      "readmePath": "Medium/1004-max-consecutive-ones-iii/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "1004-max-consecutive-ones-iii.java",
+          "path": "Medium/1004-max-consecutive-ones-iii/Java/1004-max-consecutive-ones-iii.java",
+          "sha": "2f9ccd85f30562aaa64e1dd94df888c3d55188bc",
+          "lastSyncedAt": "2026-11-07T06:06:32.331Z"
         }
       ]
     },
