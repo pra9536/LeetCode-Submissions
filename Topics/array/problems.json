@@ -5,7 +5,7 @@
     "name": "Array",
     "tagId": "5"
   },
-  "updatedAt": "2026-11-07T04:59:49.694Z",
+  "updatedAt": "2026-11-07T05:00:41.341Z",
   "problems": [
     {
       "frontendId": "1",
@@ -244,6 +244,26 @@
           "path": "Easy/0169-majority-element/Java/0169-majority-element.java",
           "sha": "dec4403616fbd7ade1966f8470dda8f125fedc57",
           "lastSyncedAt": "2026-11-07T04:48:00.380Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "198",
+      "title": "House Robber",
+      "slug": "house-robber",
+      "problemName": "0198-house-robber",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/house-robber/",
+      "folderPath": "Medium/0198-house-robber/",
+      "readmePath": "Medium/0198-house-robber/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "0198-house-robber.java",
+          "path": "Medium/0198-house-robber/Java/0198-house-robber.java",
+          "sha": "5837418dc5fbfee14cfda0a0330191258376d56c",
+          "lastSyncedAt": "2026-11-07T05:00:41.341Z"
         }
       ]
     },
