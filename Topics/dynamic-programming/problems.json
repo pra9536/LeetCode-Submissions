@@ -5,7 +5,7 @@
     "name": "Dynamic Programming",
     "tagId": "13"
   },
-  "updatedAt": "2026-11-07T05:47:38.264Z",
+  "updatedAt": "2026-11-07T05:48:44.774Z",
   "problems": [
     {
       "frontendId": "53",
@@ -344,6 +344,26 @@
           "path": "Medium/2770-maximum-number-of-jumps-to-reach-the-last-index/Java/2770-maximum-number-of-jumps-to-reach-the-last-index.java",
           "sha": "6b821046ae54fd29282fb3c225d1767c879baace",
           "lastSyncedAt": "2026-11-07T05:47:38.264Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "3660",
+      "title": "Jump Game IX",
+      "slug": "jump-game-ix",
+      "problemName": "3660-jump-game-ix",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/jump-game-ix/",
+      "folderPath": "Medium/3660-jump-game-ix/",
+      "readmePath": "Medium/3660-jump-game-ix/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "3660-jump-game-ix.java",
+          "path": "Medium/3660-jump-game-ix/Java/3660-jump-game-ix.java",
+          "sha": "3f631cbb052ac535d146d77653ba7decbe71078b",
+          "lastSyncedAt": "2026-11-07T05:48:44.774Z"
         }
       ]
     },
