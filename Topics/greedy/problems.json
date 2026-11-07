@@ -5,7 +5,7 @@
     "name": "Greedy",
     "tagId": "17"
   },
-  "updatedAt": "2026-11-07T05:55:02.177Z",
+  "updatedAt": "2026-11-07T05:55:15.479Z",
   "problems": [
     {
       "frontendId": "45",
@@ -64,6 +64,26 @@
           "path": "Easy/0680-valid-palindrome-ii/Java/0680-valid-palindrome-ii.java",
           "sha": "747550b712ba69bc8b2cbecd7b5f84e006891187",
           "lastSyncedAt": "2026-11-07T04:46:48.416Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "860",
+      "title": "Lemonade Change",
+      "slug": "lemonade-change",
+      "problemName": "0860-lemonade-change",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/lemonade-change/",
+      "folderPath": "Easy/0860-lemonade-change/",
+      "readmePath": "Easy/0860-lemonade-change/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "0860-lemonade-change.java",
+          "path": "Easy/0860-lemonade-change/Java/0860-lemonade-change.java",
+          "sha": "32f38c49ca8f1293c0c240203f4b06942d904012",
+          "lastSyncedAt": "2026-11-07T05:55:15.479Z"
         }
       ]
     },
