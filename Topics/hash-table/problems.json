@@ -5,7 +5,7 @@
     "name": "Hash Table",
     "tagId": "6"
   },
-  "updatedAt": "2026-11-07T05:44:59.758Z",
+  "updatedAt": "2026-11-07T05:45:30.756Z",
   "problems": [
     {
       "frontendId": "1",
@@ -424,6 +424,26 @@
           "path": "Medium/2461-maximum-sum-of-distinct-subarrays-with-length-k/Java/2461-maximum-sum-of-distinct-subarrays-with-length-k.java",
           "sha": "7147f1a578d09c45fa106b33e987a5b10f5bdc20",
           "lastSyncedAt": "2026-11-07T05:28:07.657Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "2657",
+      "title": "Find the Prefix Common Array of Two Arrays",
+      "slug": "find-the-prefix-common-array-of-two-arrays",
+      "problemName": "2657-find-the-prefix-common-array-of-two-arrays",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/find-the-prefix-common-array-of-two-arrays/",
+      "folderPath": "Medium/2657-find-the-prefix-common-array-of-two-arrays/",
+      "readmePath": "Medium/2657-find-the-prefix-common-array-of-two-arrays/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "2657-find-the-prefix-common-array-of-two-arrays.java",
+          "path": "Medium/2657-find-the-prefix-common-array-of-two-arrays/Java/2657-find-the-prefix-common-array-of-two-arrays.java",
+          "sha": "d5078ad7e97d2cd4b9400ae40a0a31ec4e4cb8f1",
+          "lastSyncedAt": "2026-11-07T05:45:30.756Z"
         }
       ]
     },
