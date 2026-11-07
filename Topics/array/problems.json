@@ -5,7 +5,7 @@
     "name": "Array",
     "tagId": "5"
   },
-  "updatedAt": "2026-11-07T05:45:30.756Z",
+  "updatedAt": "2026-11-07T05:45:44.545Z",
   "problems": [
     {
       "frontendId": "1",
@@ -1104,6 +1104,26 @@
           "path": "Medium/2461-maximum-sum-of-distinct-subarrays-with-length-k/Java/2461-maximum-sum-of-distinct-subarrays-with-length-k.java",
           "sha": "7147f1a578d09c45fa106b33e987a5b10f5bdc20",
           "lastSyncedAt": "2026-11-07T05:28:07.657Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "2540",
+      "title": "Minimum Common Value",
+      "slug": "minimum-common-value",
+      "problemName": "2540-minimum-common-value",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/minimum-common-value/",
+      "folderPath": "Easy/2540-minimum-common-value/",
+      "readmePath": "Easy/2540-minimum-common-value/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "2540-minimum-common-value.java",
+          "path": "Easy/2540-minimum-common-value/Java/2540-minimum-common-value.java",
+          "sha": "662e705b4a896ecf10bef0308da9971619e2d2d3",
+          "lastSyncedAt": "2026-11-07T05:45:44.545Z"
         }
       ]
     },
