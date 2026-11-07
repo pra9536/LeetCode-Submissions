@@ -5,7 +5,7 @@
     "name": "Array",
     "tagId": "5"
   },
-  "updatedAt": "2026-11-07T07:02:43.632Z",
+  "updatedAt": "2026-11-07T07:04:48.983Z",
   "problems": [
     {
       "frontendId": "1",
@@ -143,7 +143,7 @@
           "filename": "0027-remove-element.java",
           "path": "Easy/0027-remove-element/Java/0027-remove-element.java",
           "sha": "cd8d7fa2026666721d8e8a0cdb5f4a7eabac9bb2",
-          "lastSyncedAt": "2026-11-07T07:02:43.632Z"
+          "lastSyncedAt": "2026-11-07T07:04:48.983Z"
         }
       ]
     },
