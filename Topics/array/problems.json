@@ -5,7 +5,7 @@
     "name": "Array",
     "tagId": "5"
   },
-  "updatedAt": "2026-11-07T06:07:20.130Z",
+  "updatedAt": "2026-11-07T06:07:33.846Z",
   "problems": [
     {
       "frontendId": "1",
@@ -2244,6 +2244,26 @@
           "path": "3727-maximum-alternating-sum-of-squares/3727-maximum-alternating-sum-of-squares.java",
           "sha": "4db73161832719e06acf563ac2a200a8c2781163",
           "lastSyncedAt": "2026-11-07T04:49:21.429Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "3838",
+      "title": "Weighted Word Mapping",
+      "slug": "weighted-word-mapping",
+      "problemName": "3838-weighted-word-mapping",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/weighted-word-mapping/",
+      "folderPath": "Easy/3838-weighted-word-mapping/",
+      "readmePath": "Easy/3838-weighted-word-mapping/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "3838-weighted-word-mapping.java",
+          "path": "Easy/3838-weighted-word-mapping/Java/3838-weighted-word-mapping.java",
+          "sha": "8607c00984be8d25906de19c3ed22b04fd12e68d",
+          "lastSyncedAt": "2026-11-07T06:07:33.846Z"
         }
       ]
     },
