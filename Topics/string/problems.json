@@ -5,7 +5,7 @@
     "name": "String",
     "tagId": "10"
   },
-  "updatedAt": "2026-11-07T05:31:26.930Z",
+  "updatedAt": "2026-11-07T05:35:52.030Z",
   "problems": [
     {
       "frontendId": "3",
@@ -364,6 +364,26 @@
           "path": "Medium/1985-find-the-kth-largest-integer-in-the-array/Java/1985-find-the-kth-largest-integer-in-the-array.java",
           "sha": "abcb95153cc1da01a5de7745fb54c473abc09f8d",
           "lastSyncedAt": "2026-11-07T04:56:47.876Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "2486",
+      "title": "Append Characters to String to Make Subsequence",
+      "slug": "append-characters-to-string-to-make-subsequence",
+      "problemName": "2486-append-characters-to-string-to-make-subsequence",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/append-characters-to-string-to-make-subsequence/",
+      "folderPath": "Medium/2486-append-characters-to-string-to-make-subsequence/",
+      "readmePath": "Medium/2486-append-characters-to-string-to-make-subsequence/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "2486-append-characters-to-string-to-make-subsequence.java",
+          "path": "Medium/2486-append-characters-to-string-to-make-subsequence/Java/2486-append-characters-to-string-to-make-subsequence.java",
+          "sha": "506cbeff5533c192e8e6f4b830f76e6aa7691285",
+          "lastSyncedAt": "2026-11-07T05:35:52.030Z"
         }
       ]
     },
