@@ -5,7 +5,7 @@
     "name": "Two Pointers",
     "tagId": "9"
   },
-  "updatedAt": "2026-11-07T05:35:08.113Z",
+  "updatedAt": "2026-11-07T05:35:34.750Z",
   "problems": [
     {
       "frontendId": "15",
@@ -124,6 +124,26 @@
           "path": "Medium/0082-remove-duplicates-from-sorted-list-ii/Java/0082-remove-duplicates-from-sorted-list-ii.java",
           "sha": "0f638764b91cd301926b1aeeabe907dcb5ffefed",
           "lastSyncedAt": "2026-11-07T05:33:29.235Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "141",
+      "title": "Linked List Cycle",
+      "slug": "linked-list-cycle",
+      "problemName": "0141-linked-list-cycle",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/linked-list-cycle/",
+      "folderPath": "Easy/0141-linked-list-cycle/",
+      "readmePath": "Easy/0141-linked-list-cycle/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "0141-linked-list-cycle.java",
+          "path": "Easy/0141-linked-list-cycle/Java/0141-linked-list-cycle.java",
+          "sha": "327918f360aa3a7fd65ed7b59fb493bddbbdcedf",
+          "lastSyncedAt": "2026-11-07T05:35:34.750Z"
         }
       ]
     },
