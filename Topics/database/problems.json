@@ -5,8 +5,28 @@
     "name": "Database",
     "tagId": "61043"
   },
-  "updatedAt": "2026-11-07T04:57:57.990Z",
+  "updatedAt": "2026-11-07T04:58:06.233Z",
   "problems": [
+    {
+      "frontendId": "577",
+      "title": "Employee Bonus",
+      "slug": "employee-bonus",
+      "problemName": "0577-employee-bonus",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/employee-bonus/",
+      "folderPath": "Easy/0577-employee-bonus/",
+      "readmePath": "Easy/0577-employee-bonus/README.md",
+      "solutions": [
+        {
+          "language": "MySQL",
+          "extension": ".sql",
+          "filename": "0577-employee-bonus.sql",
+          "path": "Easy/0577-employee-bonus/MySQL/0577-employee-bonus.sql",
+          "sha": "587ddf499cce3b218fe23700f1c5ae98df1237d5",
+          "lastSyncedAt": "2026-11-07T04:58:06.233Z"
+        }
+      ]
+    },
     {
       "frontendId": "1280",
       "title": "Students and Examinations",
