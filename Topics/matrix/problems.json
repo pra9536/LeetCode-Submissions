@@ -5,7 +5,7 @@
     "name": "Matrix",
     "tagId": "61053"
   },
-  "updatedAt": "2026-11-07T05:45:17.895Z",
+  "updatedAt": "2026-11-07T05:47:49.207Z",
   "problems": [
     {
       "frontendId": "48",
@@ -164,6 +164,26 @@
           "path": "Medium/1277-count-square-submatrices-with-all-ones/Java/1277-count-square-submatrices-with-all-ones.java",
           "sha": "02817b529bc0867ff0def23d66a556e90452aced",
           "lastSyncedAt": "2026-11-07T04:59:24.580Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "1914",
+      "title": "Cyclically Rotating a Grid",
+      "slug": "cyclically-rotating-a-grid",
+      "problemName": "1914-cyclically-rotating-a-grid",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/cyclically-rotating-a-grid/",
+      "folderPath": "Medium/1914-cyclically-rotating-a-grid/",
+      "readmePath": "Medium/1914-cyclically-rotating-a-grid/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "1914-cyclically-rotating-a-grid.java",
+          "path": "Medium/1914-cyclically-rotating-a-grid/Java/1914-cyclically-rotating-a-grid.java",
+          "sha": "87e01e76207016fe70632c6ecc8855bea07dabbc",
+          "lastSyncedAt": "2026-11-07T05:47:49.207Z"
         }
       ]
     }
