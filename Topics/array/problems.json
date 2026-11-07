@@ -5,7 +5,7 @@
     "name": "Array",
     "tagId": "5"
   },
-  "updatedAt": "2026-11-07T06:09:32.704Z",
+  "updatedAt": "2026-11-07T06:09:45.452Z",
   "problems": [
     {
       "frontendId": "1",
@@ -2344,6 +2344,26 @@
           "path": "3727-maximum-alternating-sum-of-squares/3727-maximum-alternating-sum-of-squares.java",
           "sha": "4db73161832719e06acf563ac2a200a8c2781163",
           "lastSyncedAt": "2026-11-07T04:49:21.429Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "3824",
+      "title": "Minimum K to Reduce Array Within Limit",
+      "slug": "minimum-k-to-reduce-array-within-limit",
+      "problemName": "3824-minimum-k-to-reduce-array-within-limit",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/minimum-k-to-reduce-array-within-limit/",
+      "folderPath": "Medium/3824-minimum-k-to-reduce-array-within-limit/",
+      "readmePath": "Medium/3824-minimum-k-to-reduce-array-within-limit/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "3824-minimum-k-to-reduce-array-within-limit.java",
+          "path": "Medium/3824-minimum-k-to-reduce-array-within-limit/Java/3824-minimum-k-to-reduce-array-within-limit.java",
+          "sha": "bfab85beb746ed6669330f65c4772053a795e236",
+          "lastSyncedAt": "2026-11-07T06:09:45.452Z"
         }
       ]
     },
