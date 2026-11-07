@@ -5,7 +5,7 @@
     "name": "Monotonic Stack",
     "tagId": "61054"
   },
-  "updatedAt": "2026-11-07T06:05:09.170Z",
+  "updatedAt": "2026-11-07T06:05:24.793Z",
   "problems": [
     {
       "frontendId": "84",
@@ -84,6 +84,26 @@
           "path": "Medium/1008-construct-binary-search-tree-from-preorder-traversal/Java/1008-construct-binary-search-tree-from-preorder-traversal.java",
           "sha": "c3fd04e23bc986218e4e01368329103e6f5d0a84",
           "lastSyncedAt": "2026-11-07T05:57:29.764Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "1944",
+      "title": "Number of Visible People in a Queue",
+      "slug": "number-of-visible-people-in-a-queue",
+      "problemName": "1944-number-of-visible-people-in-a-queue",
+      "difficulty": "Hard",
+      "leetcodeUrl": "https://leetcode.com/problems/number-of-visible-people-in-a-queue/",
+      "folderPath": "Hard/1944-number-of-visible-people-in-a-queue/",
+      "readmePath": "Hard/1944-number-of-visible-people-in-a-queue/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "1944-number-of-visible-people-in-a-queue.java",
+          "path": "Hard/1944-number-of-visible-people-in-a-queue/Java/1944-number-of-visible-people-in-a-queue.java",
+          "sha": "9368d9e2c5ec3453422afb0d6fe9fc7bef55cd17",
+          "lastSyncedAt": "2026-11-07T06:05:24.793Z"
         }
       ]
     }
