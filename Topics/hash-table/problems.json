@@ -5,7 +5,7 @@
     "name": "Hash Table",
     "tagId": "6"
   },
-  "updatedAt": "2026-11-07T05:50:20.186Z",
+  "updatedAt": "2026-11-07T05:54:24.344Z",
   "problems": [
     {
       "frontendId": "1",
@@ -424,6 +424,26 @@
           "path": "Medium/0560-subarray-sum-equals-k/Java/0560-subarray-sum-equals-k.java",
           "sha": "78a528556bdfc338922e1cb439d7fedba6b14171",
           "lastSyncedAt": "2026-11-07T05:40:00.602Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "653",
+      "title": "Two Sum IV - Input is a BST",
+      "slug": "two-sum-iv-input-is-a-bst",
+      "problemName": "0653-two-sum-iv-input-is-a-bst",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/two-sum-iv-input-is-a-bst/",
+      "folderPath": "Easy/0653-two-sum-iv-input-is-a-bst/",
+      "readmePath": "Easy/0653-two-sum-iv-input-is-a-bst/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "0653-two-sum-iv-input-is-a-bst.java",
+          "path": "Easy/0653-two-sum-iv-input-is-a-bst/Java/0653-two-sum-iv-input-is-a-bst.java",
+          "sha": "31df2e3eff6d0fae6e18634710fdffee3152be4d",
+          "lastSyncedAt": "2026-11-07T05:54:24.344Z"
         }
       ]
     },
