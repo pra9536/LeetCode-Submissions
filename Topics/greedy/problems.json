@@ -5,7 +5,7 @@
     "name": "Greedy",
     "tagId": "17"
   },
-  "updatedAt": "2026-11-07T05:41:54.255Z",
+  "updatedAt": "2026-11-07T05:42:07.868Z",
   "problems": [
     {
       "frontendId": "680",
@@ -24,6 +24,26 @@
           "path": "Easy/0680-valid-palindrome-ii/Java/0680-valid-palindrome-ii.java",
           "sha": "747550b712ba69bc8b2cbecd7b5f84e006891187",
           "lastSyncedAt": "2026-11-07T04:46:48.416Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "2126",
+      "title": "Destroying Asteroids",
+      "slug": "destroying-asteroids",
+      "problemName": "2126-destroying-asteroids",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/destroying-asteroids/",
+      "folderPath": "Medium/2126-destroying-asteroids/",
+      "readmePath": "Medium/2126-destroying-asteroids/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "2126-destroying-asteroids.java",
+          "path": "Medium/2126-destroying-asteroids/Java/2126-destroying-asteroids.java",
+          "sha": "bfb17789fff3523b43a9c2678470aaa68e4ac468",
+          "lastSyncedAt": "2026-11-07T05:42:07.868Z"
         }
       ]
     },
