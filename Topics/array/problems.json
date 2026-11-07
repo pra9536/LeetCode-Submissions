@@ -5,7 +5,7 @@
     "name": "Array",
     "tagId": "5"
   },
-  "updatedAt": "2026-11-07T05:38:52.505Z",
+  "updatedAt": "2026-11-07T05:39:04.195Z",
   "problems": [
     {
       "frontendId": "1",
@@ -804,6 +804,26 @@
           "path": "Easy/0977-squares-of-a-sorted-array/Java/0977-squares-of-a-sorted-array.java",
           "sha": "0ce54f4b955b43060efc179d88793f1a876b56ea",
           "lastSyncedAt": "2026-11-07T05:36:48.652Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "986",
+      "title": "Interval List Intersections",
+      "slug": "interval-list-intersections",
+      "problemName": "0986-interval-list-intersections",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/interval-list-intersections/",
+      "folderPath": "Medium/0986-interval-list-intersections/",
+      "readmePath": "Medium/0986-interval-list-intersections/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "0986-interval-list-intersections.java",
+          "path": "Medium/0986-interval-list-intersections/Java/0986-interval-list-intersections.java",
+          "sha": "10b74d15b89135ce25bdc9aa562f8f0a093a3f96",
+          "lastSyncedAt": "2026-11-07T05:39:04.195Z"
         }
       ]
     },
