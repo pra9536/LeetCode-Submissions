@@ -5,7 +5,7 @@
     "name": "Math",
     "tagId": "8"
   },
-  "updatedAt": "2026-11-07T04:56:04.919Z",
+  "updatedAt": "2026-11-07T05:00:03.228Z",
   "problems": [
     {
       "frontendId": "12",
@@ -64,6 +64,26 @@
           "path": "Medium/0048-rotate-image/Java/0048-rotate-image.java",
           "sha": "50353bb806f3e66a9b2a20ae59ac587a896801e9",
           "lastSyncedAt": "2026-11-07T04:47:11.781Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "62",
+      "title": "Unique Paths",
+      "slug": "unique-paths",
+      "problemName": "0062-unique-paths",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/unique-paths/",
+      "folderPath": "Medium/0062-unique-paths/",
+      "readmePath": "Medium/0062-unique-paths/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "0062-unique-paths.java",
+          "path": "Medium/0062-unique-paths/Java/0062-unique-paths.java",
+          "sha": "1418ee08de0af00c43fa7c9a3b5a6a3744681cfe",
+          "lastSyncedAt": "2026-11-07T05:00:03.228Z"
         }
       ]
     },
