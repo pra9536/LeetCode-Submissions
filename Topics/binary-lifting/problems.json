@@ -1,0 +1,31 @@
+{
+  "version": 1,
+  "topic": {
+    "slug": "binary-lifting",
+    "name": "Binary Lifting",
+    "tagId": "68207"
+  },
+  "updatedAt": "2026-11-07T05:56:20.873Z",
+  "problems": [
+    {
+      "frontendId": "235",
+      "title": "Lowest Common Ancestor of a Binary Search Tree",
+      "slug": "lowest-common-ancestor-of-a-binary-search-tree",
+      "problemName": "0235-lowest-common-ancestor-of-a-binary-search-tree",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/",
+      "folderPath": "Medium/0235-lowest-common-ancestor-of-a-binary-search-tree/",
+      "readmePath": "Medium/0235-lowest-common-ancestor-of-a-binary-search-tree/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "0235-lowest-common-ancestor-of-a-binary-search-tree.java",
+          "path": "Medium/0235-lowest-common-ancestor-of-a-binary-search-tree/Java/0235-lowest-common-ancestor-of-a-binary-search-tree.java",
+          "sha": "88e70389701d1c5a3e3a3a34b05ee9b286697967",
+          "lastSyncedAt": "2026-11-07T05:56:20.873Z"
+        }
+      ]
+    }
+  ]
+}
