@@ -5,7 +5,7 @@
     "name": "Array",
     "tagId": "5"
   },
-  "updatedAt": "2026-11-07T04:51:40.735Z",
+  "updatedAt": "2026-11-07T04:52:25.964Z",
   "problems": [
     {
       "frontendId": "1",
@@ -104,6 +104,26 @@
           "path": "Medium/0049-group-anagrams/Java/0049-group-anagrams.java",
           "sha": "8ea55edef11538716508c8c4f9b35e402b0c8d8f",
           "lastSyncedAt": "2026-11-07T04:48:31.483Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "75",
+      "title": "Sort Colors",
+      "slug": "sort-colors",
+      "problemName": "0075-sort-colors",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/sort-colors/",
+      "folderPath": "Medium/0075-sort-colors/",
+      "readmePath": "Medium/0075-sort-colors/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "0075-sort-colors.java",
+          "path": "Medium/0075-sort-colors/Java/0075-sort-colors.java",
+          "sha": "26474b9e489fc30350df7ff067245a4d23e7971e",
+          "lastSyncedAt": "2026-11-07T04:52:25.964Z"
         }
       ]
     },
