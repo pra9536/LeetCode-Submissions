@@ -5,7 +5,7 @@
     "name": "Sliding Window",
     "tagId": "55821"
   },
-  "updatedAt": "2026-11-07T05:01:42.650Z",
+  "updatedAt": "2026-11-07T05:02:12.542Z",
   "problems": [
     {
       "frontendId": "3",
@@ -44,6 +44,26 @@
           "path": "Medium/0187-repeated-dna-sequences/Java/0187-repeated-dna-sequences.java",
           "sha": "917d620f365ada180dccc34138b7e5b6858f2822",
           "lastSyncedAt": "2026-11-07T05:01:42.650Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "643",
+      "title": "Maximum Average Subarray I",
+      "slug": "maximum-average-subarray-i",
+      "problemName": "0643-maximum-average-subarray-i",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/maximum-average-subarray-i/",
+      "folderPath": "Easy/0643-maximum-average-subarray-i/",
+      "readmePath": "Easy/0643-maximum-average-subarray-i/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "0643-maximum-average-subarray-i.java",
+          "path": "Easy/0643-maximum-average-subarray-i/Java/0643-maximum-average-subarray-i.java",
+          "sha": "6fec5cc1162487af79ef574f239e884b5d0c6f99",
+          "lastSyncedAt": "2026-11-07T05:02:12.542Z"
         }
       ]
     }
