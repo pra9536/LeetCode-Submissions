@@ -5,7 +5,7 @@
     "name": "Recursion",
     "tagId": "31"
   },
-  "updatedAt": "2026-11-07T05:50:39.714Z",
+  "updatedAt": "2026-11-07T06:04:28.802Z",
   "problems": [
     {
       "frontendId": "21",
@@ -184,6 +184,26 @@
           "path": "Easy/0509-fibonacci-number/Java/0509-fibonacci-number.java",
           "sha": "c9c70886cc3d306daa5b0ef465665798778ab6f1",
           "lastSyncedAt": "2026-11-07T05:01:26.280Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "1823",
+      "title": "Find the Winner of the Circular Game",
+      "slug": "find-the-winner-of-the-circular-game",
+      "problemName": "1823-find-the-winner-of-the-circular-game",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/find-the-winner-of-the-circular-game/",
+      "folderPath": "Medium/1823-find-the-winner-of-the-circular-game/",
+      "readmePath": "Medium/1823-find-the-winner-of-the-circular-game/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "1823-find-the-winner-of-the-circular-game.java",
+          "path": "Medium/1823-find-the-winner-of-the-circular-game/Java/1823-find-the-winner-of-the-circular-game.java",
+          "sha": "2e198ca999aaa8f69983c61fbe3b500e98cc4a28",
+          "lastSyncedAt": "2026-11-07T06:04:28.802Z"
         }
       ]
     }
