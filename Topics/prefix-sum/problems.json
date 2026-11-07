@@ -5,7 +5,7 @@
     "name": "Prefix Sum",
     "tagId": "61068"
   },
-  "updatedAt": "2026-11-07T05:40:00.602Z",
+  "updatedAt": "2026-11-07T05:44:27.375Z",
   "problems": [
     {
       "frontendId": "209",
@@ -84,6 +84,26 @@
           "path": "Medium/0731-my-calendar-ii/Java/0731-my-calendar-ii.java",
           "sha": "eb8dc47db0b2e48891b93187d96734db67160401",
           "lastSyncedAt": "2026-11-07T05:38:06.104Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "1871",
+      "title": "Jump Game VII",
+      "slug": "jump-game-vii",
+      "problemName": "1871-jump-game-vii",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/jump-game-vii/",
+      "folderPath": "Medium/1871-jump-game-vii/",
+      "readmePath": "Medium/1871-jump-game-vii/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "1871-jump-game-vii.java",
+          "path": "Medium/1871-jump-game-vii/Java/1871-jump-game-vii.java",
+          "sha": "3f297e9bd9f53acf828166671b4c1a48ac9b76f8",
+          "lastSyncedAt": "2026-11-07T05:44:27.375Z"
         }
       ]
     },
