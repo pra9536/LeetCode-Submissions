@@ -5,7 +5,7 @@
     "name": "String",
     "tagId": "10"
   },
-  "updatedAt": "2026-11-07T06:01:04.086Z",
+  "updatedAt": "2026-11-07T06:07:20.130Z",
   "problems": [
     {
       "frontendId": "3",
@@ -624,6 +624,26 @@
           "path": "Medium/3121-count-the-number-of-special-characters-ii/Java/3121-count-the-number-of-special-characters-ii.java",
           "sha": "0cd162033433725e3e7f887ab3439f28d18dbe2e",
           "lastSyncedAt": "2026-11-07T05:44:04.535Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "3839",
+      "title": "Number of Prefix Connected Groups",
+      "slug": "number-of-prefix-connected-groups",
+      "problemName": "3839-number-of-prefix-connected-groups",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/number-of-prefix-connected-groups/",
+      "folderPath": "Medium/3839-number-of-prefix-connected-groups/",
+      "readmePath": "Medium/3839-number-of-prefix-connected-groups/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "3839-number-of-prefix-connected-groups.java",
+          "path": "Medium/3839-number-of-prefix-connected-groups/Java/3839-number-of-prefix-connected-groups.java",
+          "sha": "1763151bc7dc2557862921dc10dc527f1d54f4dc",
+          "lastSyncedAt": "2026-11-07T06:07:20.130Z"
         }
       ]
     }
