@@ -5,7 +5,7 @@
     "name": "Array",
     "tagId": "5"
   },
-  "updatedAt": "2026-11-07T06:06:56.460Z",
+  "updatedAt": "2026-11-07T06:07:07.182Z",
   "problems": [
     {
       "frontendId": "1",
@@ -244,6 +244,26 @@
           "path": "Medium/0049-group-anagrams/Java/0049-group-anagrams.java",
           "sha": "8ea55edef11538716508c8c4f9b35e402b0c8d8f",
           "lastSyncedAt": "2026-11-07T04:48:31.483Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "51",
+      "title": "N-Queens",
+      "slug": "n-queens",
+      "problemName": "0051-n-queens",
+      "difficulty": "Hard",
+      "leetcodeUrl": "https://leetcode.com/problems/n-queens/",
+      "folderPath": "Hard/0051-n-queens/",
+      "readmePath": "Hard/0051-n-queens/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "0051-n-queens.java",
+          "path": "Hard/0051-n-queens/Java/0051-n-queens.java",
+          "sha": "72fd17e82eab222ed7a4039202407130ca961dcb",
+          "lastSyncedAt": "2026-11-07T06:07:07.182Z"
         }
       ]
     },
