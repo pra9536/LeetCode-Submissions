@@ -5,7 +5,7 @@
     "name": "Binary Search Tree",
     "tagId": "30"
   },
-  "updatedAt": "2026-11-07T05:53:46.276Z",
+  "updatedAt": "2026-11-07T05:54:07.741Z",
   "problems": [
     {
       "frontendId": "108",
@@ -24,6 +24,26 @@
           "path": "Easy/0108-convert-sorted-array-to-binary-search-tree/Java/0108-convert-sorted-array-to-binary-search-tree.java",
           "sha": "59ef8756b19a852df66f686b89f46332eea39770",
           "lastSyncedAt": "2026-11-07T05:53:46.276Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "1038",
+      "title": "Binary Search Tree to Greater Sum Tree",
+      "slug": "binary-search-tree-to-greater-sum-tree",
+      "problemName": "1038-binary-search-tree-to-greater-sum-tree",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/binary-search-tree-to-greater-sum-tree/",
+      "folderPath": "Medium/1038-binary-search-tree-to-greater-sum-tree/",
+      "readmePath": "Medium/1038-binary-search-tree-to-greater-sum-tree/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "1038-binary-search-tree-to-greater-sum-tree.java",
+          "path": "Medium/1038-binary-search-tree-to-greater-sum-tree/Java/1038-binary-search-tree-to-greater-sum-tree.java",
+          "sha": "001f02192adde894a5bad468de03b0eddd1cb5d8",
+          "lastSyncedAt": "2026-11-07T05:54:07.741Z"
         }
       ]
     }
