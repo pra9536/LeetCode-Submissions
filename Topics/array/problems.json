@@ -5,7 +5,7 @@
     "name": "Array",
     "tagId": "5"
   },
-  "updatedAt": "2026-11-07T06:07:51.624Z",
+  "updatedAt": "2026-11-07T06:08:02.402Z",
   "problems": [
     {
       "frontendId": "1",
@@ -824,6 +824,26 @@
           "path": "Medium/0215-kth-largest-element-in-an-array/Java/0215-kth-largest-element-in-an-array.java",
           "sha": "645bcd0d0b0ab2550bd264dc745530b69051ccd3",
           "lastSyncedAt": "2026-11-07T05:53:11.279Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "216",
+      "title": "Combination Sum III",
+      "slug": "combination-sum-iii",
+      "problemName": "0216-combination-sum-iii",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/combination-sum-iii/",
+      "folderPath": "Medium/0216-combination-sum-iii/",
+      "readmePath": "Medium/0216-combination-sum-iii/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "0216-combination-sum-iii.java",
+          "path": "Medium/0216-combination-sum-iii/Java/0216-combination-sum-iii.java",
+          "sha": "00390254fef3345834fb4a426ce809c580a151e9",
+          "lastSyncedAt": "2026-11-07T06:08:02.402Z"
         }
       ]
     },
