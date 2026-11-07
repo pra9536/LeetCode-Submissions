@@ -5,7 +5,7 @@
     "name": "Binary Tree",
     "tagId": "61057"
   },
-  "updatedAt": "2026-11-07T05:57:53.093Z",
+  "updatedAt": "2026-11-07T05:58:13.529Z",
   "problems": [
     {
       "frontendId": "94",
@@ -84,6 +84,26 @@
           "path": "Easy/0108-convert-sorted-array-to-binary-search-tree/Java/0108-convert-sorted-array-to-binary-search-tree.java",
           "sha": "59ef8756b19a852df66f686b89f46332eea39770",
           "lastSyncedAt": "2026-11-07T05:53:46.276Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "114",
+      "title": "Flatten Binary Tree to Linked List",
+      "slug": "flatten-binary-tree-to-linked-list",
+      "problemName": "0114-flatten-binary-tree-to-linked-list",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/flatten-binary-tree-to-linked-list/",
+      "folderPath": "Medium/0114-flatten-binary-tree-to-linked-list/",
+      "readmePath": "Medium/0114-flatten-binary-tree-to-linked-list/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "0114-flatten-binary-tree-to-linked-list.java",
+          "path": "Medium/0114-flatten-binary-tree-to-linked-list/Java/0114-flatten-binary-tree-to-linked-list.java",
+          "sha": "47f5ec8f428f2331046d3e9af3c311d3f280001a",
+          "lastSyncedAt": "2026-11-07T05:58:13.529Z"
         }
       ]
     },
