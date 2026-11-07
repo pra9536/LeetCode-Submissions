@@ -1,0 +1,31 @@
+{
+  "version": 1,
+  "topic": {
+    "slug": "sliding-window",
+    "name": "Sliding Window",
+    "tagId": "55821"
+  },
+  "updatedAt": "2026-11-07T04:53:28.830Z",
+  "problems": [
+    {
+      "frontendId": "3",
+      "title": "Longest Substring Without Repeating Characters",
+      "slug": "longest-substring-without-repeating-characters",
+      "problemName": "0003-longest-substring-without-repeating-characters",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/longest-substring-without-repeating-characters/",
+      "folderPath": "Medium/0003-longest-substring-without-repeating-characters/",
+      "readmePath": "Medium/0003-longest-substring-without-repeating-characters/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "0003-longest-substring-without-repeating-characters.java",
+          "path": "Medium/0003-longest-substring-without-repeating-characters/Java/0003-longest-substring-without-repeating-characters.java",
+          "sha": "041ddf1289ef35cd528dcc79e0758cbdc5125234",
+          "lastSyncedAt": "2026-11-07T04:53:28.830Z"
+        }
+      ]
+    }
+  ]
+}
