@@ -5,7 +5,7 @@
     "name": "Sorting",
     "tagId": "61049"
   },
-  "updatedAt": "2026-11-07T05:41:33.787Z",
+  "updatedAt": "2026-11-07T05:41:54.255Z",
   "problems": [
     {
       "frontendId": "15",
@@ -364,6 +364,26 @@
           "path": "Medium/1985-find-the-kth-largest-integer-in-the-array/Java/1985-find-the-kth-largest-integer-in-the-array.java",
           "sha": "abcb95153cc1da01a5de7745fb54c473abc09f8d",
           "lastSyncedAt": "2026-11-07T04:56:47.876Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "2144",
+      "title": "Minimum Cost of Buying Candies With Discount",
+      "slug": "minimum-cost-of-buying-candies-with-discount",
+      "problemName": "2144-minimum-cost-of-buying-candies-with-discount",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/minimum-cost-of-buying-candies-with-discount/",
+      "folderPath": "Easy/2144-minimum-cost-of-buying-candies-with-discount/",
+      "readmePath": "Easy/2144-minimum-cost-of-buying-candies-with-discount/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "2144-minimum-cost-of-buying-candies-with-discount.java",
+          "path": "Easy/2144-minimum-cost-of-buying-candies-with-discount/Java/2144-minimum-cost-of-buying-candies-with-discount.java",
+          "sha": "d2f5772e32e824f34252749237404e8bbd4ef799",
+          "lastSyncedAt": "2026-11-07T05:41:54.255Z"
         }
       ]
     },
