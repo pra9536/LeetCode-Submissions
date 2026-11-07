@@ -5,7 +5,7 @@
     "name": "Two Pointers",
     "tagId": "9"
   },
-  "updatedAt": "2026-11-07T05:54:24.344Z",
+  "updatedAt": "2026-11-07T05:55:27.653Z",
   "problems": [
     {
       "frontendId": "15",
@@ -444,6 +444,26 @@
           "path": "Medium/0443-string-compression/Java/0443-string-compression.java",
           "sha": "db68e914a7065ffaefc24841cd659bff5d67829d",
           "lastSyncedAt": "2026-11-07T05:52:05.470Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "455",
+      "title": "Assign Cookies",
+      "slug": "assign-cookies",
+      "problemName": "0455-assign-cookies",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/assign-cookies/",
+      "folderPath": "Easy/0455-assign-cookies/",
+      "readmePath": "Easy/0455-assign-cookies/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "0455-assign-cookies.java",
+          "path": "Easy/0455-assign-cookies/Java/0455-assign-cookies.java",
+          "sha": "b97b7d6fccc290fc6811c1a7c377c35c1a189265",
+          "lastSyncedAt": "2026-11-07T05:55:27.653Z"
         }
       ]
     },
