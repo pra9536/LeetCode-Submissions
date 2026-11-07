@@ -5,7 +5,7 @@
     "name": "Linked List",
     "tagId": "7"
   },
-  "updatedAt": "2026-11-07T05:34:27.546Z",
+  "updatedAt": "2026-11-07T05:34:46.287Z",
   "problems": [
     {
       "frontendId": "24",
@@ -104,6 +104,26 @@
           "path": "Medium/0092-reverse-linked-list-ii/Java/0092-reverse-linked-list-ii.java",
           "sha": "e87436646f396db3d8961af2ff0d2aa39d8f47de",
           "lastSyncedAt": "2026-11-07T05:33:22.058Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "142",
+      "title": "Linked List Cycle II",
+      "slug": "linked-list-cycle-ii",
+      "problemName": "0142-linked-list-cycle-ii",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/linked-list-cycle-ii/",
+      "folderPath": "Medium/0142-linked-list-cycle-ii/",
+      "readmePath": "Medium/0142-linked-list-cycle-ii/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "0142-linked-list-cycle-ii.java",
+          "path": "Medium/0142-linked-list-cycle-ii/Java/0142-linked-list-cycle-ii.java",
+          "sha": "9f9b76589d9878ce1c46573fcc834e640e890702",
+          "lastSyncedAt": "2026-11-07T05:34:46.287Z"
         }
       ]
     },
