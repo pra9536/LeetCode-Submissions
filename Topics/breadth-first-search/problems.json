@@ -5,7 +5,7 @@
     "name": "Breadth-First Search",
     "tagId": "22"
   },
-  "updatedAt": "2026-11-07T05:45:17.895Z",
+  "updatedAt": "2026-11-07T05:46:02.662Z",
   "problems": [
     {
       "frontendId": "200",
@@ -164,6 +164,26 @@
           "path": "Medium/1020-number-of-enclaves/Java/1020-number-of-enclaves.java",
           "sha": "bb925389c297432b8d58a7abb14e80dd44a67ba1",
           "lastSyncedAt": "2026-11-07T05:43:07.167Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "1345",
+      "title": "Jump Game IV",
+      "slug": "jump-game-iv",
+      "problemName": "1345-jump-game-iv",
+      "difficulty": "Hard",
+      "leetcodeUrl": "https://leetcode.com/problems/jump-game-iv/",
+      "folderPath": "Hard/1345-jump-game-iv/",
+      "readmePath": "Hard/1345-jump-game-iv/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "1345-jump-game-iv.java",
+          "path": "Hard/1345-jump-game-iv/Java/1345-jump-game-iv.java",
+          "sha": "f6b13e9f33c76ef279fdadb837272c9c05833288",
+          "lastSyncedAt": "2026-11-07T05:46:02.662Z"
         }
       ]
     },
