@@ -5,7 +5,7 @@
     "name": "String Matching",
     "tagId": "61052"
   },
-  "updatedAt": "2026-11-07T04:51:56.742Z",
+  "updatedAt": "2026-11-07T04:57:11.255Z",
   "problems": [
     {
       "frontendId": "28",
@@ -24,6 +24,26 @@
           "path": "Easy/0028-find-the-index-of-the-first-occurrence-in-a-string/Java/0028-find-the-index-of-the-first-occurrence-in-a-string.java",
           "sha": "cbe7b00fb51691af564e868ec4dcc1d71e63a724",
           "lastSyncedAt": "2026-11-07T04:51:56.742Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "796",
+      "title": "Rotate String",
+      "slug": "rotate-string",
+      "problemName": "0796-rotate-string",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/rotate-string/",
+      "folderPath": "Easy/0796-rotate-string/",
+      "readmePath": "Easy/0796-rotate-string/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "0796-rotate-string.java",
+          "path": "Easy/0796-rotate-string/Java/0796-rotate-string.java",
+          "sha": "8aa972adb45492fc3ede706a00a6b2f84a291143",
+          "lastSyncedAt": "2026-11-07T04:57:11.255Z"
         }
       ]
     }
