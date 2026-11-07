@@ -5,8 +5,28 @@
     "name": "Monotonic Stack",
     "tagId": "61054"
   },
-  "updatedAt": "2026-11-07T05:57:29.764Z",
+  "updatedAt": "2026-11-07T06:04:51.658Z",
   "problems": [
+    {
+      "frontendId": "85",
+      "title": "Maximal Rectangle",
+      "slug": "maximal-rectangle",
+      "problemName": "0085-maximal-rectangle",
+      "difficulty": "Hard",
+      "leetcodeUrl": "https://leetcode.com/problems/maximal-rectangle/",
+      "folderPath": "Hard/0085-maximal-rectangle/",
+      "readmePath": "Hard/0085-maximal-rectangle/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "0085-maximal-rectangle.java",
+          "path": "Hard/0085-maximal-rectangle/Java/0085-maximal-rectangle.java",
+          "sha": "1355c83dd82d59a103c3b662892108d78ff898f4",
+          "lastSyncedAt": "2026-11-07T06:04:51.658Z"
+        }
+      ]
+    },
     {
       "frontendId": "496",
       "title": "Next Greater Element I",
