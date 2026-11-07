@@ -5,7 +5,7 @@
     "name": "Array",
     "tagId": "5"
   },
-  "updatedAt": "2026-11-07T06:05:09.170Z",
+  "updatedAt": "2026-11-07T06:05:24.793Z",
   "problems": [
     {
       "frontendId": "1",
@@ -1644,6 +1644,26 @@
           "path": "Medium/1914-cyclically-rotating-a-grid/Java/1914-cyclically-rotating-a-grid.java",
           "sha": "87e01e76207016fe70632c6ecc8855bea07dabbc",
           "lastSyncedAt": "2026-11-07T05:47:49.207Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "1944",
+      "title": "Number of Visible People in a Queue",
+      "slug": "number-of-visible-people-in-a-queue",
+      "problemName": "1944-number-of-visible-people-in-a-queue",
+      "difficulty": "Hard",
+      "leetcodeUrl": "https://leetcode.com/problems/number-of-visible-people-in-a-queue/",
+      "folderPath": "Hard/1944-number-of-visible-people-in-a-queue/",
+      "readmePath": "Hard/1944-number-of-visible-people-in-a-queue/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "1944-number-of-visible-people-in-a-queue.java",
+          "path": "Hard/1944-number-of-visible-people-in-a-queue/Java/1944-number-of-visible-people-in-a-queue.java",
+          "sha": "9368d9e2c5ec3453422afb0d6fe9fc7bef55cd17",
+          "lastSyncedAt": "2026-11-07T06:05:24.793Z"
         }
       ]
     },
