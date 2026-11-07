@@ -5,8 +5,28 @@
     "name": "Recursion",
     "tagId": "31"
   },
-  "updatedAt": "2026-11-07T05:34:27.546Z",
+  "updatedAt": "2026-11-07T05:50:39.714Z",
   "problems": [
+    {
+      "frontendId": "21",
+      "title": "Merge Two Sorted Lists",
+      "slug": "merge-two-sorted-lists",
+      "problemName": "0021-merge-two-sorted-lists",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/merge-two-sorted-lists/",
+      "folderPath": "Easy/0021-merge-two-sorted-lists/",
+      "readmePath": "Easy/0021-merge-two-sorted-lists/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "0021-merge-two-sorted-lists.java",
+          "path": "Easy/0021-merge-two-sorted-lists/Java/0021-merge-two-sorted-lists.java",
+          "sha": "293219fc3161d7c6357b7a624db43ff89e122473",
+          "lastSyncedAt": "2026-11-07T05:50:39.714Z"
+        }
+      ]
+    },
     {
       "frontendId": "24",
       "title": "Swap Nodes in Pairs",
