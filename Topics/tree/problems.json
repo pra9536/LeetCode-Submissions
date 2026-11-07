@@ -5,7 +5,7 @@
     "name": "Tree",
     "tagId": "20"
   },
-  "updatedAt": "2026-11-07T05:59:44.570Z",
+  "updatedAt": "2026-11-07T06:00:01.481Z",
   "problems": [
     {
       "frontendId": "94",
@@ -184,6 +184,26 @@
           "path": "Medium/0236-lowest-common-ancestor-of-a-binary-tree/Java/0236-lowest-common-ancestor-of-a-binary-tree.java",
           "sha": "bcca3add85dd72ea113cce8c76b0960b1c432e90",
           "lastSyncedAt": "2026-11-07T05:58:34.972Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "543",
+      "title": "Diameter of Binary Tree",
+      "slug": "diameter-of-binary-tree",
+      "problemName": "0543-diameter-of-binary-tree",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/diameter-of-binary-tree/",
+      "folderPath": "Easy/0543-diameter-of-binary-tree/",
+      "readmePath": "Easy/0543-diameter-of-binary-tree/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "0543-diameter-of-binary-tree.java",
+          "path": "Easy/0543-diameter-of-binary-tree/Java/0543-diameter-of-binary-tree.java",
+          "sha": "c2c16206e7788e55d4cabd529017c7ebb4fef5cb",
+          "lastSyncedAt": "2026-11-07T06:00:01.481Z"
         }
       ]
     },
