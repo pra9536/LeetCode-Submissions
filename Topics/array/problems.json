@@ -5,7 +5,7 @@
     "name": "Array",
     "tagId": "5"
   },
-  "updatedAt": "2026-11-07T05:52:28.698Z",
+  "updatedAt": "2026-11-07T05:53:00.716Z",
   "problems": [
     {
       "frontendId": "1",
@@ -1024,6 +1024,26 @@
           "path": "Medium/1020-number-of-enclaves/Java/1020-number-of-enclaves.java",
           "sha": "bb925389c297432b8d58a7abb14e80dd44a67ba1",
           "lastSyncedAt": "2026-11-07T05:43:07.167Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "1046",
+      "title": "Last Stone Weight",
+      "slug": "last-stone-weight",
+      "problemName": "1046-last-stone-weight",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/last-stone-weight/",
+      "folderPath": "Easy/1046-last-stone-weight/",
+      "readmePath": "Easy/1046-last-stone-weight/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "1046-last-stone-weight.java",
+          "path": "Easy/1046-last-stone-weight/Java/1046-last-stone-weight.java",
+          "sha": "aa4b75a567a016651f4de29714db066bd164b699",
+          "lastSyncedAt": "2026-11-07T05:53:00.716Z"
         }
       ]
     },
