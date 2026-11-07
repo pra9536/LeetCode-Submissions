@@ -5,8 +5,28 @@
     "name": "Two Pointers",
     "tagId": "9"
   },
-  "updatedAt": "2026-11-07T04:46:48.416Z",
+  "updatedAt": "2026-11-07T04:50:04.002Z",
   "problems": [
+    {
+      "frontendId": "18",
+      "title": "4Sum",
+      "slug": "4sum",
+      "problemName": "0018-4sum",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/4sum/",
+      "folderPath": "Medium/0018-4sum/",
+      "readmePath": "Medium/0018-4sum/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "0018-4sum.java",
+          "path": "Medium/0018-4sum/Java/0018-4sum.java",
+          "sha": "f429090b6d9c833375f2cf6259d07e092afc44d5",
+          "lastSyncedAt": "2026-11-07T04:50:04.002Z"
+        }
+      ]
+    },
     {
       "frontendId": "680",
       "title": "Valid Palindrome II",
