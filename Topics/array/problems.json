@@ -5,7 +5,7 @@
     "name": "Array",
     "tagId": "5"
   },
-  "updatedAt": "2026-11-07T05:49:07.539Z",
+  "updatedAt": "2026-11-07T05:49:37.341Z",
   "problems": [
     {
       "frontendId": "1",
@@ -1184,6 +1184,26 @@
           "path": "Medium/1985-find-the-kth-largest-integer-in-the-array/Java/1985-find-the-kth-largest-integer-in-the-array.java",
           "sha": "abcb95153cc1da01a5de7745fb54c473abc09f8d",
           "lastSyncedAt": "2026-11-07T04:56:47.876Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "2078",
+      "title": "Two Furthest Houses With Different Colors",
+      "slug": "two-furthest-houses-with-different-colors",
+      "problemName": "2078-two-furthest-houses-with-different-colors",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/two-furthest-houses-with-different-colors/",
+      "folderPath": "Easy/2078-two-furthest-houses-with-different-colors/",
+      "readmePath": "Easy/2078-two-furthest-houses-with-different-colors/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "2078-two-furthest-houses-with-different-colors.java",
+          "path": "Easy/2078-two-furthest-houses-with-different-colors/Java/2078-two-furthest-houses-with-different-colors.java",
+          "sha": "da595777aa39a0a4898375521085840193d1a8a6",
+          "lastSyncedAt": "2026-11-07T05:49:37.341Z"
         }
       ]
     },
