@@ -5,8 +5,28 @@
     "name": "Floyd's Cycle Finding Algorithm",
     "tagId": "122033"
   },
-  "updatedAt": "2026-11-07T04:55:24.736Z",
+  "updatedAt": "2026-11-07T05:34:46.287Z",
   "problems": [
+    {
+      "frontendId": "142",
+      "title": "Linked List Cycle II",
+      "slug": "linked-list-cycle-ii",
+      "problemName": "0142-linked-list-cycle-ii",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/linked-list-cycle-ii/",
+      "folderPath": "Medium/0142-linked-list-cycle-ii/",
+      "readmePath": "Medium/0142-linked-list-cycle-ii/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "0142-linked-list-cycle-ii.java",
+          "path": "Medium/0142-linked-list-cycle-ii/Java/0142-linked-list-cycle-ii.java",
+          "sha": "9f9b76589d9878ce1c46573fcc834e640e890702",
+          "lastSyncedAt": "2026-11-07T05:34:46.287Z"
+        }
+      ]
+    },
     {
       "frontendId": "202",
       "title": "Happy Number",
