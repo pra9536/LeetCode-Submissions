@@ -5,8 +5,28 @@
     "name": "Backtracking",
     "tagId": "14"
   },
-  "updatedAt": "2026-11-07T06:08:17.936Z",
+  "updatedAt": "2026-11-07T06:08:27.645Z",
   "problems": [
+    {
+      "frontendId": "39",
+      "title": "Combination Sum",
+      "slug": "combination-sum",
+      "problemName": "0039-combination-sum",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/combination-sum/",
+      "folderPath": "Medium/0039-combination-sum/",
+      "readmePath": "Medium/0039-combination-sum/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "0039-combination-sum.java",
+          "path": "Medium/0039-combination-sum/Java/0039-combination-sum.java",
+          "sha": "fabb3054785597acaa80176ed0c7b501da4564f7",
+          "lastSyncedAt": "2026-11-07T06:08:27.645Z"
+        }
+      ]
+    },
     {
       "frontendId": "46",
       "title": "Permutations",
