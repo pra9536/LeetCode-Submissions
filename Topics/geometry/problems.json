@@ -1,0 +1,31 @@
+{
+  "version": 1,
+  "topic": {
+    "slug": "geometry",
+    "name": "Geometry",
+    "tagId": "38"
+  },
+  "updatedAt": "2026-11-07T05:52:28.698Z",
+  "problems": [
+    {
+      "frontendId": "973",
+      "title": "K Closest Points to Origin",
+      "slug": "k-closest-points-to-origin",
+      "problemName": "0973-k-closest-points-to-origin",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/k-closest-points-to-origin/",
+      "folderPath": "Medium/0973-k-closest-points-to-origin/",
+      "readmePath": "Medium/0973-k-closest-points-to-origin/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "0973-k-closest-points-to-origin.java",
+          "path": "Medium/0973-k-closest-points-to-origin/Java/0973-k-closest-points-to-origin.java",
+          "sha": "a76242891b9577d37fafe6c33c8a21ae088dad46",
+          "lastSyncedAt": "2026-11-07T05:52:28.698Z"
+        }
+      ]
+    }
+  ]
+}
