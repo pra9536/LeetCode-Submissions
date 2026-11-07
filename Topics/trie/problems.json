@@ -5,7 +5,7 @@
     "name": "Trie",
     "tagId": "27"
   },
-  "updatedAt": "2026-11-07T05:43:48.805Z",
+  "updatedAt": "2026-11-07T05:44:59.758Z",
   "problems": [
     {
       "frontendId": "14",
@@ -24,6 +24,26 @@
           "path": "Easy/0014-longest-common-prefix/Java/0014-longest-common-prefix.java",
           "sha": "b4d8bf8af7d9ee7407fd7f9160c0cace8608f3d5",
           "lastSyncedAt": "2026-11-07T04:57:31.457Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "3043",
+      "title": "Find the Length of the Longest Common Prefix",
+      "slug": "find-the-length-of-the-longest-common-prefix",
+      "problemName": "3043-find-the-length-of-the-longest-common-prefix",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/find-the-length-of-the-longest-common-prefix/",
+      "folderPath": "Medium/3043-find-the-length-of-the-longest-common-prefix/",
+      "readmePath": "Medium/3043-find-the-length-of-the-longest-common-prefix/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "3043-find-the-length-of-the-longest-common-prefix.java",
+          "path": "Medium/3043-find-the-length-of-the-longest-common-prefix/Java/3043-find-the-length-of-the-longest-common-prefix.java",
+          "sha": "f5d797fb5aa18f72ecf53cee93eafdfc2f630e8b",
+          "lastSyncedAt": "2026-11-07T05:44:59.758Z"
         }
       ]
     },
