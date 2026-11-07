@@ -5,7 +5,7 @@
     "name": "Array",
     "tagId": "5"
   },
-  "updatedAt": "2026-11-07T05:41:54.255Z",
+  "updatedAt": "2026-11-07T05:42:07.868Z",
   "problems": [
     {
       "frontendId": "1",
@@ -964,6 +964,26 @@
           "path": "Medium/1985-find-the-kth-largest-integer-in-the-array/Java/1985-find-the-kth-largest-integer-in-the-array.java",
           "sha": "abcb95153cc1da01a5de7745fb54c473abc09f8d",
           "lastSyncedAt": "2026-11-07T04:56:47.876Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "2126",
+      "title": "Destroying Asteroids",
+      "slug": "destroying-asteroids",
+      "problemName": "2126-destroying-asteroids",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/destroying-asteroids/",
+      "folderPath": "Medium/2126-destroying-asteroids/",
+      "readmePath": "Medium/2126-destroying-asteroids/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "2126-destroying-asteroids.java",
+          "path": "Medium/2126-destroying-asteroids/Java/2126-destroying-asteroids.java",
+          "sha": "bfb17789fff3523b43a9c2678470aaa68e4ac468",
+          "lastSyncedAt": "2026-11-07T05:42:07.868Z"
         }
       ]
     },
