@@ -5,8 +5,28 @@
     "name": "Number Theory",
     "tagId": "61067"
   },
-  "updatedAt": "2026-11-07T05:48:23.054Z",
+  "updatedAt": "2026-11-07T05:51:04.509Z",
   "problems": [
+    {
+      "frontendId": "1979",
+      "title": "Find Greatest Common Divisor of Array",
+      "slug": "find-greatest-common-divisor-of-array",
+      "problemName": "1979-find-greatest-common-divisor-of-array",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/find-greatest-common-divisor-of-array/",
+      "folderPath": "Easy/1979-find-greatest-common-divisor-of-array/",
+      "readmePath": "Easy/1979-find-greatest-common-divisor-of-array/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "1979-find-greatest-common-divisor-of-array.java",
+          "path": "Easy/1979-find-greatest-common-divisor-of-array/Java/1979-find-greatest-common-divisor-of-array.java",
+          "sha": "98fcd830a6a78663f069f4a7560640d2e7efdef4",
+          "lastSyncedAt": "2026-11-07T05:51:04.509Z"
+        }
+      ]
+    },
     {
       "frontendId": "3629",
       "title": "Minimum Jumps to Reach End via Prime Teleportation",
