@@ -5,7 +5,7 @@
     "name": "Array",
     "tagId": "5"
   },
-  "updatedAt": "2026-11-07T05:47:12.633Z",
+  "updatedAt": "2026-11-07T05:47:26.773Z",
   "problems": [
     {
       "frontendId": "1",
@@ -1224,6 +1224,26 @@
           "path": "Easy/2540-minimum-common-value/Java/2540-minimum-common-value.java",
           "sha": "662e705b4a896ecf10bef0308da9971619e2d2d3",
           "lastSyncedAt": "2026-11-07T05:45:44.545Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "2553",
+      "title": "Separate the Digits in an Array",
+      "slug": "separate-the-digits-in-an-array",
+      "problemName": "2553-separate-the-digits-in-an-array",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/separate-the-digits-in-an-array/",
+      "folderPath": "Easy/2553-separate-the-digits-in-an-array/",
+      "readmePath": "Easy/2553-separate-the-digits-in-an-array/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "2553-separate-the-digits-in-an-array.java",
+          "path": "Easy/2553-separate-the-digits-in-an-array/Java/2553-separate-the-digits-in-an-array.java",
+          "sha": "46eb2edd4139de442d48450aaab7e5d392e9523a",
+          "lastSyncedAt": "2026-11-07T05:47:26.773Z"
         }
       ]
     },
