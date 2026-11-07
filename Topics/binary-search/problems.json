@@ -1,0 +1,31 @@
+{
+  "version": 1,
+  "topic": {
+    "slug": "binary-search",
+    "name": "Binary Search",
+    "tagId": "11"
+  },
+  "updatedAt": "2026-11-07T04:53:45.702Z",
+  "problems": [
+    {
+      "frontendId": "378",
+      "title": "Kth Smallest Element in a Sorted Matrix",
+      "slug": "kth-smallest-element-in-a-sorted-matrix",
+      "problemName": "0378-kth-smallest-element-in-a-sorted-matrix",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/kth-smallest-element-in-a-sorted-matrix/",
+      "folderPath": "Medium/0378-kth-smallest-element-in-a-sorted-matrix/",
+      "readmePath": "Medium/0378-kth-smallest-element-in-a-sorted-matrix/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "0378-kth-smallest-element-in-a-sorted-matrix.java",
+          "path": "Medium/0378-kth-smallest-element-in-a-sorted-matrix/Java/0378-kth-smallest-element-in-a-sorted-matrix.java",
+          "sha": "96c3bc07ef459acec40d5087224a288e24c5f5e8",
+          "lastSyncedAt": "2026-11-07T04:53:45.702Z"
+        }
+      ]
+    }
+  ]
+}
