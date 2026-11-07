@@ -5,7 +5,7 @@
     "name": "Array",
     "tagId": "5"
   },
-  "updatedAt": "2026-11-07T05:46:02.662Z",
+  "updatedAt": "2026-11-07T05:46:17.754Z",
   "problems": [
     {
       "frontendId": "1",
@@ -964,6 +964,26 @@
           "path": "Medium/1288-remove-covered-intervals/Java/1288-remove-covered-intervals.java",
           "sha": "742f9a43da0583e28516a2686318e6e507a81401",
           "lastSyncedAt": "2026-11-07T05:38:33.843Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "1306",
+      "title": "Jump Game III",
+      "slug": "jump-game-iii",
+      "problemName": "1306-jump-game-iii",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/jump-game-iii/",
+      "folderPath": "Medium/1306-jump-game-iii/",
+      "readmePath": "Medium/1306-jump-game-iii/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "1306-jump-game-iii.java",
+          "path": "Medium/1306-jump-game-iii/Java/1306-jump-game-iii.java",
+          "sha": "6841b21e3adff5735159c3ef50a582f9c929bd66",
+          "lastSyncedAt": "2026-11-07T05:46:17.754Z"
         }
       ]
     },
