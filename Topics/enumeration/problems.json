@@ -5,7 +5,7 @@
     "name": "Enumeration",
     "tagId": "61066"
   },
-  "updatedAt": "2026-11-07T05:51:35.733Z",
+  "updatedAt": "2026-11-07T06:09:24.656Z",
   "problems": [
     {
       "frontendId": "204",
@@ -44,6 +44,26 @@
           "path": "Easy/3345-smallest-divisible-digit-product-i/Java/3345-smallest-divisible-digit-product-i.java",
           "sha": "8b10d535f65fdd49adc00733075708f961bb6a7f",
           "lastSyncedAt": "2026-11-07T04:54:39.110Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "3827",
+      "title": "Count Monobit Integers",
+      "slug": "count-monobit-integers",
+      "problemName": "3827-count-monobit-integers",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/count-monobit-integers/",
+      "folderPath": "Easy/3827-count-monobit-integers/",
+      "readmePath": "Easy/3827-count-monobit-integers/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "3827-count-monobit-integers.java",
+          "path": "Easy/3827-count-monobit-integers/Java/3827-count-monobit-integers.java",
+          "sha": "60b4c5a29a6dea5cfa98b50ce0ecd164e54e26f6",
+          "lastSyncedAt": "2026-11-07T06:09:24.656Z"
         }
       ]
     }
