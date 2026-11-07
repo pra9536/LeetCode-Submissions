@@ -5,7 +5,7 @@
     "name": "Hash Table",
     "tagId": "6"
   },
-  "updatedAt": "2026-11-07T05:40:00.602Z",
+  "updatedAt": "2026-11-07T05:42:23.088Z",
   "problems": [
     {
       "frontendId": "1",
@@ -424,6 +424,26 @@
           "path": "Medium/2461-maximum-sum-of-distinct-subarrays-with-length-k/Java/2461-maximum-sum-of-distinct-subarrays-with-length-k.java",
           "sha": "7147f1a578d09c45fa106b33e987a5b10f5bdc20",
           "lastSyncedAt": "2026-11-07T05:28:07.657Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "3948",
+      "title": "Lexicographically Maximum MEX Array",
+      "slug": "lexicographically-maximum-mex-array",
+      "problemName": "3948-lexicographically-maximum-mex-array",
+      "difficulty": "Hard",
+      "leetcodeUrl": "https://leetcode.com/problems/lexicographically-maximum-mex-array/",
+      "folderPath": "Hard/3948-lexicographically-maximum-mex-array/",
+      "readmePath": "Hard/3948-lexicographically-maximum-mex-array/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "3948-lexicographically-maximum-mex-array.java",
+          "path": "Hard/3948-lexicographically-maximum-mex-array/Java/3948-lexicographically-maximum-mex-array.java",
+          "sha": "412595eff9106de9014f189871df673c9caa2291",
+          "lastSyncedAt": "2026-11-07T05:42:23.088Z"
         }
       ]
     }
