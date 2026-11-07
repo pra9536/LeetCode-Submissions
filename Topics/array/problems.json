@@ -5,7 +5,7 @@
     "name": "Array",
     "tagId": "5"
   },
-  "updatedAt": "2026-11-07T05:53:11.279Z",
+  "updatedAt": "2026-11-07T05:53:31.878Z",
   "problems": [
     {
       "frontendId": "1",
@@ -24,6 +24,26 @@
           "path": "0001-two-sum/0001-two-sum.java",
           "sha": "8a77007fa25bf7258224400afd8ba0236f784afb",
           "lastSyncedAt": "2026-11-07T04:49:11.774Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "4",
+      "title": "Median of Two Sorted Arrays",
+      "slug": "median-of-two-sorted-arrays",
+      "problemName": "0004-median-of-two-sorted-arrays",
+      "difficulty": "Hard",
+      "leetcodeUrl": "https://leetcode.com/problems/median-of-two-sorted-arrays/",
+      "folderPath": "Hard/0004-median-of-two-sorted-arrays/",
+      "readmePath": "Hard/0004-median-of-two-sorted-arrays/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "0004-median-of-two-sorted-arrays.java",
+          "path": "Hard/0004-median-of-two-sorted-arrays/Java/0004-median-of-two-sorted-arrays.java",
+          "sha": "32e578f52307d7810cab283f73e2da33d999bef7",
+          "lastSyncedAt": "2026-11-07T05:53:31.878Z"
         }
       ]
     },
