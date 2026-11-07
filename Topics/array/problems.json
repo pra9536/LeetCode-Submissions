@@ -5,7 +5,7 @@
     "name": "Array",
     "tagId": "5"
   },
-  "updatedAt": "2026-11-07T04:48:31.483Z",
+  "updatedAt": "2026-11-07T04:49:01.909Z",
   "problems": [
     {
       "frontendId": "1",
@@ -164,6 +164,26 @@
           "path": "3727-maximum-alternating-sum-of-squares/3727-maximum-alternating-sum-of-squares.java",
           "sha": "4db73161832719e06acf563ac2a200a8c2781163",
           "lastSyncedAt": "2026-10-13T18:31:49.810Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "4034",
+      "title": "Minimum Bishop Moves to Reach Target",
+      "slug": "minimum-bishop-moves-to-reach-target",
+      "problemName": "4034-minimum-bishop-moves-to-reach-target",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/minimum-bishop-moves-to-reach-target/",
+      "folderPath": "Medium/4034-minimum-bishop-moves-to-reach-target/",
+      "readmePath": "Medium/4034-minimum-bishop-moves-to-reach-target/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "4034-minimum-bishop-moves-to-reach-target.java",
+          "path": "Medium/4034-minimum-bishop-moves-to-reach-target/Java/4034-minimum-bishop-moves-to-reach-target.java",
+          "sha": "c7cd7bf244bf53491d91395fad2da1d634513b0b",
+          "lastSyncedAt": "2026-11-07T04:49:01.909Z"
         }
       ]
     }
