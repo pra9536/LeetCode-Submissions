@@ -5,7 +5,7 @@
     "name": "String",
     "tagId": "10"
   },
-  "updatedAt": "2026-11-07T04:53:28.830Z",
+  "updatedAt": "2026-11-07T04:56:47.876Z",
   "problems": [
     {
       "frontendId": "3",
@@ -204,6 +204,26 @@
           "path": "Medium/0856-score-of-parentheses/Java/0856-score-of-parentheses.java",
           "sha": "e83e4e1237c426e623d1f685654bef1bd32f9848",
           "lastSyncedAt": "2026-11-07T04:49:35.276Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "1985",
+      "title": "Find the Kth Largest Integer in the Array",
+      "slug": "find-the-kth-largest-integer-in-the-array",
+      "problemName": "1985-find-the-kth-largest-integer-in-the-array",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/find-the-kth-largest-integer-in-the-array/",
+      "folderPath": "Medium/1985-find-the-kth-largest-integer-in-the-array/",
+      "readmePath": "Medium/1985-find-the-kth-largest-integer-in-the-array/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "1985-find-the-kth-largest-integer-in-the-array.java",
+          "path": "Medium/1985-find-the-kth-largest-integer-in-the-array/Java/1985-find-the-kth-largest-integer-in-the-array.java",
+          "sha": "abcb95153cc1da01a5de7745fb54c473abc09f8d",
+          "lastSyncedAt": "2026-11-07T04:56:47.876Z"
         }
       ]
     }
