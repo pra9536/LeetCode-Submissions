@@ -5,7 +5,7 @@
     "name": "Breadth-First Search",
     "tagId": "22"
   },
-  "updatedAt": "2026-11-07T05:48:23.054Z",
+  "updatedAt": "2026-11-07T05:54:24.344Z",
   "problems": [
     {
       "frontendId": "200",
@@ -104,6 +104,26 @@
           "path": "Medium/0547-number-of-provinces/Java/0547-number-of-provinces.java",
           "sha": "47a8e81c4af34ef3df42063a00836f737137405c",
           "lastSyncedAt": "2026-11-07T04:46:32.300Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "653",
+      "title": "Two Sum IV - Input is a BST",
+      "slug": "two-sum-iv-input-is-a-bst",
+      "problemName": "0653-two-sum-iv-input-is-a-bst",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/two-sum-iv-input-is-a-bst/",
+      "folderPath": "Easy/0653-two-sum-iv-input-is-a-bst/",
+      "readmePath": "Easy/0653-two-sum-iv-input-is-a-bst/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "0653-two-sum-iv-input-is-a-bst.java",
+          "path": "Easy/0653-two-sum-iv-input-is-a-bst/Java/0653-two-sum-iv-input-is-a-bst.java",
+          "sha": "31df2e3eff6d0fae6e18634710fdffee3152be4d",
+          "lastSyncedAt": "2026-11-07T05:54:24.344Z"
         }
       ]
     },
