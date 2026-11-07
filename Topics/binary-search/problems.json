@@ -5,8 +5,28 @@
     "name": "Binary Search",
     "tagId": "11"
   },
-  "updatedAt": "2026-11-07T04:55:24.736Z",
+  "updatedAt": "2026-11-07T04:56:04.919Z",
   "problems": [
+    {
+      "frontendId": "268",
+      "title": "Missing Number",
+      "slug": "missing-number",
+      "problemName": "0268-missing-number",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/missing-number/",
+      "folderPath": "Easy/0268-missing-number/",
+      "readmePath": "Easy/0268-missing-number/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "0268-missing-number.java",
+          "path": "Easy/0268-missing-number/Java/0268-missing-number.java",
+          "sha": "4518e390ebc3ac5a32c5af33d5fedc7b6166de0a",
+          "lastSyncedAt": "2026-11-07T04:56:04.919Z"
+        }
+      ]
+    },
     {
       "frontendId": "287",
       "title": "Find the Duplicate Number",
