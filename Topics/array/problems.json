@@ -5,7 +5,7 @@
     "name": "Array",
     "tagId": "5"
   },
-  "updatedAt": "2026-11-07T05:01:16.256Z",
+  "updatedAt": "2026-11-07T05:02:12.542Z",
   "problems": [
     {
       "frontendId": "1",
@@ -504,6 +504,26 @@
           "path": "Medium/0518-coin-change-ii/Java/0518-coin-change-ii.java",
           "sha": "215cbb61a8a3bc2c18c8a75a0263cc204bf31d99",
           "lastSyncedAt": "2026-11-07T04:51:40.735Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "643",
+      "title": "Maximum Average Subarray I",
+      "slug": "maximum-average-subarray-i",
+      "problemName": "0643-maximum-average-subarray-i",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/maximum-average-subarray-i/",
+      "folderPath": "Easy/0643-maximum-average-subarray-i/",
+      "readmePath": "Easy/0643-maximum-average-subarray-i/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "0643-maximum-average-subarray-i.java",
+          "path": "Easy/0643-maximum-average-subarray-i/Java/0643-maximum-average-subarray-i.java",
+          "sha": "6fec5cc1162487af79ef574f239e884b5d0c6f99",
+          "lastSyncedAt": "2026-11-07T05:02:12.542Z"
         }
       ]
     },
