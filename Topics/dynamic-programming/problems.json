@@ -5,8 +5,28 @@
     "name": "Dynamic Programming",
     "tagId": "13"
   },
-  "updatedAt": "2026-11-07T04:59:24.580Z",
+  "updatedAt": "2026-11-07T04:59:36.866Z",
   "problems": [
+    {
+      "frontendId": "63",
+      "title": "Unique Paths II",
+      "slug": "unique-paths-ii",
+      "problemName": "0063-unique-paths-ii",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/unique-paths-ii/",
+      "folderPath": "Medium/0063-unique-paths-ii/",
+      "readmePath": "Medium/0063-unique-paths-ii/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "0063-unique-paths-ii.java",
+          "path": "Medium/0063-unique-paths-ii/Java/0063-unique-paths-ii.java",
+          "sha": "a21175bd4dd521cb73e6f15aade829d75a42262a",
+          "lastSyncedAt": "2026-11-07T04:59:36.866Z"
+        }
+      ]
+    },
     {
       "frontendId": "118",
       "title": "Pascal's Triangle",
