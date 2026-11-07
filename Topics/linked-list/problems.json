@@ -5,7 +5,7 @@
     "name": "Linked List",
     "tagId": "7"
   },
-  "updatedAt": "2026-11-07T05:35:08.113Z",
+  "updatedAt": "2026-11-07T05:35:21.798Z",
   "problems": [
     {
       "frontendId": "24",
@@ -244,6 +244,26 @@
           "path": "Medium/0328-odd-even-linked-list/Java/0328-odd-even-linked-list.java",
           "sha": "f5171ba25abe56cbfb73002d641f3b16033414c8",
           "lastSyncedAt": "2026-11-07T05:32:43.803Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "707",
+      "title": "Design Linked List",
+      "slug": "design-linked-list",
+      "problemName": "0707-design-linked-list",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/design-linked-list/",
+      "folderPath": "Medium/0707-design-linked-list/",
+      "readmePath": "Medium/0707-design-linked-list/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "0707-design-linked-list.java",
+          "path": "Medium/0707-design-linked-list/Java/0707-design-linked-list.java",
+          "sha": "a10fd9fc5a1e4b0075fdf31be1dc2cf04878b3d6",
+          "lastSyncedAt": "2026-11-07T05:35:21.798Z"
         }
       ]
     },
