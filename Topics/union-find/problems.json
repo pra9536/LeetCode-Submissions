@@ -5,7 +5,7 @@
     "name": "Union-Find",
     "tagId": "23"
   },
-  "updatedAt": "2026-11-07T04:46:01.105Z",
+  "updatedAt": "2026-11-07T04:46:32.300Z",
   "problems": [
     {
       "frontendId": "200",
@@ -24,6 +24,26 @@
           "path": "Medium/0200-number-of-islands/Java/0200-number-of-islands.java",
           "sha": "c8dede20feb6c1ccab21c3afb17acd02c78ebc69",
           "lastSyncedAt": "2026-11-07T04:45:36.596Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "547",
+      "title": "Number of Provinces",
+      "slug": "number-of-provinces",
+      "problemName": "0547-number-of-provinces",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/number-of-provinces/",
+      "folderPath": "Medium/0547-number-of-provinces/",
+      "readmePath": "Medium/0547-number-of-provinces/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "0547-number-of-provinces.java",
+          "path": "Medium/0547-number-of-provinces/Java/0547-number-of-provinces.java",
+          "sha": "47a8e81c4af34ef3df42063a00836f737137405c",
+          "lastSyncedAt": "2026-11-07T04:46:32.300Z"
         }
       ]
     },
