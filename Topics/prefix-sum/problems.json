@@ -5,7 +5,7 @@
     "name": "Prefix Sum",
     "tagId": "61068"
   },
-  "updatedAt": "2026-11-07T05:44:27.375Z",
+  "updatedAt": "2026-11-07T05:46:58.229Z",
   "problems": [
     {
       "frontendId": "209",
@@ -84,6 +84,26 @@
           "path": "Medium/0731-my-calendar-ii/Java/0731-my-calendar-ii.java",
           "sha": "eb8dc47db0b2e48891b93187d96734db67160401",
           "lastSyncedAt": "2026-11-07T05:38:06.104Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "1674",
+      "title": "Minimum Moves to Make Array Complementary",
+      "slug": "minimum-moves-to-make-array-complementary",
+      "problemName": "1674-minimum-moves-to-make-array-complementary",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/minimum-moves-to-make-array-complementary/",
+      "folderPath": "Medium/1674-minimum-moves-to-make-array-complementary/",
+      "readmePath": "Medium/1674-minimum-moves-to-make-array-complementary/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "1674-minimum-moves-to-make-array-complementary.java",
+          "path": "Medium/1674-minimum-moves-to-make-array-complementary/Java/1674-minimum-moves-to-make-array-complementary.java",
+          "sha": "463e0c8e1759a71135af1ef2dae04ecc86743d87",
+          "lastSyncedAt": "2026-11-07T05:46:58.229Z"
         }
       ]
     },
