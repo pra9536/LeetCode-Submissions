@@ -5,7 +5,7 @@
     "name": "Hash Table",
     "tagId": "6"
   },
-  "updatedAt": "2026-11-07T04:50:38.531Z",
+  "updatedAt": "2026-11-07T04:50:51.663Z",
   "problems": [
     {
       "frontendId": "1",
@@ -24,6 +24,26 @@
           "path": "0001-two-sum/0001-two-sum.java",
           "sha": "8a77007fa25bf7258224400afd8ba0236f784afb",
           "lastSyncedAt": "2026-11-07T04:49:11.774Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "12",
+      "title": "Integer to Roman",
+      "slug": "integer-to-roman",
+      "problemName": "0012-integer-to-roman",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/integer-to-roman/",
+      "folderPath": "Medium/0012-integer-to-roman/",
+      "readmePath": "Medium/0012-integer-to-roman/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "0012-integer-to-roman.java",
+          "path": "Medium/0012-integer-to-roman/Java/0012-integer-to-roman.java",
+          "sha": "098efae921cbfb8d7c481c3ef547fb91b51c5183",
+          "lastSyncedAt": "2026-11-07T04:50:51.663Z"
         }
       ]
     },
