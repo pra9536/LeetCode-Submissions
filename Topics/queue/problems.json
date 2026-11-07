@@ -5,7 +5,7 @@
     "name": "Queue",
     "tagId": "34"
   },
-  "updatedAt": "2026-11-07T05:39:19.647Z",
+  "updatedAt": "2026-11-07T05:42:23.088Z",
   "problems": [
     {
       "frontendId": "232",
@@ -44,6 +44,26 @@
           "path": "Easy/0387-first-unique-character-in-a-string/Java/0387-first-unique-character-in-a-string.java",
           "sha": "f299601cf09ff124560731a42c4bcb3e966f1c80",
           "lastSyncedAt": "2026-11-07T05:39:19.647Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "3948",
+      "title": "Lexicographically Maximum MEX Array",
+      "slug": "lexicographically-maximum-mex-array",
+      "problemName": "3948-lexicographically-maximum-mex-array",
+      "difficulty": "Hard",
+      "leetcodeUrl": "https://leetcode.com/problems/lexicographically-maximum-mex-array/",
+      "folderPath": "Hard/3948-lexicographically-maximum-mex-array/",
+      "readmePath": "Hard/3948-lexicographically-maximum-mex-array/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "3948-lexicographically-maximum-mex-array.java",
+          "path": "Hard/3948-lexicographically-maximum-mex-array/Java/3948-lexicographically-maximum-mex-array.java",
+          "sha": "412595eff9106de9014f189871df673c9caa2291",
+          "lastSyncedAt": "2026-11-07T05:42:23.088Z"
         }
       ]
     }
