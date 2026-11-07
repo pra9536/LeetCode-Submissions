@@ -5,7 +5,7 @@
     "name": "Bit Manipulation",
     "tagId": "19"
   },
-  "updatedAt": "2026-11-07T06:09:05.384Z",
+  "updatedAt": "2026-11-07T06:09:24.656Z",
   "problems": [
     {
       "frontendId": "78",
@@ -244,6 +244,26 @@
           "path": "Medium/2657-find-the-prefix-common-array-of-two-arrays/Java/2657-find-the-prefix-common-array-of-two-arrays.java",
           "sha": "d5078ad7e97d2cd4b9400ae40a0a31ec4e4cb8f1",
           "lastSyncedAt": "2026-11-07T05:45:30.756Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "3827",
+      "title": "Count Monobit Integers",
+      "slug": "count-monobit-integers",
+      "problemName": "3827-count-monobit-integers",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/count-monobit-integers/",
+      "folderPath": "Easy/3827-count-monobit-integers/",
+      "readmePath": "Easy/3827-count-monobit-integers/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "3827-count-monobit-integers.java",
+          "path": "Easy/3827-count-monobit-integers/Java/3827-count-monobit-integers.java",
+          "sha": "60b4c5a29a6dea5cfa98b50ce0ecd164e54e26f6",
+          "lastSyncedAt": "2026-11-07T06:09:24.656Z"
         }
       ]
     }
