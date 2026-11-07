@@ -5,7 +5,7 @@
     "name": "Stack",
     "tagId": "15"
   },
-  "updatedAt": "2026-11-07T05:48:02.475Z",
+  "updatedAt": "2026-11-07T05:50:20.186Z",
   "problems": [
     {
       "frontendId": "20",
@@ -104,6 +104,26 @@
           "path": "Easy/0234-palindrome-linked-list/Java/0234-palindrome-linked-list.java",
           "sha": "5e226656a438549fd3fe6e0bcc1edb4f3a0d8375",
           "lastSyncedAt": "2026-11-07T05:34:27.546Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "496",
+      "title": "Next Greater Element I",
+      "slug": "next-greater-element-i",
+      "problemName": "0496-next-greater-element-i",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/next-greater-element-i/",
+      "folderPath": "Easy/0496-next-greater-element-i/",
+      "readmePath": "Easy/0496-next-greater-element-i/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "0496-next-greater-element-i.java",
+          "path": "Easy/0496-next-greater-element-i/Java/0496-next-greater-element-i.java",
+          "sha": "cf7f845bdb0c31a926e53e5103c03e0c750f363c",
+          "lastSyncedAt": "2026-11-07T05:50:20.186Z"
         }
       ]
     },
