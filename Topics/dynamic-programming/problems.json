@@ -5,7 +5,7 @@
     "name": "Dynamic Programming",
     "tagId": "13"
   },
-  "updatedAt": "2026-11-07T04:51:17.317Z",
+  "updatedAt": "2026-11-07T04:51:40.735Z",
   "problems": [
     {
       "frontendId": "118",
@@ -44,6 +44,26 @@
           "path": "Medium/0322-coin-change/Java/0322-coin-change.java",
           "sha": "64916ed0d989f97d6cf1b991c80b45a72eb4ba2d",
           "lastSyncedAt": "2026-11-07T04:51:17.317Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "518",
+      "title": "Coin Change II",
+      "slug": "coin-change-ii",
+      "problemName": "0518-coin-change-ii",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/coin-change-ii/",
+      "folderPath": "Medium/0518-coin-change-ii/",
+      "readmePath": "Medium/0518-coin-change-ii/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "0518-coin-change-ii.java",
+          "path": "Medium/0518-coin-change-ii/Java/0518-coin-change-ii.java",
+          "sha": "215cbb61a8a3bc2c18c8a75a0263cc204bf31d99",
+          "lastSyncedAt": "2026-11-07T04:51:40.735Z"
         }
       ]
     }
