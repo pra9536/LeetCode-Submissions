@@ -5,7 +5,7 @@
     "name": "Sliding Window",
     "tagId": "55821"
   },
-  "updatedAt": "2026-11-07T05:44:27.375Z",
+  "updatedAt": "2026-11-07T06:06:32.331Z",
   "problems": [
     {
       "frontendId": "3",
@@ -104,6 +104,26 @@
           "path": "Easy/0643-maximum-average-subarray-i/Java/0643-maximum-average-subarray-i.java",
           "sha": "6fec5cc1162487af79ef574f239e884b5d0c6f99",
           "lastSyncedAt": "2026-11-07T05:02:12.542Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "1004",
+      "title": "Max Consecutive Ones III",
+      "slug": "max-consecutive-ones-iii",
+      "problemName": "1004-max-consecutive-ones-iii",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/max-consecutive-ones-iii/",
+      "folderPath": "Medium/1004-max-consecutive-ones-iii/",
+      "readmePath": "Medium/1004-max-consecutive-ones-iii/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "1004-max-consecutive-ones-iii.java",
+          "path": "Medium/1004-max-consecutive-ones-iii/Java/1004-max-consecutive-ones-iii.java",
+          "sha": "2f9ccd85f30562aaa64e1dd94df888c3d55188bc",
+          "lastSyncedAt": "2026-11-07T06:06:32.331Z"
         }
       ]
     },
