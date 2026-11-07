@@ -5,7 +5,7 @@
     "name": "Array",
     "tagId": "5"
   },
-  "updatedAt": "2026-11-07T06:05:35.150Z",
+  "updatedAt": "2026-11-07T06:06:00.344Z",
   "problems": [
     {
       "frontendId": "1",
@@ -1184,6 +1184,26 @@
           "path": "Easy/0674-longest-continuous-increasing-subsequence/Java/0674-longest-continuous-increasing-subsequence.java",
           "sha": "25084ce243629f1a4823c3b1cb004a27fb5d0761",
           "lastSyncedAt": "2026-11-07T04:47:04.790Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "682",
+      "title": "Baseball Game",
+      "slug": "baseball-game",
+      "problemName": "0682-baseball-game",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/baseball-game/",
+      "folderPath": "Easy/0682-baseball-game/",
+      "readmePath": "Easy/0682-baseball-game/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "0682-baseball-game.java",
+          "path": "Easy/0682-baseball-game/Java/0682-baseball-game.java",
+          "sha": "a39921e5e3ce2ac4a492da8312331e43fbd59d26",
+          "lastSyncedAt": "2026-11-07T06:06:00.344Z"
         }
       ]
     },
