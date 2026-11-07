@@ -5,7 +5,7 @@
     "name": "Binary Search",
     "tagId": "11"
   },
-  "updatedAt": "2026-11-07T05:41:33.787Z",
+  "updatedAt": "2026-11-07T05:45:44.545Z",
   "problems": [
     {
       "frontendId": "33",
@@ -284,6 +284,26 @@
           "path": "Medium/0731-my-calendar-ii/Java/0731-my-calendar-ii.java",
           "sha": "eb8dc47db0b2e48891b93187d96734db67160401",
           "lastSyncedAt": "2026-11-07T05:38:06.104Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "2540",
+      "title": "Minimum Common Value",
+      "slug": "minimum-common-value",
+      "problemName": "2540-minimum-common-value",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/minimum-common-value/",
+      "folderPath": "Easy/2540-minimum-common-value/",
+      "readmePath": "Easy/2540-minimum-common-value/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "2540-minimum-common-value.java",
+          "path": "Easy/2540-minimum-common-value/Java/2540-minimum-common-value.java",
+          "sha": "662e705b4a896ecf10bef0308da9971619e2d2d3",
+          "lastSyncedAt": "2026-11-07T05:45:44.545Z"
         }
       ]
     },
