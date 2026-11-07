@@ -5,7 +5,7 @@
     "name": "Array",
     "tagId": "5"
   },
-  "updatedAt": "2026-11-07T06:04:09.873Z",
+  "updatedAt": "2026-11-07T06:04:28.802Z",
   "problems": [
     {
       "frontendId": "1",
@@ -1524,6 +1524,26 @@
           "path": "Easy/1752-check-if-array-is-sorted-and-rotated/Java/1752-check-if-array-is-sorted-and-rotated.java",
           "sha": "807dd6ed7390f11184645c1e99fbfda5c0e71c31",
           "lastSyncedAt": "2026-11-07T05:43:27.840Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "1823",
+      "title": "Find the Winner of the Circular Game",
+      "slug": "find-the-winner-of-the-circular-game",
+      "problemName": "1823-find-the-winner-of-the-circular-game",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/find-the-winner-of-the-circular-game/",
+      "folderPath": "Medium/1823-find-the-winner-of-the-circular-game/",
+      "readmePath": "Medium/1823-find-the-winner-of-the-circular-game/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "1823-find-the-winner-of-the-circular-game.java",
+          "path": "Medium/1823-find-the-winner-of-the-circular-game/Java/1823-find-the-winner-of-the-circular-game.java",
+          "sha": "2e198ca999aaa8f69983c61fbe3b500e98cc4a28",
+          "lastSyncedAt": "2026-11-07T06:04:28.802Z"
         }
       ]
     },
