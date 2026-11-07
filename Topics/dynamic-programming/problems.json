@@ -5,7 +5,7 @@
     "name": "Dynamic Programming",
     "tagId": "13"
   },
-  "updatedAt": "2026-11-07T05:42:41.670Z",
+  "updatedAt": "2026-11-07T05:44:27.375Z",
   "problems": [
     {
       "frontendId": "53",
@@ -284,6 +284,26 @@
           "path": "Medium/1277-count-square-submatrices-with-all-ones/Java/1277-count-square-submatrices-with-all-ones.java",
           "sha": "02817b529bc0867ff0def23d66a556e90452aced",
           "lastSyncedAt": "2026-11-07T04:59:24.580Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "1871",
+      "title": "Jump Game VII",
+      "slug": "jump-game-vii",
+      "problemName": "1871-jump-game-vii",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/jump-game-vii/",
+      "folderPath": "Medium/1871-jump-game-vii/",
+      "readmePath": "Medium/1871-jump-game-vii/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "1871-jump-game-vii.java",
+          "path": "Medium/1871-jump-game-vii/Java/1871-jump-game-vii.java",
+          "sha": "3f297e9bd9f53acf828166671b4c1a48ac9b76f8",
+          "lastSyncedAt": "2026-11-07T05:44:27.375Z"
         }
       ]
     },
