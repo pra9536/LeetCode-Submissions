@@ -1,0 +1,31 @@
+{
+  "version": 1,
+  "topic": {
+    "slug": "simulation",
+    "name": "Simulation",
+    "tagId": "61055"
+  },
+  "updatedAt": "2026-11-07T05:30:58.566Z",
+  "problems": [
+    {
+      "frontendId": "2696",
+      "title": "Minimum String Length After Removing Substrings",
+      "slug": "minimum-string-length-after-removing-substrings",
+      "problemName": "2696-minimum-string-length-after-removing-substrings",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/minimum-string-length-after-removing-substrings/",
+      "folderPath": "Easy/2696-minimum-string-length-after-removing-substrings/",
+      "readmePath": "Easy/2696-minimum-string-length-after-removing-substrings/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "2696-minimum-string-length-after-removing-substrings.java",
+          "path": "Easy/2696-minimum-string-length-after-removing-substrings/Java/2696-minimum-string-length-after-removing-substrings.java",
+          "sha": "0d6abbcbd74199b5183e5ef1675465f0bc6e8c77",
+          "lastSyncedAt": "2026-11-07T05:30:58.566Z"
+        }
+      ]
+    }
+  ]
+}
