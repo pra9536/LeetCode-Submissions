@@ -5,7 +5,7 @@
     "name": "Depth-First Search",
     "tagId": "21"
   },
-  "updatedAt": "2026-11-07T06:00:01.481Z",
+  "updatedAt": "2026-11-07T06:00:20.606Z",
   "problems": [
     {
       "frontendId": "94",
@@ -44,6 +44,26 @@
           "path": "Medium/0098-validate-binary-search-tree/Java/0098-validate-binary-search-tree.java",
           "sha": "c8898848a2deb76758b1c9aa89c471ba0050802d",
           "lastSyncedAt": "2026-11-07T05:55:48.474Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "110",
+      "title": "Balanced Binary Tree",
+      "slug": "balanced-binary-tree",
+      "problemName": "0110-balanced-binary-tree",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/balanced-binary-tree/",
+      "folderPath": "Easy/0110-balanced-binary-tree/",
+      "readmePath": "Easy/0110-balanced-binary-tree/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "0110-balanced-binary-tree.java",
+          "path": "Easy/0110-balanced-binary-tree/Java/0110-balanced-binary-tree.java",
+          "sha": "eb7bf0082bb4a89d75effe8d322d91a4118c0d29",
+          "lastSyncedAt": "2026-11-07T06:00:20.606Z"
         }
       ]
     },
