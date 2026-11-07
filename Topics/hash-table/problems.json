@@ -5,7 +5,7 @@
     "name": "Hash Table",
     "tagId": "6"
   },
-  "updatedAt": "2026-11-07T04:48:46.780Z",
+  "updatedAt": "2026-11-07T04:49:11.774Z",
   "problems": [
     {
       "frontendId": "1",
@@ -14,8 +14,8 @@
       "problemName": "0001-two-sum",
       "difficulty": "Easy",
       "leetcodeUrl": "https://leetcode.com/problems/two-sum/",
-      "folderPath": "0001-two-sum/",
-      "readmePath": "0001-two-sum/README.md",
+      "folderPath": "Easy/0001-two-sum/",
+      "readmePath": "Easy/0001-two-sum/README.md",
       "solutions": [
         {
           "language": "Java",
@@ -23,7 +23,7 @@
           "filename": "0001-two-sum.java",
           "path": "0001-two-sum/0001-two-sum.java",
           "sha": "8a77007fa25bf7258224400afd8ba0236f784afb",
-          "lastSyncedAt": "2026-10-13T18:42:42.674Z"
+          "lastSyncedAt": "2026-11-07T04:49:11.774Z"
         }
       ]
     },
