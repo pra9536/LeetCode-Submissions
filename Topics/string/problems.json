@@ -5,7 +5,7 @@
     "name": "String",
     "tagId": "10"
   },
-  "updatedAt": "2026-11-07T05:39:19.647Z",
+  "updatedAt": "2026-11-07T05:43:48.805Z",
   "problems": [
     {
       "frontendId": "3",
@@ -464,6 +464,26 @@
           "path": "Easy/2696-minimum-string-length-after-removing-substrings/Java/2696-minimum-string-length-after-removing-substrings.java",
           "sha": "0d6abbcbd74199b5183e5ef1675465f0bc6e8c77",
           "lastSyncedAt": "2026-11-07T05:30:58.566Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "3093",
+      "title": "Longest Common Suffix Queries",
+      "slug": "longest-common-suffix-queries",
+      "problemName": "3093-longest-common-suffix-queries",
+      "difficulty": "Hard",
+      "leetcodeUrl": "https://leetcode.com/problems/longest-common-suffix-queries/",
+      "folderPath": "Hard/3093-longest-common-suffix-queries/",
+      "readmePath": "Hard/3093-longest-common-suffix-queries/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "3093-longest-common-suffix-queries.java",
+          "path": "Hard/3093-longest-common-suffix-queries/Java/3093-longest-common-suffix-queries.java",
+          "sha": "aad670827b258da512e16f435444f7410a2329a5",
+          "lastSyncedAt": "2026-11-07T05:43:48.805Z"
         }
       ]
     }
