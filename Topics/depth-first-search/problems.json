@@ -5,7 +5,7 @@
     "name": "Depth-First Search",
     "tagId": "21"
   },
-  "updatedAt": "2026-11-07T05:48:02.475Z",
+  "updatedAt": "2026-11-07T05:54:07.741Z",
   "problems": [
     {
       "frontendId": "94",
@@ -144,6 +144,26 @@
           "path": "Medium/1020-number-of-enclaves/Java/1020-number-of-enclaves.java",
           "sha": "bb925389c297432b8d58a7abb14e80dd44a67ba1",
           "lastSyncedAt": "2026-11-07T05:43:07.167Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "1038",
+      "title": "Binary Search Tree to Greater Sum Tree",
+      "slug": "binary-search-tree-to-greater-sum-tree",
+      "problemName": "1038-binary-search-tree-to-greater-sum-tree",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/binary-search-tree-to-greater-sum-tree/",
+      "folderPath": "Medium/1038-binary-search-tree-to-greater-sum-tree/",
+      "readmePath": "Medium/1038-binary-search-tree-to-greater-sum-tree/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "1038-binary-search-tree-to-greater-sum-tree.java",
+          "path": "Medium/1038-binary-search-tree-to-greater-sum-tree/Java/1038-binary-search-tree-to-greater-sum-tree.java",
+          "sha": "001f02192adde894a5bad468de03b0eddd1cb5d8",
+          "lastSyncedAt": "2026-11-07T05:54:07.741Z"
         }
       ]
     },
