@@ -5,8 +5,28 @@
     "name": "Math",
     "tagId": "8"
   },
-  "updatedAt": "2026-11-07T05:49:24.855Z",
+  "updatedAt": "2026-11-07T05:50:49.555Z",
   "problems": [
+    {
+      "frontendId": "7",
+      "title": "Reverse Integer",
+      "slug": "reverse-integer",
+      "problemName": "0007-reverse-integer",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/reverse-integer/",
+      "folderPath": "Medium/0007-reverse-integer/",
+      "readmePath": "Medium/0007-reverse-integer/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "0007-reverse-integer.java",
+          "path": "Medium/0007-reverse-integer/Java/0007-reverse-integer.java",
+          "sha": "57842af2d4f026d8965b320165e6e719c7ca2332",
+          "lastSyncedAt": "2026-11-07T05:50:49.555Z"
+        }
+      ]
+    },
     {
       "frontendId": "12",
       "title": "Integer to Roman",
