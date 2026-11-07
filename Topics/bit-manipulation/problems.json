@@ -5,7 +5,7 @@
     "name": "Bit Manipulation",
     "tagId": "19"
   },
-  "updatedAt": "2026-11-07T06:09:24.656Z",
+  "updatedAt": "2026-11-07T06:09:32.704Z",
   "problems": [
     {
       "frontendId": "78",
@@ -244,6 +244,26 @@
           "path": "Medium/2657-find-the-prefix-common-array-of-two-arrays/Java/2657-find-the-prefix-common-array-of-two-arrays.java",
           "sha": "d5078ad7e97d2cd4b9400ae40a0a31ec4e4cb8f1",
           "lastSyncedAt": "2026-11-07T05:45:30.756Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "3825",
+      "title": "Longest Strictly Increasing Subsequence With Non-Zero Bitwise AND",
+      "slug": "longest-strictly-increasing-subsequence-with-non-zero-bitwise-and",
+      "problemName": "3825-longest-strictly-increasing-subsequence-with-non-zero-bitwise-and",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/longest-strictly-increasing-subsequence-with-non-zero-bitwise-and/",
+      "folderPath": "Medium/3825-longest-strictly-increasing-subsequence-with-non-zero-bitwise-and/",
+      "readmePath": "Medium/3825-longest-strictly-increasing-subsequence-with-non-zero-bitwise-and/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "3825-longest-strictly-increasing-subsequence-with-non-zero-bitwise-and.java",
+          "path": "Medium/3825-longest-strictly-increasing-subsequence-with-non-zero-bitwise-and/Java/3825-longest-strictly-increasing-subsequence-with-non-zero-bitwise-and.java",
+          "sha": "49a81294abfed0703f8ba674af5df05de3361811",
+          "lastSyncedAt": "2026-11-07T06:09:32.704Z"
         }
       ]
     },
