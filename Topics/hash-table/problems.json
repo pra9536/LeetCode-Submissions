@@ -5,7 +5,7 @@
     "name": "Hash Table",
     "tagId": "6"
   },
-  "updatedAt": "2026-11-07T05:58:54.302Z",
+  "updatedAt": "2026-11-07T06:06:56.460Z",
   "problems": [
     {
       "frontendId": "1",
@@ -444,6 +444,26 @@
           "path": "Easy/0496-next-greater-element-i/Java/0496-next-greater-element-i.java",
           "sha": "cf7f845bdb0c31a926e53e5103c03e0c750f363c",
           "lastSyncedAt": "2026-11-07T05:50:20.186Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "525",
+      "title": "Contiguous Array",
+      "slug": "contiguous-array",
+      "problemName": "0525-contiguous-array",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/contiguous-array/",
+      "folderPath": "Medium/0525-contiguous-array/",
+      "readmePath": "Medium/0525-contiguous-array/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "0525-contiguous-array.java",
+          "path": "Medium/0525-contiguous-array/Java/0525-contiguous-array.java",
+          "sha": "0003898c0f637b1be536b5b21361589eaec3ef06",
+          "lastSyncedAt": "2026-11-07T06:06:56.460Z"
         }
       ]
     },
