@@ -5,7 +5,7 @@
     "name": "Depth-First Search",
     "tagId": "21"
   },
-  "updatedAt": "2026-11-07T06:02:00.661Z",
+  "updatedAt": "2026-11-07T06:02:18.259Z",
   "problems": [
     {
       "frontendId": "94",
@@ -224,6 +224,26 @@
           "path": "Medium/0210-course-schedule-ii/Java/0210-course-schedule-ii.java",
           "sha": "9a8f63bea55a4fac509180332d34ac710c109cc1",
           "lastSyncedAt": "2026-11-07T05:37:26.576Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "226",
+      "title": "Invert Binary Tree",
+      "slug": "invert-binary-tree",
+      "problemName": "0226-invert-binary-tree",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/invert-binary-tree/",
+      "folderPath": "Easy/0226-invert-binary-tree/",
+      "readmePath": "Easy/0226-invert-binary-tree/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "0226-invert-binary-tree.java",
+          "path": "Easy/0226-invert-binary-tree/Java/0226-invert-binary-tree.java",
+          "sha": "dd70cbb5dd9875488da13cf4ae6b163a146c96db",
+          "lastSyncedAt": "2026-11-07T06:02:18.259Z"
         }
       ]
     },
