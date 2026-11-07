@@ -5,7 +5,7 @@
     "name": "String",
     "tagId": "10"
   },
-  "updatedAt": "2026-11-07T06:08:17.936Z",
+  "updatedAt": "2026-11-07T06:09:55.899Z",
   "problems": [
     {
       "frontendId": "3",
@@ -644,6 +644,26 @@
           "path": "Medium/3121-count-the-number-of-special-characters-ii/Java/3121-count-the-number-of-special-characters-ii.java",
           "sha": "0cd162033433725e3e7f887ab3439f28d18dbe2e",
           "lastSyncedAt": "2026-11-07T05:44:04.535Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "3823",
+      "title": "Reverse Letters Then Special Characters in a String",
+      "slug": "reverse-letters-then-special-characters-in-a-string",
+      "problemName": "3823-reverse-letters-then-special-characters-in-a-string",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/reverse-letters-then-special-characters-in-a-string/",
+      "folderPath": "Easy/3823-reverse-letters-then-special-characters-in-a-string/",
+      "readmePath": "Easy/3823-reverse-letters-then-special-characters-in-a-string/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "3823-reverse-letters-then-special-characters-in-a-string.java",
+          "path": "Easy/3823-reverse-letters-then-special-characters-in-a-string/Java/3823-reverse-letters-then-special-characters-in-a-string.java",
+          "sha": "ade4a47d5db3b4db141dd576e17d7a61c7fb928c",
+          "lastSyncedAt": "2026-11-07T06:09:55.899Z"
         }
       ]
     },
