@@ -5,7 +5,7 @@
     "name": "Array",
     "tagId": "5"
   },
-  "updatedAt": "2026-11-07T06:03:38.696Z",
+  "updatedAt": "2026-11-07T06:04:09.873Z",
   "problems": [
     {
       "frontendId": "1",
@@ -1064,6 +1064,26 @@
           "path": "Medium/0560-subarray-sum-equals-k/Java/0560-subarray-sum-equals-k.java",
           "sha": "78a528556bdfc338922e1cb439d7fedba6b14171",
           "lastSyncedAt": "2026-11-07T05:40:00.602Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "622",
+      "title": "Design Circular Queue",
+      "slug": "design-circular-queue",
+      "problemName": "0622-design-circular-queue",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/design-circular-queue/",
+      "folderPath": "Medium/0622-design-circular-queue/",
+      "readmePath": "Medium/0622-design-circular-queue/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "0622-design-circular-queue.java",
+          "path": "Medium/0622-design-circular-queue/Java/0622-design-circular-queue.java",
+          "sha": "53cda0ee586a475cb861230ce4db74b66594a3ef",
+          "lastSyncedAt": "2026-11-07T06:04:09.873Z"
         }
       ]
     },
