@@ -5,7 +5,7 @@
     "name": "String",
     "tagId": "10"
   },
-  "updatedAt": "2026-11-07T05:44:59.758Z",
+  "updatedAt": "2026-11-07T05:52:05.470Z",
   "problems": [
     {
       "frontendId": "3",
@@ -304,6 +304,26 @@
           "path": "Easy/0387-first-unique-character-in-a-string/Java/0387-first-unique-character-in-a-string.java",
           "sha": "f299601cf09ff124560731a42c4bcb3e966f1c80",
           "lastSyncedAt": "2026-11-07T05:39:19.647Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "443",
+      "title": "String Compression",
+      "slug": "string-compression",
+      "problemName": "0443-string-compression",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/string-compression/",
+      "folderPath": "Medium/0443-string-compression/",
+      "readmePath": "Medium/0443-string-compression/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "0443-string-compression.java",
+          "path": "Medium/0443-string-compression/Java/0443-string-compression.java",
+          "sha": "db68e914a7065ffaefc24841cd659bff5d67829d",
+          "lastSyncedAt": "2026-11-07T05:52:05.470Z"
         }
       ]
     },
