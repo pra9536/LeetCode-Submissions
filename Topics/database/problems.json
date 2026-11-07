@@ -5,8 +5,28 @@
     "name": "Database",
     "tagId": "61043"
   },
-  "updatedAt": "2026-11-07T04:59:17.087Z",
+  "updatedAt": "2026-11-07T05:50:05.503Z",
   "problems": [
+    {
+      "frontendId": "184",
+      "title": "Department Highest Salary",
+      "slug": "department-highest-salary",
+      "problemName": "0184-department-highest-salary",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/department-highest-salary/",
+      "folderPath": "Medium/0184-department-highest-salary/",
+      "readmePath": "Medium/0184-department-highest-salary/README.md",
+      "solutions": [
+        {
+          "language": "MySQL",
+          "extension": ".sql",
+          "filename": "0184-department-highest-salary.sql",
+          "path": "Medium/0184-department-highest-salary/MySQL/0184-department-highest-salary.sql",
+          "sha": "2b0c933041f1dccb2ac5979803c226684e83a825",
+          "lastSyncedAt": "2026-11-07T05:50:05.503Z"
+        }
+      ]
+    },
     {
       "frontendId": "197",
       "title": "Rising Temperature",
