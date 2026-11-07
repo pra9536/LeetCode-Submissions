@@ -5,7 +5,7 @@
     "name": "Sorting",
     "tagId": "61049"
   },
-  "updatedAt": "2026-11-07T05:40:47.413Z",
+  "updatedAt": "2026-11-07T05:40:58.220Z",
   "problems": [
     {
       "frontendId": "15",
@@ -424,6 +424,26 @@
           "path": "3727-maximum-alternating-sum-of-squares/3727-maximum-alternating-sum-of-squares.java",
           "sha": "4db73161832719e06acf563ac2a200a8c2781163",
           "lastSyncedAt": "2026-11-07T04:49:21.429Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "3974",
+      "title": "Maximum Total Sum of K Selected Elements",
+      "slug": "maximum-total-sum-of-k-selected-elements",
+      "problemName": "3974-maximum-total-sum-of-k-selected-elements",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/maximum-total-sum-of-k-selected-elements/",
+      "folderPath": "Medium/3974-maximum-total-sum-of-k-selected-elements/",
+      "readmePath": "Medium/3974-maximum-total-sum-of-k-selected-elements/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "3974-maximum-total-sum-of-k-selected-elements.java",
+          "path": "Medium/3974-maximum-total-sum-of-k-selected-elements/Java/3974-maximum-total-sum-of-k-selected-elements.java",
+          "sha": "1b4bf3ca84547bc97b676b40f1f8137ec183844e",
+          "lastSyncedAt": "2026-11-07T05:40:58.220Z"
         }
       ]
     },
