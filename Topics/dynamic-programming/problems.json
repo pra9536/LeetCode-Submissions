@@ -5,7 +5,7 @@
     "name": "Dynamic Programming",
     "tagId": "13"
   },
-  "updatedAt": "2026-11-07T05:44:45.708Z",
+  "updatedAt": "2026-11-07T05:47:38.264Z",
   "problems": [
     {
       "frontendId": "53",
@@ -324,6 +324,26 @@
           "path": "Medium/1871-jump-game-vii/Java/1871-jump-game-vii.java",
           "sha": "3f297e9bd9f53acf828166671b4c1a48ac9b76f8",
           "lastSyncedAt": "2026-11-07T05:44:27.375Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "2770",
+      "title": "Maximum Number of Jumps to Reach the Last Index",
+      "slug": "maximum-number-of-jumps-to-reach-the-last-index",
+      "problemName": "2770-maximum-number-of-jumps-to-reach-the-last-index",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/maximum-number-of-jumps-to-reach-the-last-index/",
+      "folderPath": "Medium/2770-maximum-number-of-jumps-to-reach-the-last-index/",
+      "readmePath": "Medium/2770-maximum-number-of-jumps-to-reach-the-last-index/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "2770-maximum-number-of-jumps-to-reach-the-last-index.java",
+          "path": "Medium/2770-maximum-number-of-jumps-to-reach-the-last-index/Java/2770-maximum-number-of-jumps-to-reach-the-last-index.java",
+          "sha": "6b821046ae54fd29282fb3c225d1767c879baace",
+          "lastSyncedAt": "2026-11-07T05:47:38.264Z"
         }
       ]
     },
