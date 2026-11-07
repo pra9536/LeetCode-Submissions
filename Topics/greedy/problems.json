@@ -5,7 +5,7 @@
     "name": "Greedy",
     "tagId": "17"
   },
-  "updatedAt": "2026-11-07T04:46:48.416Z",
+  "updatedAt": "2026-11-07T04:49:21.429Z",
   "problems": [
     {
       "frontendId": "680",
@@ -34,8 +34,8 @@
       "problemName": "3727-maximum-alternating-sum-of-squares",
       "difficulty": "Medium",
       "leetcodeUrl": "https://leetcode.com/problems/maximum-alternating-sum-of-squares/",
-      "folderPath": "3727-maximum-alternating-sum-of-squares/",
-      "readmePath": "3727-maximum-alternating-sum-of-squares/README.md",
+      "folderPath": "Medium/3727-maximum-alternating-sum-of-squares/",
+      "readmePath": "Medium/3727-maximum-alternating-sum-of-squares/README.md",
       "solutions": [
         {
           "language": "Java",
@@ -43,7 +43,7 @@
           "filename": "3727-maximum-alternating-sum-of-squares.java",
           "path": "3727-maximum-alternating-sum-of-squares/3727-maximum-alternating-sum-of-squares.java",
           "sha": "4db73161832719e06acf563ac2a200a8c2781163",
-          "lastSyncedAt": "2026-10-13T18:31:49.810Z"
+          "lastSyncedAt": "2026-11-07T04:49:21.429Z"
         }
       ]
     }
