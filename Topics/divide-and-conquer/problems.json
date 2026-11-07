@@ -5,7 +5,7 @@
     "name": "Divide and Conquer",
     "tagId": "12"
   },
-  "updatedAt": "2026-11-07T04:52:50.900Z",
+  "updatedAt": "2026-11-07T04:56:47.876Z",
   "problems": [
     {
       "frontendId": "169",
@@ -44,6 +44,26 @@
           "path": "Easy/0190-reverse-bits/Java/0190-reverse-bits.java",
           "sha": "b9fe0b6c1001d67b53d419e4d9c7fd708f780feb",
           "lastSyncedAt": "2026-11-07T04:52:50.900Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "1985",
+      "title": "Find the Kth Largest Integer in the Array",
+      "slug": "find-the-kth-largest-integer-in-the-array",
+      "problemName": "1985-find-the-kth-largest-integer-in-the-array",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/find-the-kth-largest-integer-in-the-array/",
+      "folderPath": "Medium/1985-find-the-kth-largest-integer-in-the-array/",
+      "readmePath": "Medium/1985-find-the-kth-largest-integer-in-the-array/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "1985-find-the-kth-largest-integer-in-the-array.java",
+          "path": "Medium/1985-find-the-kth-largest-integer-in-the-array/Java/1985-find-the-kth-largest-integer-in-the-array.java",
+          "sha": "abcb95153cc1da01a5de7745fb54c473abc09f8d",
+          "lastSyncedAt": "2026-11-07T04:56:47.876Z"
         }
       ]
     }
