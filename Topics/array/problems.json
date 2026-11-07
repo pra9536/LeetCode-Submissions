@@ -5,7 +5,7 @@
     "name": "Array",
     "tagId": "5"
   },
-  "updatedAt": "2026-11-07T05:45:44.545Z",
+  "updatedAt": "2026-11-07T05:46:02.662Z",
   "problems": [
     {
       "frontendId": "1",
@@ -984,6 +984,26 @@
           "path": "Hard/1340-jump-game-v/Java/1340-jump-game-v.java",
           "sha": "c6239eb9fc814ddf6d0e81a2c1562d0224ef8ba0",
           "lastSyncedAt": "2026-11-07T05:44:45.708Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "1345",
+      "title": "Jump Game IV",
+      "slug": "jump-game-iv",
+      "problemName": "1345-jump-game-iv",
+      "difficulty": "Hard",
+      "leetcodeUrl": "https://leetcode.com/problems/jump-game-iv/",
+      "folderPath": "Hard/1345-jump-game-iv/",
+      "readmePath": "Hard/1345-jump-game-iv/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "1345-jump-game-iv.java",
+          "path": "Hard/1345-jump-game-iv/Java/1345-jump-game-iv.java",
+          "sha": "f6b13e9f33c76ef279fdadb837272c9c05833288",
+          "lastSyncedAt": "2026-11-07T05:46:02.662Z"
         }
       ]
     },
