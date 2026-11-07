@@ -5,7 +5,7 @@
     "name": "String",
     "tagId": "10"
   },
-  "updatedAt": "2026-11-07T06:07:20.130Z",
+  "updatedAt": "2026-11-07T06:07:33.846Z",
   "problems": [
     {
       "frontendId": "3",
@@ -624,6 +624,26 @@
           "path": "Medium/3121-count-the-number-of-special-characters-ii/Java/3121-count-the-number-of-special-characters-ii.java",
           "sha": "0cd162033433725e3e7f887ab3439f28d18dbe2e",
           "lastSyncedAt": "2026-11-07T05:44:04.535Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "3838",
+      "title": "Weighted Word Mapping",
+      "slug": "weighted-word-mapping",
+      "problemName": "3838-weighted-word-mapping",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/weighted-word-mapping/",
+      "folderPath": "Easy/3838-weighted-word-mapping/",
+      "readmePath": "Easy/3838-weighted-word-mapping/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "3838-weighted-word-mapping.java",
+          "path": "Easy/3838-weighted-word-mapping/Java/3838-weighted-word-mapping.java",
+          "sha": "8607c00984be8d25906de19c3ed22b04fd12e68d",
+          "lastSyncedAt": "2026-11-07T06:07:33.846Z"
         }
       ]
     },
