@@ -1,0 +1,31 @@
+{
+  "version": 1,
+  "topic": {
+    "slug": "database",
+    "name": "Database",
+    "tagId": "61043"
+  },
+  "updatedAt": "2026-11-07T04:57:57.990Z",
+  "problems": [
+    {
+      "frontendId": "1280",
+      "title": "Students and Examinations",
+      "slug": "students-and-examinations",
+      "problemName": "1280-students-and-examinations",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/students-and-examinations/",
+      "folderPath": "Easy/1280-students-and-examinations/",
+      "readmePath": "Easy/1280-students-and-examinations/README.md",
+      "solutions": [
+        {
+          "language": "MySQL",
+          "extension": ".sql",
+          "filename": "1280-students-and-examinations.sql",
+          "path": "Easy/1280-students-and-examinations/MySQL/1280-students-and-examinations.sql",
+          "sha": "c906e4641f0bcf25c8300638a554fac8c0200432",
+          "lastSyncedAt": "2026-11-07T04:57:57.990Z"
+        }
+      ]
+    }
+  ]
+}
