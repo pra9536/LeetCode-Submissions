@@ -5,8 +5,28 @@
     "name": "Database",
     "tagId": "61043"
   },
-  "updatedAt": "2026-11-07T05:50:05.503Z",
+  "updatedAt": "2026-11-07T05:50:12.915Z",
   "problems": [
+    {
+      "frontendId": "176",
+      "title": "Second Highest Salary",
+      "slug": "second-highest-salary",
+      "problemName": "0176-second-highest-salary",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/second-highest-salary/",
+      "folderPath": "Medium/0176-second-highest-salary/",
+      "readmePath": "Medium/0176-second-highest-salary/README.md",
+      "solutions": [
+        {
+          "language": "MySQL",
+          "extension": ".sql",
+          "filename": "0176-second-highest-salary.sql",
+          "path": "Medium/0176-second-highest-salary/MySQL/0176-second-highest-salary.sql",
+          "sha": "7263ac480d95357fc41dfea63bd5435aa879eb67",
+          "lastSyncedAt": "2026-11-07T05:50:12.915Z"
+        }
+      ]
+    },
     {
       "frontendId": "184",
       "title": "Department Highest Salary",
