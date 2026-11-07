@@ -5,7 +5,7 @@
     "name": "Simulation",
     "tagId": "61055"
   },
-  "updatedAt": "2026-11-07T06:06:11.068Z",
+  "updatedAt": "2026-11-07T06:07:33.846Z",
   "problems": [
     {
       "frontendId": "682",
@@ -124,6 +124,26 @@
           "path": "Easy/2696-minimum-string-length-after-removing-substrings/Java/2696-minimum-string-length-after-removing-substrings.java",
           "sha": "0d6abbcbd74199b5183e5ef1675465f0bc6e8c77",
           "lastSyncedAt": "2026-11-07T05:30:58.566Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "3838",
+      "title": "Weighted Word Mapping",
+      "slug": "weighted-word-mapping",
+      "problemName": "3838-weighted-word-mapping",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/weighted-word-mapping/",
+      "folderPath": "Easy/3838-weighted-word-mapping/",
+      "readmePath": "Easy/3838-weighted-word-mapping/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "3838-weighted-word-mapping.java",
+          "path": "Easy/3838-weighted-word-mapping/Java/3838-weighted-word-mapping.java",
+          "sha": "8607c00984be8d25906de19c3ed22b04fd12e68d",
+          "lastSyncedAt": "2026-11-07T06:07:33.846Z"
         }
       ]
     }
