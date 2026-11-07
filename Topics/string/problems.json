@@ -5,8 +5,28 @@
     "name": "String",
     "tagId": "10"
   },
-  "updatedAt": "2026-11-07T04:49:35.276Z",
+  "updatedAt": "2026-11-07T04:50:31.345Z",
   "problems": [
+    {
+      "frontendId": "6",
+      "title": "Zigzag Conversion",
+      "slug": "zigzag-conversion",
+      "problemName": "0006-zigzag-conversion",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/zigzag-conversion/",
+      "folderPath": "Medium/0006-zigzag-conversion/",
+      "readmePath": "Medium/0006-zigzag-conversion/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "0006-zigzag-conversion.java",
+          "path": "Medium/0006-zigzag-conversion/Java/0006-zigzag-conversion.java",
+          "sha": "dc3560872058311925437b9535c309f955028e25",
+          "lastSyncedAt": "2026-11-07T04:50:31.345Z"
+        }
+      ]
+    },
     {
       "frontendId": "49",
       "title": "Group Anagrams",
