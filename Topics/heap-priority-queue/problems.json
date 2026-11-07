@@ -5,7 +5,7 @@
     "name": "Heap (Priority Queue)",
     "tagId": "61050"
   },
-  "updatedAt": "2026-11-07T05:53:11.279Z",
+  "updatedAt": "2026-11-07T06:08:36.410Z",
   "problems": [
     {
       "frontendId": "215",
@@ -44,6 +44,26 @@
           "path": "Medium/0378-kth-smallest-element-in-a-sorted-matrix/Java/0378-kth-smallest-element-in-a-sorted-matrix.java",
           "sha": "96c3bc07ef459acec40d5087224a288e24c5f5e8",
           "lastSyncedAt": "2026-11-07T04:53:45.702Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "912",
+      "title": "Sort an Array",
+      "slug": "sort-an-array",
+      "problemName": "0912-sort-an-array",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/sort-an-array/",
+      "folderPath": "Medium/0912-sort-an-array/",
+      "readmePath": "Medium/0912-sort-an-array/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "0912-sort-an-array.java",
+          "path": "Medium/0912-sort-an-array/Java/0912-sort-an-array.java",
+          "sha": "76f174f07938225365b1d396c9e763b7a6564b05",
+          "lastSyncedAt": "2026-11-07T06:08:36.410Z"
         }
       ]
     },
