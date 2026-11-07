@@ -5,8 +5,28 @@
     "name": "Number Theory",
     "tagId": "61067"
   },
-  "updatedAt": "2026-11-07T05:51:04.509Z",
+  "updatedAt": "2026-11-07T05:51:35.733Z",
   "problems": [
+    {
+      "frontendId": "204",
+      "title": "Count Primes",
+      "slug": "count-primes",
+      "problemName": "0204-count-primes",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/count-primes/",
+      "folderPath": "Medium/0204-count-primes/",
+      "readmePath": "Medium/0204-count-primes/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "0204-count-primes.java",
+          "path": "Medium/0204-count-primes/Java/0204-count-primes.java",
+          "sha": "457ba26503a5cab9bf4a2dcf2f8e2d54a70bb9ad",
+          "lastSyncedAt": "2026-11-07T05:51:35.733Z"
+        }
+      ]
+    },
     {
       "frontendId": "1979",
       "title": "Find Greatest Common Divisor of Array",
