@@ -5,7 +5,7 @@
     "name": "Array",
     "tagId": "5"
   },
-  "updatedAt": "2026-11-07T05:30:07.059Z",
+  "updatedAt": "2026-11-07T05:30:18.510Z",
   "problems": [
     {
       "frontendId": "1",
@@ -664,6 +664,26 @@
           "path": "Easy/0674-longest-continuous-increasing-subsequence/Java/0674-longest-continuous-increasing-subsequence.java",
           "sha": "25084ce243629f1a4823c3b1cb004a27fb5d0761",
           "lastSyncedAt": "2026-11-07T04:47:04.790Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "704",
+      "title": "Binary Search",
+      "slug": "binary-search",
+      "problemName": "0704-binary-search",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/binary-search/",
+      "folderPath": "Easy/0704-binary-search/",
+      "readmePath": "Easy/0704-binary-search/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "0704-binary-search.java",
+          "path": "Easy/0704-binary-search/Java/0704-binary-search.java",
+          "sha": "c088afba561b429ca3e76033220dbd67c7d2d3e0",
+          "lastSyncedAt": "2026-11-07T05:30:18.510Z"
         }
       ]
     },
