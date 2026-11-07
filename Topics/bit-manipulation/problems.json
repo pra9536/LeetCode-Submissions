@@ -5,7 +5,7 @@
     "name": "Bit Manipulation",
     "tagId": "19"
   },
-  "updatedAt": "2026-11-07T06:09:32.704Z",
+  "updatedAt": "2026-11-07T06:10:10.128Z",
   "problems": [
     {
       "frontendId": "78",
@@ -244,6 +244,26 @@
           "path": "Medium/2657-find-the-prefix-common-array-of-two-arrays/Java/2657-find-the-prefix-common-array-of-two-arrays.java",
           "sha": "d5078ad7e97d2cd4b9400ae40a0a31ec4e4cb8f1",
           "lastSyncedAt": "2026-11-07T05:45:30.756Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "3821",
+      "title": "Find Nth Smallest Integer With K One Bits",
+      "slug": "find-nth-smallest-integer-with-k-one-bits",
+      "problemName": "3821-find-nth-smallest-integer-with-k-one-bits",
+      "difficulty": "Hard",
+      "leetcodeUrl": "https://leetcode.com/problems/find-nth-smallest-integer-with-k-one-bits/",
+      "folderPath": "Hard/3821-find-nth-smallest-integer-with-k-one-bits/",
+      "readmePath": "Hard/3821-find-nth-smallest-integer-with-k-one-bits/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "3821-find-nth-smallest-integer-with-k-one-bits.java",
+          "path": "Hard/3821-find-nth-smallest-integer-with-k-one-bits/Java/3821-find-nth-smallest-integer-with-k-one-bits.java",
+          "sha": "54e991ee3027f8b3ea7704e4075052fea3eecd63",
+          "lastSyncedAt": "2026-11-07T06:10:10.128Z"
         }
       ]
     },
