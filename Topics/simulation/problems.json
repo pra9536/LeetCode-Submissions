@@ -5,8 +5,28 @@
     "name": "Simulation",
     "tagId": "61055"
   },
-  "updatedAt": "2026-11-07T06:04:28.802Z",
+  "updatedAt": "2026-11-07T06:06:00.344Z",
   "problems": [
+    {
+      "frontendId": "682",
+      "title": "Baseball Game",
+      "slug": "baseball-game",
+      "problemName": "0682-baseball-game",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/baseball-game/",
+      "folderPath": "Easy/0682-baseball-game/",
+      "readmePath": "Easy/0682-baseball-game/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "0682-baseball-game.java",
+          "path": "Easy/0682-baseball-game/Java/0682-baseball-game.java",
+          "sha": "a39921e5e3ce2ac4a492da8312331e43fbd59d26",
+          "lastSyncedAt": "2026-11-07T06:06:00.344Z"
+        }
+      ]
+    },
     {
       "frontendId": "1823",
       "title": "Find the Winner of the Circular Game",
