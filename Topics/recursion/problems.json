@@ -5,7 +5,7 @@
     "name": "Recursion",
     "tagId": "31"
   },
-  "updatedAt": "2026-11-07T06:04:28.802Z",
+  "updatedAt": "2026-11-07T06:05:48.188Z",
   "problems": [
     {
       "frontendId": "21",
@@ -204,6 +204,26 @@
           "path": "Medium/1823-find-the-winner-of-the-circular-game/Java/1823-find-the-winner-of-the-circular-game.java",
           "sha": "2e198ca999aaa8f69983c61fbe3b500e98cc4a28",
           "lastSyncedAt": "2026-11-07T06:04:28.802Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "2487",
+      "title": "Remove Nodes From Linked List",
+      "slug": "remove-nodes-from-linked-list",
+      "problemName": "2487-remove-nodes-from-linked-list",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/remove-nodes-from-linked-list/",
+      "folderPath": "Medium/2487-remove-nodes-from-linked-list/",
+      "readmePath": "Medium/2487-remove-nodes-from-linked-list/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "2487-remove-nodes-from-linked-list.java",
+          "path": "Medium/2487-remove-nodes-from-linked-list/Java/2487-remove-nodes-from-linked-list.java",
+          "sha": "ca34bd5aa58a66f564bf464ee5b0625838b34de9",
+          "lastSyncedAt": "2026-11-07T06:05:48.188Z"
         }
       ]
     }
