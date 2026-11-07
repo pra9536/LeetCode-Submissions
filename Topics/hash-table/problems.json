@@ -5,7 +5,7 @@
     "name": "Hash Table",
     "tagId": "6"
   },
-  "updatedAt": "2026-11-07T05:01:42.650Z",
+  "updatedAt": "2026-11-07T05:02:22.808Z",
   "problems": [
     {
       "frontendId": "1",
@@ -184,6 +184,26 @@
           "path": "Easy/0205-isomorphic-strings/Java/0205-isomorphic-strings.java",
           "sha": "3fe3f7cac520c3424b0e379b24dfd5d3754be73b",
           "lastSyncedAt": "2026-11-07T04:57:21.361Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "219",
+      "title": "Contains Duplicate II",
+      "slug": "contains-duplicate-ii",
+      "problemName": "0219-contains-duplicate-ii",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/contains-duplicate-ii/",
+      "folderPath": "Easy/0219-contains-duplicate-ii/",
+      "readmePath": "Easy/0219-contains-duplicate-ii/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "0219-contains-duplicate-ii.java",
+          "path": "Easy/0219-contains-duplicate-ii/Java/0219-contains-duplicate-ii.java",
+          "sha": "5012e0348e0337f45e6f5db1ccd363d21f2afe44",
+          "lastSyncedAt": "2026-11-07T05:02:22.808Z"
         }
       ]
     },
