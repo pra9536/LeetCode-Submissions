@@ -5,7 +5,7 @@
     "name": "String",
     "tagId": "10"
   },
-  "updatedAt": "2026-11-07T05:30:32.541Z",
+  "updatedAt": "2026-11-07T05:30:58.566Z",
   "problems": [
     {
       "frontendId": "3",
@@ -324,6 +324,26 @@
           "path": "Medium/1985-find-the-kth-largest-integer-in-the-array/Java/1985-find-the-kth-largest-integer-in-the-array.java",
           "sha": "abcb95153cc1da01a5de7745fb54c473abc09f8d",
           "lastSyncedAt": "2026-11-07T04:56:47.876Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "2696",
+      "title": "Minimum String Length After Removing Substrings",
+      "slug": "minimum-string-length-after-removing-substrings",
+      "problemName": "2696-minimum-string-length-after-removing-substrings",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/minimum-string-length-after-removing-substrings/",
+      "folderPath": "Easy/2696-minimum-string-length-after-removing-substrings/",
+      "readmePath": "Easy/2696-minimum-string-length-after-removing-substrings/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "2696-minimum-string-length-after-removing-substrings.java",
+          "path": "Easy/2696-minimum-string-length-after-removing-substrings/Java/2696-minimum-string-length-after-removing-substrings.java",
+          "sha": "0d6abbcbd74199b5183e5ef1675465f0bc6e8c77",
+          "lastSyncedAt": "2026-11-07T05:30:58.566Z"
         }
       ]
     }
