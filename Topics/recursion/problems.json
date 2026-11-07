@@ -1,0 +1,31 @@
+{
+  "version": 1,
+  "topic": {
+    "slug": "recursion",
+    "name": "Recursion",
+    "tagId": "31"
+  },
+  "updatedAt": "2026-11-07T04:53:03.930Z",
+  "problems": [
+    {
+      "frontendId": "231",
+      "title": "Power of Two",
+      "slug": "power-of-two",
+      "problemName": "0231-power-of-two",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/power-of-two/",
+      "folderPath": "Easy/0231-power-of-two/",
+      "readmePath": "Easy/0231-power-of-two/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "0231-power-of-two.java",
+          "path": "Easy/0231-power-of-two/Java/0231-power-of-two.java",
+          "sha": "9086eb457189c1395179229ea134a9fadb1b8bd5",
+          "lastSyncedAt": "2026-11-07T04:53:03.930Z"
+        }
+      ]
+    }
+  ]
+}
