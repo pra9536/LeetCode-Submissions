@@ -5,8 +5,28 @@
     "name": "Breadth-First Search",
     "tagId": "22"
   },
-  "updatedAt": "2026-11-07T05:59:44.570Z",
+  "updatedAt": "2026-11-07T06:00:35.621Z",
   "problems": [
+    {
+      "frontendId": "103",
+      "title": "Binary Tree Zigzag Level Order Traversal",
+      "slug": "binary-tree-zigzag-level-order-traversal",
+      "problemName": "0103-binary-tree-zigzag-level-order-traversal",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal/",
+      "folderPath": "Medium/0103-binary-tree-zigzag-level-order-traversal/",
+      "readmePath": "Medium/0103-binary-tree-zigzag-level-order-traversal/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "0103-binary-tree-zigzag-level-order-traversal.java",
+          "path": "Medium/0103-binary-tree-zigzag-level-order-traversal/Java/0103-binary-tree-zigzag-level-order-traversal.java",
+          "sha": "383cb57ee44da32ccb8a48da6e634fdb901868a6",
+          "lastSyncedAt": "2026-11-07T06:00:35.621Z"
+        }
+      ]
+    },
     {
       "frontendId": "199",
       "title": "Binary Tree Right Side View",
