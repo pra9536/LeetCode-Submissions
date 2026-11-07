@@ -1,0 +1,31 @@
+{
+  "version": 1,
+  "topic": {
+    "slug": "segment-tree",
+    "name": "Segment Tree",
+    "tagId": "29"
+  },
+  "updatedAt": "2026-11-07T05:38:06.104Z",
+  "problems": [
+    {
+      "frontendId": "731",
+      "title": "My Calendar II",
+      "slug": "my-calendar-ii",
+      "problemName": "0731-my-calendar-ii",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/my-calendar-ii/",
+      "folderPath": "Medium/0731-my-calendar-ii/",
+      "readmePath": "Medium/0731-my-calendar-ii/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "0731-my-calendar-ii.java",
+          "path": "Medium/0731-my-calendar-ii/Java/0731-my-calendar-ii.java",
+          "sha": "eb8dc47db0b2e48891b93187d96734db67160401",
+          "lastSyncedAt": "2026-11-07T05:38:06.104Z"
+        }
+      ]
+    }
+  ]
+}
