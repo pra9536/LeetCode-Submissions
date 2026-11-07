@@ -1,0 +1,31 @@
+{
+  "version": 1,
+  "topic": {
+    "slug": "floyds-cycle-finding-algorithm",
+    "name": "Floyd's Cycle Finding Algorithm",
+    "tagId": "122033"
+  },
+  "updatedAt": "2026-11-07T04:54:21.427Z",
+  "problems": [
+    {
+      "frontendId": "202",
+      "title": "Happy Number",
+      "slug": "happy-number",
+      "problemName": "0202-happy-number",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/happy-number/",
+      "folderPath": "Easy/0202-happy-number/",
+      "readmePath": "Easy/0202-happy-number/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "0202-happy-number.java",
+          "path": "Easy/0202-happy-number/Java/0202-happy-number.java",
+          "sha": "c410f6afcc184b36d1353d939f49f4dec309c1e4",
+          "lastSyncedAt": "2026-11-07T04:54:21.427Z"
+        }
+      ]
+    }
+  ]
+}
