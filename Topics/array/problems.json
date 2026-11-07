@@ -5,7 +5,7 @@
     "name": "Array",
     "tagId": "5"
   },
-  "updatedAt": "2026-11-07T05:44:59.758Z",
+  "updatedAt": "2026-11-07T05:45:17.895Z",
   "problems": [
     {
       "frontendId": "1",
@@ -884,6 +884,26 @@
           "path": "Medium/0986-interval-list-intersections/Java/0986-interval-list-intersections.java",
           "sha": "10b74d15b89135ce25bdc9aa562f8f0a093a3f96",
           "lastSyncedAt": "2026-11-07T05:39:04.195Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "994",
+      "title": "Rotting Oranges",
+      "slug": "rotting-oranges",
+      "problemName": "0994-rotting-oranges",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/rotting-oranges/",
+      "folderPath": "Medium/0994-rotting-oranges/",
+      "readmePath": "Medium/0994-rotting-oranges/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "0994-rotting-oranges.java",
+          "path": "Medium/0994-rotting-oranges/Java/0994-rotting-oranges.java",
+          "sha": "1e00ba6b131991024af8762ad918461336f15881",
+          "lastSyncedAt": "2026-11-07T05:45:17.895Z"
         }
       ]
     },
