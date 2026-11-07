@@ -5,7 +5,7 @@
     "name": "Bit Manipulation",
     "tagId": "19"
   },
-  "updatedAt": "2026-11-07T04:53:03.930Z",
+  "updatedAt": "2026-11-07T04:55:24.736Z",
   "problems": [
     {
       "frontendId": "190",
@@ -44,6 +44,26 @@
           "path": "Easy/0231-power-of-two/Java/0231-power-of-two.java",
           "sha": "9086eb457189c1395179229ea134a9fadb1b8bd5",
           "lastSyncedAt": "2026-11-07T04:53:03.930Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "287",
+      "title": "Find the Duplicate Number",
+      "slug": "find-the-duplicate-number",
+      "problemName": "0287-find-the-duplicate-number",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/find-the-duplicate-number/",
+      "folderPath": "Medium/0287-find-the-duplicate-number/",
+      "readmePath": "Medium/0287-find-the-duplicate-number/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "0287-find-the-duplicate-number.java",
+          "path": "Medium/0287-find-the-duplicate-number/Java/0287-find-the-duplicate-number.java",
+          "sha": "fad54e2da4dcfe6c73fc28b2251a9064cbe70ffc",
+          "lastSyncedAt": "2026-11-07T04:55:24.736Z"
         }
       ]
     }
