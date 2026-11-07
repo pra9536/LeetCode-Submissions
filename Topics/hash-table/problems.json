@@ -5,7 +5,7 @@
     "name": "Hash Table",
     "tagId": "6"
   },
-  "updatedAt": "2026-11-07T04:49:11.774Z",
+  "updatedAt": "2026-11-07T04:49:53.090Z",
   "problems": [
     {
       "frontendId": "1",
@@ -104,6 +104,26 @@
           "path": "Easy/0242-valid-anagram/Java/0242-valid-anagram.java",
           "sha": "198e61ffca0198b438919dca0bdd68ee9aa7855e",
           "lastSyncedAt": "2026-11-07T04:48:46.780Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "454",
+      "title": "4Sum II",
+      "slug": "4sum-ii",
+      "problemName": "0454-4sum-ii",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/4sum-ii/",
+      "folderPath": "Medium/0454-4sum-ii/",
+      "readmePath": "Medium/0454-4sum-ii/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "0454-4sum-ii.java",
+          "path": "Medium/0454-4sum-ii/Java/0454-4sum-ii.java",
+          "sha": "ad2e4b3c369a977e91310601b6114f202f228c97",
+          "lastSyncedAt": "2026-11-07T04:49:53.090Z"
         }
       ]
     }
