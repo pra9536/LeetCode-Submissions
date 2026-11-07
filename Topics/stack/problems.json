@@ -5,7 +5,7 @@
     "name": "Stack",
     "tagId": "15"
   },
-  "updatedAt": "2026-11-07T06:03:56.185Z",
+  "updatedAt": "2026-11-07T06:04:44.791Z",
   "problems": [
     {
       "frontendId": "20",
@@ -124,6 +124,26 @@
           "path": "Easy/0145-binary-tree-postorder-traversal/Java/0145-binary-tree-postorder-traversal.java",
           "sha": "6cbca5a56489b018db184e8c78527c5c7726bcd2",
           "lastSyncedAt": "2026-11-07T06:02:35.850Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "155",
+      "title": "Min Stack",
+      "slug": "min-stack",
+      "problemName": "0155-min-stack",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/min-stack/",
+      "folderPath": "Medium/0155-min-stack/",
+      "readmePath": "Medium/0155-min-stack/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "0155-min-stack.java",
+          "path": "Medium/0155-min-stack/Java/0155-min-stack.java",
+          "sha": "5f526234e08fa784ed08ed1755bad90b7140ce0f",
+          "lastSyncedAt": "2026-11-07T06:04:44.791Z"
         }
       ]
     },
