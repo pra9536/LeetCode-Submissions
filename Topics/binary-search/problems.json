@@ -5,8 +5,28 @@
     "name": "Binary Search",
     "tagId": "11"
   },
-  "updatedAt": "2026-11-07T05:28:26.867Z",
+  "updatedAt": "2026-11-07T05:28:44.512Z",
   "problems": [
+    {
+      "frontendId": "162",
+      "title": "Find Peak Element",
+      "slug": "find-peak-element",
+      "problemName": "0162-find-peak-element",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/find-peak-element/",
+      "folderPath": "Medium/0162-find-peak-element/",
+      "readmePath": "Medium/0162-find-peak-element/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "0162-find-peak-element.java",
+          "path": "Medium/0162-find-peak-element/Java/0162-find-peak-element.java",
+          "sha": "9118ac496eb520f5c39283f5717bafd123ea05bd",
+          "lastSyncedAt": "2026-11-07T05:28:44.512Z"
+        }
+      ]
+    },
     {
       "frontendId": "209",
       "title": "Minimum Size Subarray Sum",
