@@ -5,7 +5,7 @@
     "name": "Array",
     "tagId": "5"
   },
-  "updatedAt": "2026-11-07T05:43:07.167Z",
+  "updatedAt": "2026-11-07T05:43:27.840Z",
   "problems": [
     {
       "frontendId": "1",
@@ -964,6 +964,26 @@
           "path": "Easy/1464-maximum-product-of-two-elements-in-an-array/Java/1464-maximum-product-of-two-elements-in-an-array.java",
           "sha": "7153c415219c51021d2e69dbcb9ccf904f7aa56d",
           "lastSyncedAt": "2026-11-07T04:57:45.516Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "1752",
+      "title": "Check if Array Is Sorted and Rotated",
+      "slug": "check-if-array-is-sorted-and-rotated",
+      "problemName": "1752-check-if-array-is-sorted-and-rotated",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/check-if-array-is-sorted-and-rotated/",
+      "folderPath": "Easy/1752-check-if-array-is-sorted-and-rotated/",
+      "readmePath": "Easy/1752-check-if-array-is-sorted-and-rotated/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "1752-check-if-array-is-sorted-and-rotated.java",
+          "path": "Easy/1752-check-if-array-is-sorted-and-rotated/Java/1752-check-if-array-is-sorted-and-rotated.java",
+          "sha": "807dd6ed7390f11184645c1e99fbfda5c0e71c31",
+          "lastSyncedAt": "2026-11-07T05:43:27.840Z"
         }
       ]
     },
