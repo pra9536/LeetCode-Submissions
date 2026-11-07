@@ -5,7 +5,7 @@
     "name": "Math",
     "tagId": "8"
   },
-  "updatedAt": "2026-11-07T04:53:03.930Z",
+  "updatedAt": "2026-11-07T04:54:10.017Z",
   "problems": [
     {
       "frontendId": "12",
@@ -84,6 +84,26 @@
           "path": "Easy/0231-power-of-two/Java/0231-power-of-two.java",
           "sha": "9086eb457189c1395179229ea134a9fadb1b8bd5",
           "lastSyncedAt": "2026-11-07T04:53:03.930Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "3099",
+      "title": "Harshad Number",
+      "slug": "harshad-number",
+      "problemName": "3099-harshad-number",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/harshad-number/",
+      "folderPath": "Easy/3099-harshad-number/",
+      "readmePath": "Easy/3099-harshad-number/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "3099-harshad-number.java",
+          "path": "Easy/3099-harshad-number/Java/3099-harshad-number.java",
+          "sha": "711c6537ed9df45327dee2f90e7916cd83bde504",
+          "lastSyncedAt": "2026-11-07T04:54:10.017Z"
         }
       ]
     },
