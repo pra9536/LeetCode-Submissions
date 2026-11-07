@@ -5,7 +5,7 @@
     "name": "String",
     "tagId": "10"
   },
-  "updatedAt": "2026-11-07T04:50:51.663Z",
+  "updatedAt": "2026-11-07T04:51:56.742Z",
   "problems": [
     {
       "frontendId": "6",
@@ -64,6 +64,26 @@
           "path": "Easy/0013-roman-to-integer/Java/0013-roman-to-integer.java",
           "sha": "5887f95bc3c294ec6e2e8bd5987b35b0773d19e0",
           "lastSyncedAt": "2026-11-07T04:50:38.531Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "28",
+      "title": "Find the Index of the First Occurrence in a String",
+      "slug": "find-the-index-of-the-first-occurrence-in-a-string",
+      "problemName": "0028-find-the-index-of-the-first-occurrence-in-a-string",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/find-the-index-of-the-first-occurrence-in-a-string/",
+      "folderPath": "Easy/0028-find-the-index-of-the-first-occurrence-in-a-string/",
+      "readmePath": "Easy/0028-find-the-index-of-the-first-occurrence-in-a-string/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "0028-find-the-index-of-the-first-occurrence-in-a-string.java",
+          "path": "Easy/0028-find-the-index-of-the-first-occurrence-in-a-string/Java/0028-find-the-index-of-the-first-occurrence-in-a-string.java",
+          "sha": "cbe7b00fb51691af564e868ec4dcc1d71e63a724",
+          "lastSyncedAt": "2026-11-07T04:51:56.742Z"
         }
       ]
     },
