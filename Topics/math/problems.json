@@ -5,7 +5,7 @@
     "name": "Math",
     "tagId": "8"
   },
-  "updatedAt": "2026-11-07T05:48:23.054Z",
+  "updatedAt": "2026-11-07T05:49:24.855Z",
   "problems": [
     {
       "frontendId": "12",
@@ -204,6 +204,26 @@
           "path": "Easy/0509-fibonacci-number/Java/0509-fibonacci-number.java",
           "sha": "c9c70886cc3d306daa5b0ef465665798778ab6f1",
           "lastSyncedAt": "2026-11-07T05:01:26.280Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "788",
+      "title": "Rotated Digits",
+      "slug": "rotated-digits",
+      "problemName": "0788-rotated-digits",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/rotated-digits/",
+      "folderPath": "Medium/0788-rotated-digits/",
+      "readmePath": "Medium/0788-rotated-digits/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "0788-rotated-digits.java",
+          "path": "Medium/0788-rotated-digits/Java/0788-rotated-digits.java",
+          "sha": "dbdbbd4b13da22930e59e2c22e2cfc5903ed38a1",
+          "lastSyncedAt": "2026-11-07T05:49:24.855Z"
         }
       ]
     },
