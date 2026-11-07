@@ -5,7 +5,7 @@
     "name": "Linked List",
     "tagId": "7"
   },
-  "updatedAt": "2026-11-07T05:32:53.807Z",
+  "updatedAt": "2026-11-07T05:33:05.726Z",
   "problems": [
     {
       "frontendId": "24",
@@ -44,6 +44,26 @@
           "path": "Hard/0025-reverse-nodes-in-k-group/Java/0025-reverse-nodes-in-k-group.java",
           "sha": "49992ea051e83d1a70f3c585a85b995aaffc8fdc",
           "lastSyncedAt": "2026-11-07T05:32:13.626Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "143",
+      "title": "Reorder List",
+      "slug": "reorder-list",
+      "problemName": "0143-reorder-list",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/reorder-list/",
+      "folderPath": "Medium/0143-reorder-list/",
+      "readmePath": "Medium/0143-reorder-list/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "0143-reorder-list.java",
+          "path": "Medium/0143-reorder-list/Java/0143-reorder-list.java",
+          "sha": "203a80cf1995dfd41f367db4323e65b2b43e5b12",
+          "lastSyncedAt": "2026-11-07T05:33:05.726Z"
         }
       ]
     },
