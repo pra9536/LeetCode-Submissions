@@ -5,7 +5,7 @@
     "name": "Two Pointers",
     "tagId": "9"
   },
-  "updatedAt": "2026-11-07T05:45:44.545Z",
+  "updatedAt": "2026-11-07T05:48:56.669Z",
   "problems": [
     {
       "frontendId": "15",
@@ -104,6 +104,26 @@
           "path": "Easy/0028-find-the-index-of-the-first-occurrence-in-a-string/Java/0028-find-the-index-of-the-first-occurrence-in-a-string.java",
           "sha": "cbe7b00fb51691af564e868ec4dcc1d71e63a724",
           "lastSyncedAt": "2026-11-07T04:51:56.742Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "61",
+      "title": "Rotate List",
+      "slug": "rotate-list",
+      "problemName": "0061-rotate-list",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/rotate-list/",
+      "folderPath": "Medium/0061-rotate-list/",
+      "readmePath": "Medium/0061-rotate-list/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "0061-rotate-list.java",
+          "path": "Medium/0061-rotate-list/Java/0061-rotate-list.java",
+          "sha": "54fc308c0e8a364dcf8a1723a26979b8aaa9df74",
+          "lastSyncedAt": "2026-11-07T05:48:56.669Z"
         }
       ]
     },
