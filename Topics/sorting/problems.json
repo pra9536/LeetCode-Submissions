@@ -5,7 +5,7 @@
     "name": "Sorting",
     "tagId": "61049"
   },
-  "updatedAt": "2026-11-07T05:38:52.505Z",
+  "updatedAt": "2026-11-07T05:40:47.413Z",
   "problems": [
     {
       "frontendId": "15",
@@ -424,6 +424,26 @@
           "path": "3727-maximum-alternating-sum-of-squares/3727-maximum-alternating-sum-of-squares.java",
           "sha": "4db73161832719e06acf563ac2a200a8c2781163",
           "lastSyncedAt": "2026-11-07T04:49:21.429Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "3975",
+      "title": "Filter Occupied Intervals",
+      "slug": "filter-occupied-intervals",
+      "problemName": "3975-filter-occupied-intervals",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/filter-occupied-intervals/",
+      "folderPath": "Medium/3975-filter-occupied-intervals/",
+      "readmePath": "Medium/3975-filter-occupied-intervals/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "3975-filter-occupied-intervals.java",
+          "path": "Medium/3975-filter-occupied-intervals/Java/3975-filter-occupied-intervals.java",
+          "sha": "be8b99420d80088bd2b5f4d7fc64c1e5132e442e",
+          "lastSyncedAt": "2026-11-07T05:40:47.413Z"
         }
       ]
     }
