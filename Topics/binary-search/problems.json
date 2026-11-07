@@ -5,8 +5,28 @@
     "name": "Binary Search",
     "tagId": "11"
   },
-  "updatedAt": "2026-11-07T04:55:05.590Z",
+  "updatedAt": "2026-11-07T04:55:24.736Z",
   "problems": [
+    {
+      "frontendId": "287",
+      "title": "Find the Duplicate Number",
+      "slug": "find-the-duplicate-number",
+      "problemName": "0287-find-the-duplicate-number",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/find-the-duplicate-number/",
+      "folderPath": "Medium/0287-find-the-duplicate-number/",
+      "readmePath": "Medium/0287-find-the-duplicate-number/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "0287-find-the-duplicate-number.java",
+          "path": "Medium/0287-find-the-duplicate-number/Java/0287-find-the-duplicate-number.java",
+          "sha": "fad54e2da4dcfe6c73fc28b2251a9064cbe70ffc",
+          "lastSyncedAt": "2026-11-07T04:55:24.736Z"
+        }
+      ]
+    },
     {
       "frontendId": "349",
       "title": "Intersection of Two Arrays",
