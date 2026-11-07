@@ -5,8 +5,28 @@
     "name": "Quickselect",
     "tagId": "61069"
   },
-  "updatedAt": "2026-11-07T05:52:28.698Z",
+  "updatedAt": "2026-11-07T05:53:11.279Z",
   "problems": [
+    {
+      "frontendId": "215",
+      "title": "Kth Largest Element in an Array",
+      "slug": "kth-largest-element-in-an-array",
+      "problemName": "0215-kth-largest-element-in-an-array",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/kth-largest-element-in-an-array/",
+      "folderPath": "Medium/0215-kth-largest-element-in-an-array/",
+      "readmePath": "Medium/0215-kth-largest-element-in-an-array/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "0215-kth-largest-element-in-an-array.java",
+          "path": "Medium/0215-kth-largest-element-in-an-array/Java/0215-kth-largest-element-in-an-array.java",
+          "sha": "645bcd0d0b0ab2550bd264dc745530b69051ccd3",
+          "lastSyncedAt": "2026-11-07T05:53:11.279Z"
+        }
+      ]
+    },
     {
       "frontendId": "973",
       "title": "K Closest Points to Origin",
