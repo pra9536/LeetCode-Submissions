@@ -5,7 +5,7 @@
     "name": "Combinatorics",
     "tagId": "61056"
   },
-  "updatedAt": "2026-11-07T05:00:03.228Z",
+  "updatedAt": "2026-11-07T06:10:10.128Z",
   "problems": [
     {
       "frontendId": "62",
@@ -24,6 +24,26 @@
           "path": "Medium/0062-unique-paths/Java/0062-unique-paths.java",
           "sha": "1418ee08de0af00c43fa7c9a3b5a6a3744681cfe",
           "lastSyncedAt": "2026-11-07T05:00:03.228Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "3821",
+      "title": "Find Nth Smallest Integer With K One Bits",
+      "slug": "find-nth-smallest-integer-with-k-one-bits",
+      "problemName": "3821-find-nth-smallest-integer-with-k-one-bits",
+      "difficulty": "Hard",
+      "leetcodeUrl": "https://leetcode.com/problems/find-nth-smallest-integer-with-k-one-bits/",
+      "folderPath": "Hard/3821-find-nth-smallest-integer-with-k-one-bits/",
+      "readmePath": "Hard/3821-find-nth-smallest-integer-with-k-one-bits/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "3821-find-nth-smallest-integer-with-k-one-bits.java",
+          "path": "Hard/3821-find-nth-smallest-integer-with-k-one-bits/Java/3821-find-nth-smallest-integer-with-k-one-bits.java",
+          "sha": "54e991ee3027f8b3ea7704e4075052fea3eecd63",
+          "lastSyncedAt": "2026-11-07T06:10:10.128Z"
         }
       ]
     }
