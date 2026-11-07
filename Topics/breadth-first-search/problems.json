@@ -5,7 +5,7 @@
     "name": "Breadth-First Search",
     "tagId": "22"
   },
-  "updatedAt": "2026-11-07T04:51:17.317Z",
+  "updatedAt": "2026-11-07T05:37:26.576Z",
   "problems": [
     {
       "frontendId": "200",
@@ -24,6 +24,26 @@
           "path": "Medium/0200-number-of-islands/Java/0200-number-of-islands.java",
           "sha": "c8dede20feb6c1ccab21c3afb17acd02c78ebc69",
           "lastSyncedAt": "2026-11-07T04:45:36.596Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "210",
+      "title": "Course Schedule II",
+      "slug": "course-schedule-ii",
+      "problemName": "0210-course-schedule-ii",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/course-schedule-ii/",
+      "folderPath": "Medium/0210-course-schedule-ii/",
+      "readmePath": "Medium/0210-course-schedule-ii/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "0210-course-schedule-ii.java",
+          "path": "Medium/0210-course-schedule-ii/Java/0210-course-schedule-ii.java",
+          "sha": "9a8f63bea55a4fac509180332d34ac710c109cc1",
+          "lastSyncedAt": "2026-11-07T05:37:26.576Z"
         }
       ]
     },
