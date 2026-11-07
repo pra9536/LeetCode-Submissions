@@ -5,7 +5,7 @@
     "name": "Array",
     "tagId": "5"
   },
-  "updatedAt": "2026-11-07T04:45:36.596Z",
+  "updatedAt": "2026-11-07T04:47:04.790Z",
   "problems": [
     {
       "frontendId": "1",
@@ -44,6 +44,26 @@
           "path": "Medium/0200-number-of-islands/Java/0200-number-of-islands.java",
           "sha": "c8dede20feb6c1ccab21c3afb17acd02c78ebc69",
           "lastSyncedAt": "2026-11-07T04:45:36.596Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "674",
+      "title": "Longest Continuous Increasing Subsequence",
+      "slug": "longest-continuous-increasing-subsequence",
+      "problemName": "0674-longest-continuous-increasing-subsequence",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/longest-continuous-increasing-subsequence/",
+      "folderPath": "Easy/0674-longest-continuous-increasing-subsequence/",
+      "readmePath": "Easy/0674-longest-continuous-increasing-subsequence/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "0674-longest-continuous-increasing-subsequence.java",
+          "path": "Easy/0674-longest-continuous-increasing-subsequence/Java/0674-longest-continuous-increasing-subsequence.java",
+          "sha": "25084ce243629f1a4823c3b1cb004a27fb5d0761",
+          "lastSyncedAt": "2026-11-07T04:47:04.790Z"
         }
       ]
     },
