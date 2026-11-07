@@ -5,8 +5,28 @@
     "name": "Binary Search",
     "tagId": "11"
   },
-  "updatedAt": "2026-11-07T05:28:44.512Z",
+  "updatedAt": "2026-11-07T05:28:58.982Z",
   "problems": [
+    {
+      "frontendId": "153",
+      "title": "Find Minimum in Rotated Sorted Array",
+      "slug": "find-minimum-in-rotated-sorted-array",
+      "problemName": "0153-find-minimum-in-rotated-sorted-array",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/",
+      "folderPath": "Medium/0153-find-minimum-in-rotated-sorted-array/",
+      "readmePath": "Medium/0153-find-minimum-in-rotated-sorted-array/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "0153-find-minimum-in-rotated-sorted-array.java",
+          "path": "Medium/0153-find-minimum-in-rotated-sorted-array/Java/0153-find-minimum-in-rotated-sorted-array.java",
+          "sha": "731b673096342f29c20af0f9cfdb6e898fb8a3fe",
+          "lastSyncedAt": "2026-11-07T05:28:58.982Z"
+        }
+      ]
+    },
     {
       "frontendId": "162",
       "title": "Find Peak Element",
