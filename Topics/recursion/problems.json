@@ -5,8 +5,28 @@
     "name": "Recursion",
     "tagId": "31"
   },
-  "updatedAt": "2026-11-07T05:01:26.280Z",
+  "updatedAt": "2026-11-07T05:32:13.626Z",
   "problems": [
+    {
+      "frontendId": "25",
+      "title": "Reverse Nodes in k-Group",
+      "slug": "reverse-nodes-in-k-group",
+      "problemName": "0025-reverse-nodes-in-k-group",
+      "difficulty": "Hard",
+      "leetcodeUrl": "https://leetcode.com/problems/reverse-nodes-in-k-group/",
+      "folderPath": "Hard/0025-reverse-nodes-in-k-group/",
+      "readmePath": "Hard/0025-reverse-nodes-in-k-group/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "0025-reverse-nodes-in-k-group.java",
+          "path": "Hard/0025-reverse-nodes-in-k-group/Java/0025-reverse-nodes-in-k-group.java",
+          "sha": "49992ea051e83d1a70f3c585a85b995aaffc8fdc",
+          "lastSyncedAt": "2026-11-07T05:32:13.626Z"
+        }
+      ]
+    },
     {
       "frontendId": "231",
       "title": "Power of Two",
