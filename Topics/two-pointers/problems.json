@@ -5,7 +5,7 @@
     "name": "Two Pointers",
     "tagId": "9"
   },
-  "updatedAt": "2026-11-07T05:55:27.653Z",
+  "updatedAt": "2026-11-07T06:03:38.696Z",
   "problems": [
     {
       "frontendId": "15",
@@ -304,6 +304,26 @@
           "path": "Medium/0151-reverse-words-in-a-string/Java/0151-reverse-words-in-a-string.java",
           "sha": "4adb5b01e72983245f3df83e8239f3c891e9d7b0",
           "lastSyncedAt": "2026-11-07T04:53:17.858Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "189",
+      "title": "Rotate Array",
+      "slug": "rotate-array",
+      "problemName": "0189-rotate-array",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/rotate-array/",
+      "folderPath": "Medium/0189-rotate-array/",
+      "readmePath": "Medium/0189-rotate-array/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "0189-rotate-array.java",
+          "path": "Medium/0189-rotate-array/Java/0189-rotate-array.java",
+          "sha": "ecd1ef1c0eb4b29c478dbd3ea3f116341b9584c6",
+          "lastSyncedAt": "2026-11-07T06:03:38.696Z"
         }
       ]
     },
