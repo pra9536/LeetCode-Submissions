@@ -1,0 +1,31 @@
+{
+  "version": 1,
+  "topic": {
+    "slug": "bipartite-graph",
+    "name": "Bipartite Graph",
+    "tagId": "99758"
+  },
+  "updatedAt": "2026-11-09T03:26:27.399Z",
+  "problems": [
+    {
+      "frontendId": "785",
+      "title": "Is Graph Bipartite?",
+      "slug": "is-graph-bipartite",
+      "problemName": "0785-is-graph-bipartite",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/is-graph-bipartite/",
+      "folderPath": "Medium/0785-is-graph-bipartite/",
+      "readmePath": "Medium/0785-is-graph-bipartite/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "0785-is-graph-bipartite.java",
+          "path": "Medium/0785-is-graph-bipartite/Java/0785-is-graph-bipartite.java",
+          "sha": "da716089a4e662738188d4bd660d946b4f84148f",
+          "lastSyncedAt": "2026-11-09T03:26:27.399Z"
+        }
+      ]
+    }
+  ]
+}
