@@ -5,7 +5,7 @@
     "name": "Depth-First Search",
     "tagId": "21"
   },
-  "updatedAt": "2026-11-07T14:39:20.077Z",
+  "updatedAt": "2026-11-09T03:26:27.399Z",
   "problems": [
     {
       "frontendId": "94",
@@ -424,6 +424,26 @@
           "path": "Easy/0653-two-sum-iv-input-is-a-bst/Java/0653-two-sum-iv-input-is-a-bst.java",
           "sha": "31df2e3eff6d0fae6e18634710fdffee3152be4d",
           "lastSyncedAt": "2026-11-07T05:54:24.344Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "785",
+      "title": "Is Graph Bipartite?",
+      "slug": "is-graph-bipartite",
+      "problemName": "0785-is-graph-bipartite",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/is-graph-bipartite/",
+      "folderPath": "Medium/0785-is-graph-bipartite/",
+      "readmePath": "Medium/0785-is-graph-bipartite/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "0785-is-graph-bipartite.java",
+          "path": "Medium/0785-is-graph-bipartite/Java/0785-is-graph-bipartite.java",
+          "sha": "da716089a4e662738188d4bd660d946b4f84148f",
+          "lastSyncedAt": "2026-11-09T03:26:27.399Z"
         }
       ]
     },
