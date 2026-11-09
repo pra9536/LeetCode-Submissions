@@ -5,17 +5,16 @@ Contains topicwise list of solved problems.
 
 | Total Solved | Easy | Medium | Hard |
 | ---: | ---: | ---: | ---: |
-| 247 | 105 | 128 | 14 |
+| 248 | 105 | 129 | 14 |
 
 ## Activity
 
 | Current Streak | Best Streak | Active Days |
 | ---: | ---: | ---: |
-| 1 days | 8 days | 141 |
+| 1 days | 8 days | 142 |
 
 | Date | Problems |
 | --- | ---: |
-| 2026-08-09 | 1 |
 | 2026-08-10 | 6 |
 | 2026-08-11 | 2 |
 | 2026-08-20 | 1 |
@@ -29,6 +28,7 @@ Contains topicwise list of solved problems.
 | 2026-09-27 | 3 |
 | 2026-10-23 | 5 |
 | 2026-11-07 | 1 |
+| 2026-11-09 | 1 |
 
 ## Top Tags
 
@@ -39,8 +39,8 @@ Contains topicwise list of solved problems.
 | Hash Table | 37 | 15% |
 | Sorting | 35 | 14% |
 | String | 35 | 14% |
+| Depth-First Search | 28 | 11% |
 | Binary Tree | 27 | 11% |
-| Depth-First Search | 27 | 11% |
 | Dynamic Programming | 27 | 11% |
 | Math | 27 | 11% |
 | Tree | 27 | 11% |
@@ -56,11 +56,12 @@ Contains topicwise list of solved problems.
 | [Binary Search](Topics/binary-search/) | 26 |
 | [Binary Search Tree](Topics/binary-search-tree/) | 10 |
 | [Binary Tree](Topics/binary-tree/) | 27 |
+| [Bipartite Graph](Topics/bipartite-graph/) | 1 |
 | [Bit Manipulation](Topics/bit-manipulation/) | 15 |
 | [Boyer–Moore Majority Vote Algorithm](Topics/boyer-moore-majority-vote-algorithm/) | 2 |
 | [Boyer–Moore String-Search Algorithm](Topics/boyer-moore-string-search-algorithm/) | 2 |
 | [Bracket Sequences](Topics/bracket-sequences/) | 2 |
-| [Breadth-First Search](Topics/breadth-first-search/) | 20 |
+| [Breadth-First Search](Topics/breadth-first-search/) | 21 |
 | [Bubble Sort](Topics/bubble-sort/) | 1 |
 | [Bucket Sort](Topics/bucket-sort/) | 1 |
 | [Combinatorics](Topics/combinatorics/) | 2 |
@@ -69,7 +70,7 @@ Contains topicwise list of solved problems.
 | [Counting](Topics/counting/) | 4 |
 | [Counting Sort](Topics/counting-sort/) | 1 |
 | [Database](Topics/database/) | 15 |
-| [Depth-First Search](Topics/depth-first-search/) | 27 |
+| [Depth-First Search](Topics/depth-first-search/) | 28 |
 | [Design](Topics/design/) | 6 |
 | [Directed Acyclic Graph](Topics/directed-acyclic-graph/) | 1 |
 | [Divide and Conquer](Topics/divide-and-conquer/) | 11 |
@@ -79,7 +80,8 @@ Contains topicwise list of solved problems.
 | [Euclidean Algorithm](Topics/euclidean-algorithm/) | 1 |
 | [Floyd's Cycle Finding Algorithm](Topics/floyds-cycle-finding-algorithm/) | 4 |
 | [Geometry](Topics/geometry/) | 1 |
-| [Graph Theory](Topics/graph/) | 6 |
+| [Graph Coloring](Topics/graph-coloring/) | 1 |
+| [Graph Theory](Topics/graph/) | 7 |
 | [Greatest Common Divisor](Topics/greatest-common-divisor/) | 1 |
 | [Greedy](Topics/greedy/) | 16 |
 | [Hash Function](Topics/hash-function/) | 1 |
@@ -124,6 +126,6 @@ Contains topicwise list of solved problems.
 | [Tree](Topics/tree/) | 27 |
 | [Trie](Topics/trie/) | 3 |
 | [Two Pointers](Topics/two-pointers/) | 40 |
-| [Union-Find](Topics/union-find/) | 4 |
+| [Union-Find](Topics/union-find/) | 5 |
 | [Z Algorithm](Topics/z-algorithm/) | 2 |
 <!---LeetHub Summary End-->
