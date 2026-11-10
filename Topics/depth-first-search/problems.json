@@ -5,7 +5,7 @@
     "name": "Depth-First Search",
     "tagId": "21"
   },
-  "updatedAt": "2026-11-10T03:10:35.146Z",
+  "updatedAt": "2026-11-10T06:06:29.582Z",
   "problems": [
     {
       "frontendId": "94",
@@ -444,6 +444,26 @@
           "path": "Medium/0785-is-graph-bipartite/Java/0785-is-graph-bipartite.java",
           "sha": "da716089a4e662738188d4bd660d946b4f84148f",
           "lastSyncedAt": "2026-11-09T03:35:18.749Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "802",
+      "title": "Find Eventual Safe States",
+      "slug": "find-eventual-safe-states",
+      "problemName": "0802-find-eventual-safe-states",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/find-eventual-safe-states/",
+      "folderPath": "Medium/0802-find-eventual-safe-states/",
+      "readmePath": "Medium/0802-find-eventual-safe-states/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "0802-find-eventual-safe-states.java",
+          "path": "Medium/0802-find-eventual-safe-states/Java/0802-find-eventual-safe-states.java",
+          "sha": "4b83a50ebbbbeee1b910581d9b31744b20e352fb",
+          "lastSyncedAt": "2026-11-10T06:06:29.582Z"
         }
       ]
     },
