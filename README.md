@@ -5,17 +5,16 @@ Contains topicwise list of solved problems.
 
 | Total Solved | Easy | Medium | Hard |
 | ---: | ---: | ---: | ---: |
-| 248 | 105 | 129 | 14 |
+| 249 | 105 | 130 | 14 |
 
 ## Activity
 
 | Current Streak | Best Streak | Active Days |
 | ---: | ---: | ---: |
-| 1 days | 8 days | 142 |
+| 2 days | 8 days | 143 |
 
 | Date | Problems |
 | --- | ---: |
-| 2026-08-10 | 6 |
 | 2026-08-11 | 2 |
 | 2026-08-20 | 1 |
 | 2026-08-22 | 1 |
@@ -29,17 +28,18 @@ Contains topicwise list of solved problems.
 | 2026-10-23 | 5 |
 | 2026-11-07 | 1 |
 | 2026-11-09 | 1 |
+| 2026-11-10 | 1 |
 
 ## Top Tags
 
 | Tag | Problems | Coverage |
 | --- | ---: | ---: |
-| Array | 128 | 52% |
+| Array | 128 | 51% |
 | Two Pointers | 40 | 16% |
 | Hash Table | 37 | 15% |
 | Sorting | 35 | 14% |
 | String | 35 | 14% |
-| Depth-First Search | 28 | 11% |
+| Depth-First Search | 29 | 12% |
 | Binary Tree | 27 | 11% |
 | Dynamic Programming | 27 | 11% |
 | Math | 27 | 11% |
@@ -61,7 +61,7 @@ Contains topicwise list of solved problems.
 | [Boyer–Moore Majority Vote Algorithm](Topics/boyer-moore-majority-vote-algorithm/) | 2 |
 | [Boyer–Moore String-Search Algorithm](Topics/boyer-moore-string-search-algorithm/) | 2 |
 | [Bracket Sequences](Topics/bracket-sequences/) | 2 |
-| [Breadth-First Search](Topics/breadth-first-search/) | 21 |
+| [Breadth-First Search](Topics/breadth-first-search/) | 22 |
 | [Bubble Sort](Topics/bubble-sort/) | 1 |
 | [Bucket Sort](Topics/bucket-sort/) | 1 |
 | [Combinatorics](Topics/combinatorics/) | 2 |
@@ -70,7 +70,7 @@ Contains topicwise list of solved problems.
 | [Counting](Topics/counting/) | 4 |
 | [Counting Sort](Topics/counting-sort/) | 1 |
 | [Database](Topics/database/) | 15 |
-| [Depth-First Search](Topics/depth-first-search/) | 28 |
+| [Depth-First Search](Topics/depth-first-search/) | 29 |
 | [Design](Topics/design/) | 6 |
 | [Directed Acyclic Graph](Topics/directed-acyclic-graph/) | 1 |
 | [Divide and Conquer](Topics/divide-and-conquer/) | 11 |
@@ -81,7 +81,7 @@ Contains topicwise list of solved problems.
 | [Floyd's Cycle Finding Algorithm](Topics/floyds-cycle-finding-algorithm/) | 4 |
 | [Geometry](Topics/geometry/) | 1 |
 | [Graph Coloring](Topics/graph-coloring/) | 1 |
-| [Graph Theory](Topics/graph/) | 7 |
+| [Graph Theory](Topics/graph/) | 8 |
 | [Greatest Common Divisor](Topics/greatest-common-divisor/) | 1 |
 | [Greedy](Topics/greedy/) | 16 |
 | [Hash Function](Topics/hash-function/) | 1 |
@@ -91,6 +91,7 @@ Contains topicwise list of solved problems.
 | [K-D Tree](Topics/k-d-tree/) | 1 |
 | [Knapsack Problem](Topics/knapsack-problem/) | 2 |
 | [Knuth–Morris–Pratt Algorithm](Topics/knuth-morris-pratt-algorithm/) | 1 |
+| [Kosaraju's Algorithm](Topics/kosarajus-algorithm/) | 1 |
 | [Linked List](Topics/linked-list/) | 24 |
 | [Lowest Common Ancestor](Topics/lowest-common-ancestor/) | 2 |
 | [Math](Topics/math/) | 27 |
@@ -122,7 +123,8 @@ Contains topicwise list of solved problems.
 | [String](Topics/string/) | 35 |
 | [String Matching](Topics/string-matching/) | 2 |
 | [Sweep Line](Topics/sweep-line/) | 1 |
-| [Topological Sort](Topics/topological-sort/) | 2 |
+| [Tarjan's SCC Algorithm](Topics/tarjans-scc-algorithm/) | 1 |
+| [Topological Sort](Topics/topological-sort/) | 3 |
 | [Tree](Topics/tree/) | 27 |
 | [Trie](Topics/trie/) | 3 |
 | [Two Pointers](Topics/two-pointers/) | 40 |
