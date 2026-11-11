@@ -5,7 +5,7 @@
     "name": "Array",
     "tagId": "5"
   },
-  "updatedAt": "2026-11-07T07:04:48.983Z",
+  "updatedAt": "2026-11-11T09:04:52.080Z",
   "problems": [
     {
       "frontendId": "1",
@@ -1784,6 +1784,26 @@
           "path": "Easy/1502-can-make-arithmetic-progression-from-sequence/Java/1502-can-make-arithmetic-progression-from-sequence.java",
           "sha": "ed35ffc7ee13789142579cf08c61a83e74e53c29",
           "lastSyncedAt": "2026-11-07T06:06:46.689Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "1514",
+      "title": "Path with Maximum Probability",
+      "slug": "path-with-maximum-probability",
+      "problemName": "1514-path-with-maximum-probability",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/path-with-maximum-probability/",
+      "folderPath": "Medium/1514-path-with-maximum-probability/",
+      "readmePath": "Medium/1514-path-with-maximum-probability/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "1514-path-with-maximum-probability.java",
+          "path": "Medium/1514-path-with-maximum-probability/Java/1514-path-with-maximum-probability.java",
+          "sha": "029742df15d682adf0a48f8b8a87b15d09ec2a0a",
+          "lastSyncedAt": "2026-11-11T09:04:52.080Z"
         }
       ]
     },
