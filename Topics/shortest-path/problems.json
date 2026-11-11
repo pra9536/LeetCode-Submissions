@@ -5,8 +5,28 @@
     "name": "Shortest Path",
     "tagId": "61076"
   },
-  "updatedAt": "2026-11-07T05:40:15.473Z",
+  "updatedAt": "2026-11-11T08:49:22.145Z",
   "problems": [
+    {
+      "frontendId": "743",
+      "title": "Network Delay Time",
+      "slug": "network-delay-time",
+      "problemName": "0743-network-delay-time",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/network-delay-time/",
+      "folderPath": "Medium/0743-network-delay-time/",
+      "readmePath": "Medium/0743-network-delay-time/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "0743-network-delay-time.java",
+          "path": "Medium/0743-network-delay-time/Java/0743-network-delay-time.java",
+          "sha": "d1b5c6a80b2dba09000543a7f16b183d035008ba",
+          "lastSyncedAt": "2026-11-11T08:49:22.145Z"
+        }
+      ]
+    },
     {
       "frontendId": "3977",
       "title": "Minimum Time to Reach Target With Limited Power",
