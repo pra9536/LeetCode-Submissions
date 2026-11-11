@@ -5,7 +5,7 @@
     "name": "Dijkstra's Algorithm",
     "tagId": "71093"
   },
-  "updatedAt": "2026-11-11T08:49:22.145Z",
+  "updatedAt": "2026-11-11T09:04:52.080Z",
   "problems": [
     {
       "frontendId": "743",
@@ -24,6 +24,26 @@
           "path": "Medium/0743-network-delay-time/Java/0743-network-delay-time.java",
           "sha": "d1b5c6a80b2dba09000543a7f16b183d035008ba",
           "lastSyncedAt": "2026-11-11T08:49:22.145Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "1514",
+      "title": "Path with Maximum Probability",
+      "slug": "path-with-maximum-probability",
+      "problemName": "1514-path-with-maximum-probability",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/path-with-maximum-probability/",
+      "folderPath": "Medium/1514-path-with-maximum-probability/",
+      "readmePath": "Medium/1514-path-with-maximum-probability/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "1514-path-with-maximum-probability.java",
+          "path": "Medium/1514-path-with-maximum-probability/Java/1514-path-with-maximum-probability.java",
+          "sha": "029742df15d682adf0a48f8b8a87b15d09ec2a0a",
+          "lastSyncedAt": "2026-11-11T09:04:52.080Z"
         }
       ]
     }
