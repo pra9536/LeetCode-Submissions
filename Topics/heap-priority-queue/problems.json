@@ -5,7 +5,7 @@
     "name": "Heap (Priority Queue)",
     "tagId": "61050"
   },
-  "updatedAt": "2026-11-07T06:08:36.410Z",
+  "updatedAt": "2026-11-11T08:49:22.145Z",
   "problems": [
     {
       "frontendId": "215",
@@ -44,6 +44,26 @@
           "path": "Medium/0378-kth-smallest-element-in-a-sorted-matrix/Java/0378-kth-smallest-element-in-a-sorted-matrix.java",
           "sha": "96c3bc07ef459acec40d5087224a288e24c5f5e8",
           "lastSyncedAt": "2026-11-07T04:53:45.702Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "743",
+      "title": "Network Delay Time",
+      "slug": "network-delay-time",
+      "problemName": "0743-network-delay-time",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/network-delay-time/",
+      "folderPath": "Medium/0743-network-delay-time/",
+      "readmePath": "Medium/0743-network-delay-time/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "0743-network-delay-time.java",
+          "path": "Medium/0743-network-delay-time/Java/0743-network-delay-time.java",
+          "sha": "d1b5c6a80b2dba09000543a7f16b183d035008ba",
+          "lastSyncedAt": "2026-11-11T08:49:22.145Z"
         }
       ]
     },
