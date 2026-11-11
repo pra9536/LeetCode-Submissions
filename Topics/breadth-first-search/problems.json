@@ -5,7 +5,7 @@
     "name": "Breadth-First Search",
     "tagId": "22"
   },
-  "updatedAt": "2026-11-11T08:49:22.145Z",
+  "updatedAt": "2026-11-11T15:17:20.080Z",
   "problems": [
     {
       "frontendId": "100",
@@ -424,6 +424,26 @@
           "path": "Hard/1345-jump-game-iv/Java/1345-jump-game-iv.java",
           "sha": "f6b13e9f33c76ef279fdadb837272c9c05833288",
           "lastSyncedAt": "2026-11-07T05:46:02.662Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "1631",
+      "title": "Path With Minimum Effort",
+      "slug": "path-with-minimum-effort",
+      "problemName": "1631-path-with-minimum-effort",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/path-with-minimum-effort/",
+      "folderPath": "Medium/1631-path-with-minimum-effort/",
+      "readmePath": "Medium/1631-path-with-minimum-effort/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "1631-path-with-minimum-effort.java",
+          "path": "Medium/1631-path-with-minimum-effort/Java/1631-path-with-minimum-effort.java",
+          "sha": "7f03706c3691d0a6e53b49d41cd95c130984f41e",
+          "lastSyncedAt": "2026-11-11T15:17:20.080Z"
         }
       ]
     },
