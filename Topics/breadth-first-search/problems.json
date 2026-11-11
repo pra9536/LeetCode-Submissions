@@ -5,7 +5,7 @@
     "name": "Breadth-First Search",
     "tagId": "22"
   },
-  "updatedAt": "2026-11-11T16:31:31.551Z",
+  "updatedAt": "2026-11-11T17:28:37.380Z",
   "problems": [
     {
       "frontendId": "100",
@@ -304,6 +304,26 @@
           "path": "Medium/0785-is-graph-bipartite/Java/0785-is-graph-bipartite.java",
           "sha": "da716089a4e662738188d4bd660d946b4f84148f",
           "lastSyncedAt": "2026-11-09T03:35:18.749Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "787",
+      "title": "Cheapest Flights Within K Stops",
+      "slug": "cheapest-flights-within-k-stops",
+      "problemName": "0787-cheapest-flights-within-k-stops",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/cheapest-flights-within-k-stops/",
+      "folderPath": "Medium/0787-cheapest-flights-within-k-stops/",
+      "readmePath": "Medium/0787-cheapest-flights-within-k-stops/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "0787-cheapest-flights-within-k-stops.java",
+          "path": "Medium/0787-cheapest-flights-within-k-stops/Java/0787-cheapest-flights-within-k-stops.java",
+          "sha": "30874433c7ca2933dffd0ca0d985c39a97c91fd6",
+          "lastSyncedAt": "2026-11-11T17:28:37.380Z"
         }
       ]
     },
