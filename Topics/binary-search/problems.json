@@ -5,7 +5,7 @@
     "name": "Binary Search",
     "tagId": "11"
   },
-  "updatedAt": "2026-11-07T06:09:45.452Z",
+  "updatedAt": "2026-11-11T15:17:20.080Z",
   "problems": [
     {
       "frontendId": "4",
@@ -384,6 +384,26 @@
           "path": "Medium/1004-max-consecutive-ones-iii/Java/1004-max-consecutive-ones-iii.java",
           "sha": "2f9ccd85f30562aaa64e1dd94df888c3d55188bc",
           "lastSyncedAt": "2026-11-07T06:06:32.331Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "1631",
+      "title": "Path With Minimum Effort",
+      "slug": "path-with-minimum-effort",
+      "problemName": "1631-path-with-minimum-effort",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/path-with-minimum-effort/",
+      "folderPath": "Medium/1631-path-with-minimum-effort/",
+      "readmePath": "Medium/1631-path-with-minimum-effort/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "1631-path-with-minimum-effort.java",
+          "path": "Medium/1631-path-with-minimum-effort/Java/1631-path-with-minimum-effort.java",
+          "sha": "7f03706c3691d0a6e53b49d41cd95c130984f41e",
+          "lastSyncedAt": "2026-11-11T15:17:20.080Z"
         }
       ]
     },
