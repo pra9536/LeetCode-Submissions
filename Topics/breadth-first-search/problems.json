@@ -5,7 +5,7 @@
     "name": "Breadth-First Search",
     "tagId": "22"
   },
-  "updatedAt": "2026-11-10T06:06:29.582Z",
+  "updatedAt": "2026-11-11T08:49:22.145Z",
   "problems": [
     {
       "frontendId": "100",
@@ -264,6 +264,26 @@
           "path": "Easy/0653-two-sum-iv-input-is-a-bst/Java/0653-two-sum-iv-input-is-a-bst.java",
           "sha": "31df2e3eff6d0fae6e18634710fdffee3152be4d",
           "lastSyncedAt": "2026-11-07T05:54:24.344Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "743",
+      "title": "Network Delay Time",
+      "slug": "network-delay-time",
+      "problemName": "0743-network-delay-time",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/network-delay-time/",
+      "folderPath": "Medium/0743-network-delay-time/",
+      "readmePath": "Medium/0743-network-delay-time/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "0743-network-delay-time.java",
+          "path": "Medium/0743-network-delay-time/Java/0743-network-delay-time.java",
+          "sha": "d1b5c6a80b2dba09000543a7f16b183d035008ba",
+          "lastSyncedAt": "2026-11-11T08:49:22.145Z"
         }
       ]
     },
