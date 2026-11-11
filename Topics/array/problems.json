@@ -5,7 +5,7 @@
     "name": "Array",
     "tagId": "5"
   },
-  "updatedAt": "2026-11-11T09:04:52.080Z",
+  "updatedAt": "2026-11-11T15:17:20.080Z",
   "problems": [
     {
       "frontendId": "1",
@@ -1804,6 +1804,26 @@
           "path": "Medium/1514-path-with-maximum-probability/Java/1514-path-with-maximum-probability.java",
           "sha": "029742df15d682adf0a48f8b8a87b15d09ec2a0a",
           "lastSyncedAt": "2026-11-11T09:04:52.080Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "1631",
+      "title": "Path With Minimum Effort",
+      "slug": "path-with-minimum-effort",
+      "problemName": "1631-path-with-minimum-effort",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/path-with-minimum-effort/",
+      "folderPath": "Medium/1631-path-with-minimum-effort/",
+      "readmePath": "Medium/1631-path-with-minimum-effort/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "1631-path-with-minimum-effort.java",
+          "path": "Medium/1631-path-with-minimum-effort/Java/1631-path-with-minimum-effort.java",
+          "sha": "7f03706c3691d0a6e53b49d41cd95c130984f41e",
+          "lastSyncedAt": "2026-11-11T15:17:20.080Z"
         }
       ]
     },
