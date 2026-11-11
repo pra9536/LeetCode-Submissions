@@ -5,7 +5,7 @@
     "name": "Binary Search",
     "tagId": "11"
   },
-  "updatedAt": "2026-11-11T15:17:20.080Z",
+  "updatedAt": "2026-11-11T15:55:13.584Z",
   "problems": [
     {
       "frontendId": "4",
@@ -403,7 +403,7 @@
           "filename": "1631-path-with-minimum-effort.java",
           "path": "Medium/1631-path-with-minimum-effort/Java/1631-path-with-minimum-effort.java",
           "sha": "7f03706c3691d0a6e53b49d41cd95c130984f41e",
-          "lastSyncedAt": "2026-11-11T15:17:20.080Z"
+          "lastSyncedAt": "2026-11-11T15:55:13.584Z"
         }
       ]
     },
