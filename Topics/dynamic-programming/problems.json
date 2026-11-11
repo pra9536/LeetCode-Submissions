@@ -5,7 +5,7 @@
     "name": "Dynamic Programming",
     "tagId": "13"
   },
-  "updatedAt": "2026-11-07T06:08:17.936Z",
+  "updatedAt": "2026-11-11T17:28:37.380Z",
   "problems": [
     {
       "frontendId": "45",
@@ -344,6 +344,26 @@
           "path": "Easy/0746-min-cost-climbing-stairs/Java/0746-min-cost-climbing-stairs.java",
           "sha": "f4165b46b1ae5886ddee19cd9cd7d890f9753c4a",
           "lastSyncedAt": "2026-11-07T05:01:16.256Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "787",
+      "title": "Cheapest Flights Within K Stops",
+      "slug": "cheapest-flights-within-k-stops",
+      "problemName": "0787-cheapest-flights-within-k-stops",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/cheapest-flights-within-k-stops/",
+      "folderPath": "Medium/0787-cheapest-flights-within-k-stops/",
+      "readmePath": "Medium/0787-cheapest-flights-within-k-stops/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "0787-cheapest-flights-within-k-stops.java",
+          "path": "Medium/0787-cheapest-flights-within-k-stops/Java/0787-cheapest-flights-within-k-stops.java",
+          "sha": "30874433c7ca2933dffd0ca0d985c39a97c91fd6",
+          "lastSyncedAt": "2026-11-11T17:28:37.380Z"
         }
       ]
     },
