@@ -5,7 +5,7 @@
     "name": "Depth-First Search",
     "tagId": "21"
   },
-  "updatedAt": "2026-11-11T17:58:58.985Z",
+  "updatedAt": "2026-11-11T18:10:29.757Z",
   "problems": [
     {
       "frontendId": "94",
@@ -483,7 +483,7 @@
           "filename": "0787-cheapest-flights-within-k-stops.java",
           "path": "Medium/0787-cheapest-flights-within-k-stops/Java/0787-cheapest-flights-within-k-stops.java",
           "sha": "30874433c7ca2933dffd0ca0d985c39a97c91fd6",
-          "lastSyncedAt": "2026-11-11T17:58:58.985Z"
+          "lastSyncedAt": "2026-11-11T18:10:29.757Z"
         }
       ]
     },
