@@ -5,17 +5,16 @@ Contains topicwise list of solved problems.
 
 | Total Solved | Easy | Medium | Hard |
 | ---: | ---: | ---: | ---: |
-| 249 | 105 | 130 | 14 |
+| 251 | 105 | 132 | 14 |
 
 ## Activity
 
 | Current Streak | Best Streak | Active Days |
 | ---: | ---: | ---: |
-| 2 days | 8 days | 143 |
+| 3 days | 8 days | 144 |
 
 | Date | Problems |
 | --- | ---: |
-| 2026-08-11 | 2 |
 | 2026-08-20 | 1 |
 | 2026-08-22 | 1 |
 | 2026-08-23 | 2 |
@@ -29,17 +28,18 @@ Contains topicwise list of solved problems.
 | 2026-11-07 | 1 |
 | 2026-11-09 | 1 |
 | 2026-11-10 | 1 |
+| 2026-11-11 | 2 |
 
 ## Top Tags
 
 | Tag | Problems | Coverage |
 | --- | ---: | ---: |
-| Array | 128 | 51% |
+| Array | 129 | 51% |
 | Two Pointers | 40 | 16% |
 | Hash Table | 37 | 15% |
 | Sorting | 35 | 14% |
 | String | 35 | 14% |
-| Depth-First Search | 29 | 12% |
+| Depth-First Search | 30 | 12% |
 | Binary Tree | 27 | 11% |
 | Dynamic Programming | 27 | 11% |
 | Math | 27 | 11% |
@@ -50,7 +50,7 @@ Contains topicwise list of solved problems.
 | Topic | Problems |
 | --- | ---: |
 | [Algorithm X](Topics/algorithm-x/) | 1 |
-| [Array](Topics/array/) | 130 |
+| [Array](Topics/array/) | 131 |
 | [Backtracking](Topics/backtracking/) | 9 |
 | [Binary Lifting](Topics/binary-lifting/) | 2 |
 | [Binary Search](Topics/binary-search/) | 26 |
@@ -61,7 +61,7 @@ Contains topicwise list of solved problems.
 | [Boyer–Moore Majority Vote Algorithm](Topics/boyer-moore-majority-vote-algorithm/) | 2 |
 | [Boyer–Moore String-Search Algorithm](Topics/boyer-moore-string-search-algorithm/) | 2 |
 | [Bracket Sequences](Topics/bracket-sequences/) | 2 |
-| [Breadth-First Search](Topics/breadth-first-search/) | 22 |
+| [Breadth-First Search](Topics/breadth-first-search/) | 23 |
 | [Bubble Sort](Topics/bubble-sort/) | 1 |
 | [Bucket Sort](Topics/bucket-sort/) | 1 |
 | [Combinatorics](Topics/combinatorics/) | 2 |
@@ -70,8 +70,9 @@ Contains topicwise list of solved problems.
 | [Counting](Topics/counting/) | 4 |
 | [Counting Sort](Topics/counting-sort/) | 1 |
 | [Database](Topics/database/) | 15 |
-| [Depth-First Search](Topics/depth-first-search/) | 29 |
+| [Depth-First Search](Topics/depth-first-search/) | 30 |
 | [Design](Topics/design/) | 6 |
+| [Dijkstra's Algorithm](Topics/dijkstra/) | 2 |
 | [Directed Acyclic Graph](Topics/directed-acyclic-graph/) | 1 |
 | [Divide and Conquer](Topics/divide-and-conquer/) | 11 |
 | [DP on Trees](Topics/dp-on-trees/) | 1 |
@@ -81,12 +82,12 @@ Contains topicwise list of solved problems.
 | [Floyd's Cycle Finding Algorithm](Topics/floyds-cycle-finding-algorithm/) | 4 |
 | [Geometry](Topics/geometry/) | 1 |
 | [Graph Coloring](Topics/graph-coloring/) | 1 |
-| [Graph Theory](Topics/graph/) | 8 |
+| [Graph Theory](Topics/graph/) | 10 |
 | [Greatest Common Divisor](Topics/greatest-common-divisor/) | 1 |
 | [Greedy](Topics/greedy/) | 16 |
 | [Hash Function](Topics/hash-function/) | 1 |
 | [Hash Table](Topics/hash-table/) | 38 |
-| [Heap (Priority Queue)](Topics/heap-priority-queue/) | 8 |
+| [Heap (Priority Queue)](Topics/heap-priority-queue/) | 10 |
 | [Interactive](Topics/interactive/) | 2 |
 | [K-D Tree](Topics/k-d-tree/) | 1 |
 | [Knapsack Problem](Topics/knapsack-problem/) | 2 |
@@ -114,7 +115,7 @@ Contains topicwise list of solved problems.
 | [Recursion](Topics/recursion/) | 11 |
 | [Rolling Hash](Topics/rolling-hash/) | 1 |
 | [Segment Tree](Topics/segment-tree/) | 1 |
-| [Shortest Path](Topics/shortest-path/) | 1 |
+| [Shortest Path](Topics/shortest-path/) | 3 |
 | [Sieve Theory](Topics/sieve-theory/) | 1 |
 | [Simulation](Topics/simulation/) | 8 |
 | [Sliding Window](Topics/sliding-window/) | 8 |
