@@ -5,7 +5,7 @@
     "name": "Graph Theory",
     "tagId": "24"
   },
-  "updatedAt": "2026-11-10T06:06:29.582Z",
+  "updatedAt": "2026-11-11T08:49:22.145Z",
   "problems": [
     {
       "frontendId": "207",
@@ -64,6 +64,26 @@
           "path": "Medium/0547-number-of-provinces/Java/0547-number-of-provinces.java",
           "sha": "47a8e81c4af34ef3df42063a00836f737137405c",
           "lastSyncedAt": "2026-11-07T06:55:51.109Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "743",
+      "title": "Network Delay Time",
+      "slug": "network-delay-time",
+      "problemName": "0743-network-delay-time",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/network-delay-time/",
+      "folderPath": "Medium/0743-network-delay-time/",
+      "readmePath": "Medium/0743-network-delay-time/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "0743-network-delay-time.java",
+          "path": "Medium/0743-network-delay-time/Java/0743-network-delay-time.java",
+          "sha": "d1b5c6a80b2dba09000543a7f16b183d035008ba",
+          "lastSyncedAt": "2026-11-11T08:49:22.145Z"
         }
       ]
     },
