@@ -5,7 +5,7 @@
     "name": "Breadth-First Search",
     "tagId": "22"
   },
-  "updatedAt": "2026-11-11T15:55:13.584Z",
+  "updatedAt": "2026-11-11T15:57:42.654Z",
   "problems": [
     {
       "frontendId": "100",
@@ -443,7 +443,7 @@
           "filename": "1631-path-with-minimum-effort.java",
           "path": "Medium/1631-path-with-minimum-effort/Java/1631-path-with-minimum-effort.java",
           "sha": "7f03706c3691d0a6e53b49d41cd95c130984f41e",
-          "lastSyncedAt": "2026-11-11T15:55:13.584Z"
+          "lastSyncedAt": "2026-11-11T15:57:42.654Z"
         }
       ]
     },
