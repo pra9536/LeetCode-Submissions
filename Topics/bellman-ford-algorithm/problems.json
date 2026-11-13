@@ -5,7 +5,7 @@
     "name": "Bellman–Ford Algorithm",
     "tagId": "81533"
   },
-  "updatedAt": "2026-11-13T09:34:27.236Z",
+  "updatedAt": "2026-11-13T09:35:05.031Z",
   "problems": [
     {
       "frontendId": "1334",
@@ -23,7 +23,7 @@
           "filename": "1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance.java",
           "path": "Medium/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance/Java/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance.java",
           "sha": "04965efdb4f2b9bbcb61596c30bbe875b7519700",
-          "lastSyncedAt": "2026-11-13T09:34:27.236Z"
+          "lastSyncedAt": "2026-11-13T09:35:05.031Z"
         }
       ]
     }
