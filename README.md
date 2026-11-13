@@ -5,7 +5,7 @@ Contains topicwise list of solved problems.
 
 | Total Solved | Easy | Medium | Hard |
 | ---: | ---: | ---: | ---: |
-| 255 | 105 | 136 | 14 |
+| 256 | 105 | 137 | 14 |
 
 ## Activity
 
@@ -28,7 +28,7 @@ Contains topicwise list of solved problems.
 | 2026-11-09 | 1 |
 | 2026-11-10 | 1 |
 | 2026-11-11 | 4 |
-| 2026-11-13 | 2 |
+| 2026-11-13 | 3 |
 
 ## Top Tags
 
@@ -36,10 +36,10 @@ Contains topicwise list of solved problems.
 | --- | ---: | ---: |
 | Array | 131 | 51% |
 | Two Pointers | 40 | 16% |
-| Hash Table | 37 | 15% |
+| Hash Table | 37 | 14% |
 | Sorting | 35 | 14% |
 | String | 35 | 14% |
-| Depth-First Search | 32 | 13% |
+| Depth-First Search | 33 | 13% |
 | Dynamic Programming | 29 | 11% |
 | Binary Search | 27 | 11% |
 | Binary Tree | 27 | 11% |
@@ -63,7 +63,7 @@ Contains topicwise list of solved problems.
 | [Boyer–Moore Majority Vote Algorithm](Topics/boyer-moore-majority-vote-algorithm/) | 2 |
 | [Boyer–Moore String-Search Algorithm](Topics/boyer-moore-string-search-algorithm/) | 2 |
 | [Bracket Sequences](Topics/bracket-sequences/) | 2 |
-| [Breadth-First Search](Topics/breadth-first-search/) | 25 |
+| [Breadth-First Search](Topics/breadth-first-search/) | 26 |
 | [Bubble Sort](Topics/bubble-sort/) | 1 |
 | [Bucket Sort](Topics/bucket-sort/) | 1 |
 | [Combinatorics](Topics/combinatorics/) | 2 |
@@ -72,7 +72,7 @@ Contains topicwise list of solved problems.
 | [Counting](Topics/counting/) | 4 |
 | [Counting Sort](Topics/counting-sort/) | 1 |
 | [Database](Topics/database/) | 15 |
-| [Depth-First Search](Topics/depth-first-search/) | 32 |
+| [Depth-First Search](Topics/depth-first-search/) | 33 |
 | [Design](Topics/design/) | 6 |
 | [Dijkstra's Algorithm](Topics/dijkstra/) | 4 |
 | [Directed Acyclic Graph](Topics/directed-acyclic-graph/) | 1 |
@@ -85,7 +85,7 @@ Contains topicwise list of solved problems.
 | [Floyd's Cycle Finding Algorithm](Topics/floyds-cycle-finding-algorithm/) | 4 |
 | [Geometry](Topics/geometry/) | 1 |
 | [Graph Coloring](Topics/graph-coloring/) | 1 |
-| [Graph Theory](Topics/graph/) | 13 |
+| [Graph Theory](Topics/graph/) | 14 |
 | [Greatest Common Divisor](Topics/greatest-common-divisor/) | 1 |
 | [Greedy](Topics/greedy/) | 16 |
 | [Hash Function](Topics/hash-function/) | 1 |
@@ -135,6 +135,6 @@ Contains topicwise list of solved problems.
 | [Tree](Topics/tree/) | 27 |
 | [Trie](Topics/trie/) | 3 |
 | [Two Pointers](Topics/two-pointers/) | 40 |
-| [Union-Find](Topics/union-find/) | 7 |
+| [Union-Find](Topics/union-find/) | 8 |
 | [Z Algorithm](Topics/z-algorithm/) | 2 |
 <!---LeetHub Summary End-->
