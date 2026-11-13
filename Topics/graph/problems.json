@@ -5,7 +5,7 @@
     "name": "Graph Theory",
     "tagId": "24"
   },
-  "updatedAt": "2026-11-13T11:52:56.638Z",
+  "updatedAt": "2026-11-13T12:15:21.421Z",
   "problems": [
     {
       "frontendId": "207",
@@ -64,6 +64,26 @@
           "path": "Medium/0547-number-of-provinces/Java/0547-number-of-provinces.java",
           "sha": "47a8e81c4af34ef3df42063a00836f737137405c",
           "lastSyncedAt": "2026-11-13T11:52:56.638Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "684",
+      "title": "Redundant Connection",
+      "slug": "redundant-connection",
+      "problemName": "0684-redundant-connection",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/redundant-connection/",
+      "folderPath": "Medium/0684-redundant-connection/",
+      "readmePath": "Medium/0684-redundant-connection/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "0684-redundant-connection.java",
+          "path": "Medium/0684-redundant-connection/Java/0684-redundant-connection.java",
+          "sha": "e21091d40ce083c95617318cc455bc531a18ec62",
+          "lastSyncedAt": "2026-11-13T12:15:21.421Z"
         }
       ]
     },
