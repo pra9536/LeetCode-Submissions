@@ -5,7 +5,7 @@
     "name": "Union-Find",
     "tagId": "23"
   },
-  "updatedAt": "2026-11-13T12:15:21.421Z",
+  "updatedAt": "2026-11-13T14:38:33.954Z",
   "problems": [
     {
       "frontendId": "200",
@@ -123,7 +123,7 @@
           "filename": "1584-min-cost-to-connect-all-points.java",
           "path": "Medium/1584-min-cost-to-connect-all-points/Java/1584-min-cost-to-connect-all-points.java",
           "sha": "1de6267803653ed76110a8bca3a7ca8f5498f2ff",
-          "lastSyncedAt": "2026-11-13T04:00:30.472Z"
+          "lastSyncedAt": "2026-11-13T14:38:33.954Z"
         }
       ]
     },
