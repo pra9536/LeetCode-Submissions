@@ -5,7 +5,7 @@ Contains topicwise list of solved problems.
 
 | Total Solved | Easy | Medium | Hard |
 | ---: | ---: | ---: | ---: |
-| 254 | 105 | 135 | 14 |
+| 255 | 105 | 136 | 14 |
 
 ## Activity
 
@@ -28,19 +28,19 @@ Contains topicwise list of solved problems.
 | 2026-11-09 | 1 |
 | 2026-11-10 | 1 |
 | 2026-11-11 | 4 |
-| 2026-11-13 | 1 |
+| 2026-11-13 | 2 |
 
 ## Top Tags
 
 | Tag | Problems | Coverage |
 | --- | ---: | ---: |
-| Array | 131 | 52% |
+| Array | 131 | 51% |
 | Two Pointers | 40 | 16% |
 | Hash Table | 37 | 15% |
 | Sorting | 35 | 14% |
 | String | 35 | 14% |
 | Depth-First Search | 32 | 13% |
-| Dynamic Programming | 28 | 11% |
+| Dynamic Programming | 29 | 11% |
 | Binary Search | 27 | 11% |
 | Binary Tree | 27 | 11% |
 | Math | 27 | 11% |
@@ -52,6 +52,7 @@ Contains topicwise list of solved problems.
 | [Algorithm X](Topics/algorithm-x/) | 1 |
 | [Array](Topics/array/) | 133 |
 | [Backtracking](Topics/backtracking/) | 9 |
+| [Bellman–Ford Algorithm](Topics/bellman-ford-algorithm/) | 1 |
 | [Binary Lifting](Topics/binary-lifting/) | 2 |
 | [Binary Search](Topics/binary-search/) | 27 |
 | [Binary Search Tree](Topics/binary-search-tree/) | 10 |
@@ -73,17 +74,18 @@ Contains topicwise list of solved problems.
 | [Database](Topics/database/) | 15 |
 | [Depth-First Search](Topics/depth-first-search/) | 32 |
 | [Design](Topics/design/) | 6 |
-| [Dijkstra's Algorithm](Topics/dijkstra/) | 3 |
+| [Dijkstra's Algorithm](Topics/dijkstra/) | 4 |
 | [Directed Acyclic Graph](Topics/directed-acyclic-graph/) | 1 |
 | [Divide and Conquer](Topics/divide-and-conquer/) | 11 |
 | [DP on Trees](Topics/dp-on-trees/) | 1 |
-| [Dynamic Programming](Topics/dynamic-programming/) | 28 |
+| [Dynamic Programming](Topics/dynamic-programming/) | 29 |
 | [Enumeration](Topics/enumeration/) | 4 |
 | [Euclidean Algorithm](Topics/euclidean-algorithm/) | 1 |
+| [Floyd–Warshall Algorithm](Topics/floyd-warshall-algorithm/) | 1 |
 | [Floyd's Cycle Finding Algorithm](Topics/floyds-cycle-finding-algorithm/) | 4 |
 | [Geometry](Topics/geometry/) | 1 |
 | [Graph Coloring](Topics/graph-coloring/) | 1 |
-| [Graph Theory](Topics/graph/) | 12 |
+| [Graph Theory](Topics/graph/) | 13 |
 | [Greatest Common Divisor](Topics/greatest-common-divisor/) | 1 |
 | [Greedy](Topics/greedy/) | 16 |
 | [Hash Function](Topics/hash-function/) | 1 |
@@ -119,7 +121,7 @@ Contains topicwise list of solved problems.
 | [Recursion](Topics/recursion/) | 11 |
 | [Rolling Hash](Topics/rolling-hash/) | 1 |
 | [Segment Tree](Topics/segment-tree/) | 1 |
-| [Shortest Path](Topics/shortest-path/) | 4 |
+| [Shortest Path](Topics/shortest-path/) | 5 |
 | [Sieve Theory](Topics/sieve-theory/) | 1 |
 | [Simulation](Topics/simulation/) | 8 |
 | [Sliding Window](Topics/sliding-window/) | 8 |
