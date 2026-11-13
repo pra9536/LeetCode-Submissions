@@ -5,7 +5,7 @@
     "name": "Shortest Path",
     "tagId": "61076"
   },
-  "updatedAt": "2026-11-13T09:35:05.031Z",
+  "updatedAt": "2026-11-13T09:39:24.639Z",
   "problems": [
     {
       "frontendId": "743",
@@ -63,7 +63,7 @@
           "filename": "1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance.java",
           "path": "Medium/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance/Java/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance.java",
           "sha": "04965efdb4f2b9bbcb61596c30bbe875b7519700",
-          "lastSyncedAt": "2026-11-13T09:35:05.031Z"
+          "lastSyncedAt": "2026-11-13T09:39:24.639Z"
         }
       ]
     },
