@@ -5,7 +5,7 @@
     "name": "Union-Find",
     "tagId": "23"
   },
-  "updatedAt": "2026-11-11T16:31:31.551Z",
+  "updatedAt": "2026-11-13T04:00:30.472Z",
   "problems": [
     {
       "frontendId": "200",
@@ -84,6 +84,26 @@
           "path": "Medium/1020-number-of-enclaves/Java/1020-number-of-enclaves.java",
           "sha": "bb925389c297432b8d58a7abb14e80dd44a67ba1",
           "lastSyncedAt": "2026-11-07T05:43:07.167Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "1584",
+      "title": "Min Cost to Connect All Points",
+      "slug": "min-cost-to-connect-all-points",
+      "problemName": "1584-min-cost-to-connect-all-points",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/min-cost-to-connect-all-points/",
+      "folderPath": "Medium/1584-min-cost-to-connect-all-points/",
+      "readmePath": "Medium/1584-min-cost-to-connect-all-points/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "1584-min-cost-to-connect-all-points.java",
+          "path": "Medium/1584-min-cost-to-connect-all-points/Java/1584-min-cost-to-connect-all-points.java",
+          "sha": "1de6267803653ed76110a8bca3a7ca8f5498f2ff",
+          "lastSyncedAt": "2026-11-13T04:00:30.472Z"
         }
       ]
     },
