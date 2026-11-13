@@ -5,7 +5,7 @@
     "name": "Shortest Path",
     "tagId": "61076"
   },
-  "updatedAt": "2026-11-11T18:10:29.757Z",
+  "updatedAt": "2026-11-13T07:53:30.379Z",
   "problems": [
     {
       "frontendId": "743",
@@ -23,7 +23,7 @@
           "filename": "0743-network-delay-time.java",
           "path": "Medium/0743-network-delay-time/Java/0743-network-delay-time.java",
           "sha": "d1b5c6a80b2dba09000543a7f16b183d035008ba",
-          "lastSyncedAt": "2026-11-11T08:49:22.145Z"
+          "lastSyncedAt": "2026-11-13T07:53:30.379Z"
         }
       ]
     },
