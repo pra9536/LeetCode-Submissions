@@ -5,7 +5,7 @@
     "name": "Graph Theory",
     "tagId": "24"
   },
-  "updatedAt": "2026-11-13T07:53:30.379Z",
+  "updatedAt": "2026-11-13T09:34:27.236Z",
   "problems": [
     {
       "frontendId": "207",
@@ -164,6 +164,26 @@
           "path": "Medium/0841-keys-and-rooms/Java/0841-keys-and-rooms.java",
           "sha": "bb13699f1ff53aca3dead36b29cf288832c9f4ef",
           "lastSyncedAt": "2026-11-07T14:39:20.077Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "1334",
+      "title": "Find the City With the Smallest Number of Neighbors at a Threshold Distance",
+      "slug": "find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance",
+      "problemName": "1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance/",
+      "folderPath": "Medium/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance/",
+      "readmePath": "Medium/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance.java",
+          "path": "Medium/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance/Java/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance.java",
+          "sha": "04965efdb4f2b9bbcb61596c30bbe875b7519700",
+          "lastSyncedAt": "2026-11-13T09:34:27.236Z"
         }
       ]
     },
