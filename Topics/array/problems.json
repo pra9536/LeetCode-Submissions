@@ -5,7 +5,7 @@
     "name": "Array",
     "tagId": "5"
   },
-  "updatedAt": "2026-11-14T09:48:30.432Z",
+  "updatedAt": "2026-11-14T15:37:40.620Z",
   "problems": [
     {
       "frontendId": "1",
@@ -783,7 +783,7 @@
           "filename": "0198-house-robber.java",
           "path": "Medium/0198-house-robber/Java/0198-house-robber.java",
           "sha": "5837418dc5fbfee14cfda0a0330191258376d56c",
-          "lastSyncedAt": "2026-11-07T05:00:41.341Z"
+          "lastSyncedAt": "2026-11-14T15:37:40.620Z"
         }
       ]
     },
