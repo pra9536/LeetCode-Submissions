@@ -5,17 +5,16 @@ Contains topicwise list of solved problems.
 
 | Total Solved | Easy | Medium | Hard |
 | ---: | ---: | ---: | ---: |
-| 256 | 105 | 137 | 14 |
+| 257 | 105 | 138 | 14 |
 
 ## Activity
 
 | Current Streak | Best Streak | Active Days |
 | ---: | ---: | ---: |
-| 1 days | 8 days | 145 |
+| 1 days | 8 days | 146 |
 
 | Date | Problems |
 | --- | ---: |
-| 2026-08-22 | 1 |
 | 2026-08-23 | 2 |
 | 2026-08-29 | 2 |
 | 2026-09-03 | 1 |
@@ -29,14 +28,15 @@ Contains topicwise list of solved problems.
 | 2026-11-10 | 1 |
 | 2026-11-11 | 4 |
 | 2026-11-13 | 3 |
+| 2026-11-15 | 1 |
 
 ## Top Tags
 
 | Tag | Problems | Coverage |
 | --- | ---: | ---: |
-| Array | 131 | 51% |
+| Array | 132 | 51% |
 | Two Pointers | 40 | 16% |
-| Hash Table | 37 | 14% |
+| Hash Table | 38 | 15% |
 | Sorting | 35 | 14% |
 | String | 35 | 14% |
 | Depth-First Search | 33 | 13% |
@@ -50,7 +50,7 @@ Contains topicwise list of solved problems.
 | Topic | Problems |
 | --- | ---: |
 | [Algorithm X](Topics/algorithm-x/) | 1 |
-| [Array](Topics/array/) | 133 |
+| [Array](Topics/array/) | 134 |
 | [Backtracking](Topics/backtracking/) | 9 |
 | [Bellman–Ford Algorithm](Topics/bellman-ford-algorithm/) | 1 |
 | [Binary Lifting](Topics/binary-lifting/) | 2 |
@@ -89,7 +89,7 @@ Contains topicwise list of solved problems.
 | [Greatest Common Divisor](Topics/greatest-common-divisor/) | 1 |
 | [Greedy](Topics/greedy/) | 16 |
 | [Hash Function](Topics/hash-function/) | 1 |
-| [Hash Table](Topics/hash-table/) | 38 |
+| [Hash Table](Topics/hash-table/) | 39 |
 | [Heap (Priority Queue)](Topics/heap-priority-queue/) | 12 |
 | [Interactive](Topics/interactive/) | 2 |
 | [K-D Tree](Topics/k-d-tree/) | 1 |
@@ -135,6 +135,6 @@ Contains topicwise list of solved problems.
 | [Tree](Topics/tree/) | 27 |
 | [Trie](Topics/trie/) | 3 |
 | [Two Pointers](Topics/two-pointers/) | 40 |
-| [Union-Find](Topics/union-find/) | 8 |
+| [Union-Find](Topics/union-find/) | 9 |
 | [Z Algorithm](Topics/z-algorithm/) | 2 |
 <!---LeetHub Summary End-->
