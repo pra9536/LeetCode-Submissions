@@ -5,8 +5,28 @@
     "name": "Union-Find",
     "tagId": "23"
   },
-  "updatedAt": "2026-11-14T02:03:27.111Z",
+  "updatedAt": "2026-11-15T13:07:08.867Z",
   "problems": [
+    {
+      "frontendId": "128",
+      "title": "Longest Consecutive Sequence",
+      "slug": "longest-consecutive-sequence",
+      "problemName": "0128-longest-consecutive-sequence",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/longest-consecutive-sequence/",
+      "folderPath": "Medium/0128-longest-consecutive-sequence/",
+      "readmePath": "Medium/0128-longest-consecutive-sequence/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "0128-longest-consecutive-sequence.java",
+          "path": "Medium/0128-longest-consecutive-sequence/Java/0128-longest-consecutive-sequence.java",
+          "sha": "966f1755d6bd1a73608ca1ac51f64385d7e47300",
+          "lastSyncedAt": "2026-11-15T13:07:08.867Z"
+        }
+      ]
+    },
     {
       "frontendId": "200",
       "title": "Number of Islands",
