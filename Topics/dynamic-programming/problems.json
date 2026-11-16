@@ -5,7 +5,7 @@
     "name": "Dynamic Programming",
     "tagId": "13"
   },
-  "updatedAt": "2026-11-16T09:05:30.010Z",
+  "updatedAt": "2026-11-16T09:32:01.240Z",
   "problems": [
     {
       "frontendId": "45",
@@ -343,7 +343,7 @@
           "filename": "0746-min-cost-climbing-stairs.java",
           "path": "Easy/0746-min-cost-climbing-stairs/Java/0746-min-cost-climbing-stairs.java",
           "sha": "f4165b46b1ae5886ddee19cd9cd7d890f9753c4a",
-          "lastSyncedAt": "2026-11-07T05:01:16.256Z"
+          "lastSyncedAt": "2026-11-16T09:32:01.240Z"
         }
       ]
     },
