@@ -5,17 +5,16 @@ Contains topicwise list of solved problems.
 
 | Total Solved | Easy | Medium | Hard |
 | ---: | ---: | ---: | ---: |
-| 257 | 105 | 138 | 14 |
+| 258 | 105 | 139 | 14 |
 
 ## Activity
 
 | Current Streak | Best Streak | Active Days |
 | ---: | ---: | ---: |
-| 1 days | 8 days | 146 |
+| 2 days | 8 days | 147 |
 
 | Date | Problems |
 | --- | ---: |
-| 2026-08-23 | 2 |
 | 2026-08-29 | 2 |
 | 2026-09-03 | 1 |
 | 2026-09-06 | 1 |
@@ -29,28 +28,29 @@ Contains topicwise list of solved problems.
 | 2026-11-11 | 4 |
 | 2026-11-13 | 3 |
 | 2026-11-15 | 1 |
+| 2026-11-16 | 1 |
 
 ## Top Tags
 
 | Tag | Problems | Coverage |
 | --- | ---: | ---: |
-| Array | 132 | 51% |
+| Array | 133 | 52% |
 | Two Pointers | 40 | 16% |
-| Hash Table | 38 | 15% |
+| Hash Table | 39 | 15% |
 | Sorting | 35 | 14% |
 | String | 35 | 14% |
 | Depth-First Search | 33 | 13% |
 | Dynamic Programming | 29 | 11% |
-| Binary Search | 27 | 11% |
-| Binary Tree | 27 | 11% |
-| Math | 27 | 11% |
+| Binary Search | 27 | 10% |
+| Binary Tree | 27 | 10% |
+| Math | 27 | 10% |
 
 ## Topics
 
 | Topic | Problems |
 | --- | ---: |
 | [Algorithm X](Topics/algorithm-x/) | 1 |
-| [Array](Topics/array/) | 134 |
+| [Array](Topics/array/) | 135 |
 | [Backtracking](Topics/backtracking/) | 9 |
 | [Bellman–Ford Algorithm](Topics/bellman-ford-algorithm/) | 1 |
 | [Binary Lifting](Topics/binary-lifting/) | 2 |
@@ -69,7 +69,7 @@ Contains topicwise list of solved problems.
 | [Combinatorics](Topics/combinatorics/) | 2 |
 | [Complete Knapsack](Topics/complete-knapsack/) | 2 |
 | [Concurrency](Topics/concurrency/) | 1 |
-| [Counting](Topics/counting/) | 4 |
+| [Counting](Topics/counting/) | 5 |
 | [Counting Sort](Topics/counting-sort/) | 1 |
 | [Database](Topics/database/) | 15 |
 | [Depth-First Search](Topics/depth-first-search/) | 33 |
@@ -87,9 +87,9 @@ Contains topicwise list of solved problems.
 | [Graph Coloring](Topics/graph-coloring/) | 1 |
 | [Graph Theory](Topics/graph/) | 14 |
 | [Greatest Common Divisor](Topics/greatest-common-divisor/) | 1 |
-| [Greedy](Topics/greedy/) | 16 |
+| [Greedy](Topics/greedy/) | 17 |
 | [Hash Function](Topics/hash-function/) | 1 |
-| [Hash Table](Topics/hash-table/) | 39 |
+| [Hash Table](Topics/hash-table/) | 40 |
 | [Heap (Priority Queue)](Topics/heap-priority-queue/) | 12 |
 | [Interactive](Topics/interactive/) | 2 |
 | [K-D Tree](Topics/k-d-tree/) | 1 |
