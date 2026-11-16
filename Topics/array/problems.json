@@ -5,7 +5,7 @@
     "name": "Array",
     "tagId": "5"
   },
-  "updatedAt": "2026-11-15T13:07:08.867Z",
+  "updatedAt": "2026-11-16T09:32:01.240Z",
   "problems": [
     {
       "frontendId": "1",
@@ -1443,7 +1443,7 @@
           "filename": "0746-min-cost-climbing-stairs.java",
           "path": "Easy/0746-min-cost-climbing-stairs/Java/0746-min-cost-climbing-stairs.java",
           "sha": "f4165b46b1ae5886ddee19cd9cd7d890f9753c4a",
-          "lastSyncedAt": "2026-11-07T05:01:16.256Z"
+          "lastSyncedAt": "2026-11-16T09:32:01.240Z"
         }
       ]
     },
