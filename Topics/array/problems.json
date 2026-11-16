@@ -5,7 +5,7 @@
     "name": "Array",
     "tagId": "5"
   },
-  "updatedAt": "2026-11-16T09:57:10.736Z",
+  "updatedAt": "2026-11-16T13:56:17.549Z",
   "problems": [
     {
       "frontendId": "1",
@@ -2124,6 +2124,26 @@
           "path": "Easy/2144-minimum-cost-of-buying-candies-with-discount/Java/2144-minimum-cost-of-buying-candies-with-discount.java",
           "sha": "d2f5772e32e824f34252749237404e8bbd4ef799",
           "lastSyncedAt": "2026-11-07T05:41:54.255Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "2244",
+      "title": "Minimum Rounds to Complete All Tasks",
+      "slug": "minimum-rounds-to-complete-all-tasks",
+      "problemName": "2244-minimum-rounds-to-complete-all-tasks",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/minimum-rounds-to-complete-all-tasks/",
+      "folderPath": "Medium/2244-minimum-rounds-to-complete-all-tasks/",
+      "readmePath": "Medium/2244-minimum-rounds-to-complete-all-tasks/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "2244-minimum-rounds-to-complete-all-tasks.java",
+          "path": "Medium/2244-minimum-rounds-to-complete-all-tasks/Java/2244-minimum-rounds-to-complete-all-tasks.java",
+          "sha": "f0c47b5a5e89a140c34d0a707ffd9b8097032074",
+          "lastSyncedAt": "2026-11-16T13:56:17.549Z"
         }
       ]
     },
