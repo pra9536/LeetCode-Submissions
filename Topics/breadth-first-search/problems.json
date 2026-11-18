@@ -5,7 +5,7 @@
     "name": "Breadth-First Search",
     "tagId": "22"
   },
-  "updatedAt": "2026-11-18T02:57:09.623Z",
+  "updatedAt": "2026-11-18T16:36:41.587Z",
   "problems": [
     {
       "frontendId": "100",
@@ -204,6 +204,26 @@
           "path": "Easy/0226-invert-binary-tree/Java/0226-invert-binary-tree.java",
           "sha": "dd70cbb5dd9875488da13cf4ae6b163a146c96db",
           "lastSyncedAt": "2026-11-07T06:02:18.259Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "279",
+      "title": "Perfect Squares",
+      "slug": "perfect-squares",
+      "problemName": "0279-perfect-squares",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/perfect-squares/",
+      "folderPath": "Medium/0279-perfect-squares/",
+      "readmePath": "Medium/0279-perfect-squares/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "0279-perfect-squares.java",
+          "path": "Medium/0279-perfect-squares/Java/0279-perfect-squares.java",
+          "sha": "d4bb0a63b9dacee6c9873b68ded904c29505e260",
+          "lastSyncedAt": "2026-11-18T16:36:41.587Z"
         }
       ]
     },
