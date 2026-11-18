@@ -63,7 +63,7 @@ Contains topicwise list of solved problems.
 | [Boyer–Moore Majority Vote Algorithm](Topics/boyer-moore-majority-vote-algorithm/) | 2 |
 | [Boyer–Moore String-Search Algorithm](Topics/boyer-moore-string-search-algorithm/) | 2 |
 | [Bracket Sequences](Topics/bracket-sequences/) | 2 |
-| [Breadth-First Search](Topics/breadth-first-search/) | 26 |
+| [Breadth-First Search](Topics/breadth-first-search/) | 27 |
 | [Bubble Sort](Topics/bubble-sort/) | 1 |
 | [Bucket Sort](Topics/bucket-sort/) | 1 |
 | [Combinatorics](Topics/combinatorics/) | 2 |
@@ -78,7 +78,7 @@ Contains topicwise list of solved problems.
 | [Directed Acyclic Graph](Topics/directed-acyclic-graph/) | 1 |
 | [Divide and Conquer](Topics/divide-and-conquer/) | 11 |
 | [DP on Trees](Topics/dp-on-trees/) | 1 |
-| [Dynamic Programming](Topics/dynamic-programming/) | 29 |
+| [Dynamic Programming](Topics/dynamic-programming/) | 30 |
 | [Enumeration](Topics/enumeration/) | 4 |
 | [Euclidean Algorithm](Topics/euclidean-algorithm/) | 1 |
 | [Floyd–Warshall Algorithm](Topics/floyd-warshall-algorithm/) | 1 |
@@ -99,7 +99,7 @@ Contains topicwise list of solved problems.
 | [Kruskal's Algorithm](Topics/kruskals-algorithm/) | 1 |
 | [Linked List](Topics/linked-list/) | 24 |
 | [Lowest Common Ancestor](Topics/lowest-common-ancestor/) | 2 |
-| [Math](Topics/math/) | 27 |
+| [Math](Topics/math/) | 28 |
 | [Matrix](Topics/matrix/) | 13 |
 | [Memoization](Topics/memoization/) | 3 |
 | [Merge Sort](Topics/merge-sort/) | 2 |
