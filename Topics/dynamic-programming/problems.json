@@ -5,7 +5,7 @@
     "name": "Dynamic Programming",
     "tagId": "13"
   },
-  "updatedAt": "2026-11-18T07:24:02.842Z",
+  "updatedAt": "2026-11-18T16:36:41.587Z",
   "problems": [
     {
       "frontendId": "45",
@@ -264,6 +264,26 @@
           "path": "Medium/0213-house-robber-ii/Java/0213-house-robber-ii.java",
           "sha": "245fd78fd6b193c2f1ca9432c83d53d6a8e8e32a",
           "lastSyncedAt": "2026-11-16T19:08:28.272Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "279",
+      "title": "Perfect Squares",
+      "slug": "perfect-squares",
+      "problemName": "0279-perfect-squares",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/perfect-squares/",
+      "folderPath": "Medium/0279-perfect-squares/",
+      "readmePath": "Medium/0279-perfect-squares/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "0279-perfect-squares.java",
+          "path": "Medium/0279-perfect-squares/Java/0279-perfect-squares.java",
+          "sha": "d4bb0a63b9dacee6c9873b68ded904c29505e260",
+          "lastSyncedAt": "2026-11-18T16:36:41.587Z"
         }
       ]
     },
