@@ -5,7 +5,7 @@
     "name": "Array",
     "tagId": "5"
   },
-  "updatedAt": "2026-11-18T07:22:22.440Z",
+  "updatedAt": "2026-11-18T07:24:02.842Z",
   "problems": [
     {
       "frontendId": "1",
@@ -1683,7 +1683,7 @@
           "filename": "1277-count-square-submatrices-with-all-ones.java",
           "path": "Medium/1277-count-square-submatrices-with-all-ones/Java/1277-count-square-submatrices-with-all-ones.java",
           "sha": "02817b529bc0867ff0def23d66a556e90452aced",
-          "lastSyncedAt": "2026-11-18T07:22:22.440Z"
+          "lastSyncedAt": "2026-11-18T07:24:02.842Z"
         }
       ]
     },
