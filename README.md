@@ -5,17 +5,16 @@ Contains topicwise list of solved problems.
 
 | Total Solved | Easy | Medium | Hard |
 | ---: | ---: | ---: | ---: |
-| 258 | 105 | 139 | 14 |
+| 259 | 105 | 140 | 14 |
 
 ## Activity
 
 | Current Streak | Best Streak | Active Days |
 | ---: | ---: | ---: |
-| 2 days | 8 days | 147 |
+| 1 days | 8 days | 148 |
 
 | Date | Problems |
 | --- | ---: |
-| 2026-08-29 | 2 |
 | 2026-09-03 | 1 |
 | 2026-09-06 | 1 |
 | 2026-09-09 | 5 |
@@ -29,21 +28,22 @@ Contains topicwise list of solved problems.
 | 2026-11-13 | 3 |
 | 2026-11-15 | 1 |
 | 2026-11-16 | 1 |
+| 2026-11-18 | 1 |
 
 ## Top Tags
 
 | Tag | Problems | Coverage |
 | --- | ---: | ---: |
-| Array | 133 | 52% |
-| Two Pointers | 40 | 16% |
+| Array | 133 | 51% |
+| Two Pointers | 40 | 15% |
 | Hash Table | 39 | 15% |
 | Sorting | 35 | 14% |
 | String | 35 | 14% |
 | Depth-First Search | 33 | 13% |
-| Dynamic Programming | 29 | 11% |
+| Dynamic Programming | 30 | 12% |
+| Math | 28 | 11% |
 | Binary Search | 27 | 10% |
 | Binary Tree | 27 | 10% |
-| Math | 27 | 10% |
 
 ## Topics
 
@@ -67,7 +67,7 @@ Contains topicwise list of solved problems.
 | [Bubble Sort](Topics/bubble-sort/) | 1 |
 | [Bucket Sort](Topics/bucket-sort/) | 1 |
 | [Combinatorics](Topics/combinatorics/) | 2 |
-| [Complete Knapsack](Topics/complete-knapsack/) | 2 |
+| [Complete Knapsack](Topics/complete-knapsack/) | 3 |
 | [Concurrency](Topics/concurrency/) | 1 |
 | [Counting](Topics/counting/) | 5 |
 | [Counting Sort](Topics/counting-sort/) | 1 |
@@ -93,7 +93,7 @@ Contains topicwise list of solved problems.
 | [Heap (Priority Queue)](Topics/heap-priority-queue/) | 12 |
 | [Interactive](Topics/interactive/) | 2 |
 | [K-D Tree](Topics/k-d-tree/) | 1 |
-| [Knapsack Problem](Topics/knapsack-problem/) | 2 |
+| [Knapsack Problem](Topics/knapsack-problem/) | 3 |
 | [Knuth–Morris–Pratt Algorithm](Topics/knuth-morris-pratt-algorithm/) | 1 |
 | [Kosaraju's Algorithm](Topics/kosarajus-algorithm/) | 1 |
 | [Kruskal's Algorithm](Topics/kruskals-algorithm/) | 1 |
