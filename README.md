@@ -5,7 +5,7 @@ Contains topicwise list of solved problems.
 
 | Total Solved | Easy | Medium | Hard |
 | ---: | ---: | ---: | ---: |
-| 260 | 105 | 141 | 14 |
+| 261 | 105 | 142 | 14 |
 
 ## Activity
 
@@ -28,19 +28,19 @@ Contains topicwise list of solved problems.
 | 2026-11-15 | 1 |
 | 2026-11-16 | 1 |
 | 2026-11-18 | 1 |
-| 2026-11-19 | 1 |
+| 2026-11-19 | 2 |
 
 ## Top Tags
 
 | Tag | Problems | Coverage |
 | --- | ---: | ---: |
-| Array | 134 | 52% |
+| Array | 135 | 52% |
 | Two Pointers | 40 | 15% |
 | Hash Table | 39 | 15% |
 | Sorting | 35 | 13% |
 | String | 35 | 13% |
 | Depth-First Search | 33 | 13% |
-| Dynamic Programming | 31 | 12% |
+| Dynamic Programming | 32 | 12% |
 | Math | 28 | 11% |
 | Binary Search | 27 | 10% |
 | Binary Tree | 27 | 10% |
@@ -49,9 +49,9 @@ Contains topicwise list of solved problems.
 
 | Topic | Problems |
 | --- | ---: |
-| [0-1 Knapsack](Topics/0-1-knapsack/) | 1 |
+| [0-1 Knapsack](Topics/0-1-knapsack/) | 2 |
 | [Algorithm X](Topics/algorithm-x/) | 1 |
-| [Array](Topics/array/) | 136 |
+| [Array](Topics/array/) | 137 |
 | [Backtracking](Topics/backtracking/) | 9 |
 | [Bellman–Ford Algorithm](Topics/bellman-ford-algorithm/) | 1 |
 | [Binary Lifting](Topics/binary-lifting/) | 2 |
@@ -79,7 +79,7 @@ Contains topicwise list of solved problems.
 | [Directed Acyclic Graph](Topics/directed-acyclic-graph/) | 1 |
 | [Divide and Conquer](Topics/divide-and-conquer/) | 11 |
 | [DP on Trees](Topics/dp-on-trees/) | 1 |
-| [Dynamic Programming](Topics/dynamic-programming/) | 31 |
+| [Dynamic Programming](Topics/dynamic-programming/) | 32 |
 | [Enumeration](Topics/enumeration/) | 4 |
 | [Euclidean Algorithm](Topics/euclidean-algorithm/) | 1 |
 | [Floyd–Warshall Algorithm](Topics/floyd-warshall-algorithm/) | 1 |
@@ -94,7 +94,7 @@ Contains topicwise list of solved problems.
 | [Heap (Priority Queue)](Topics/heap-priority-queue/) | 12 |
 | [Interactive](Topics/interactive/) | 2 |
 | [K-D Tree](Topics/k-d-tree/) | 1 |
-| [Knapsack Problem](Topics/knapsack-problem/) | 4 |
+| [Knapsack Problem](Topics/knapsack-problem/) | 5 |
 | [Knuth–Morris–Pratt Algorithm](Topics/knuth-morris-pratt-algorithm/) | 1 |
 | [Kosaraju's Algorithm](Topics/kosarajus-algorithm/) | 1 |
 | [Kruskal's Algorithm](Topics/kruskals-algorithm/) | 1 |
