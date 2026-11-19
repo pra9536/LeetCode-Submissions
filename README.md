@@ -5,17 +5,16 @@ Contains topicwise list of solved problems.
 
 | Total Solved | Easy | Medium | Hard |
 | ---: | ---: | ---: | ---: |
-| 263 | 105 | 144 | 14 |
+| 265 | 105 | 145 | 15 |
 
 ## Activity
 
 | Current Streak | Best Streak | Active Days |
 | ---: | ---: | ---: |
-| 2 days | 8 days | 149 |
+| 3 days | 8 days | 150 |
 
 | Date | Problems |
 | --- | ---: |
-| 2026-09-06 | 1 |
 | 2026-09-09 | 5 |
 | 2026-09-26 | 6 |
 | 2026-09-27 | 3 |
@@ -29,18 +28,19 @@ Contains topicwise list of solved problems.
 | 2026-11-16 | 1 |
 | 2026-11-18 | 1 |
 | 2026-11-19 | 4 |
+| 2026-11-20 | 2 |
 
 ## Top Tags
 
 | Tag | Problems | Coverage |
 | --- | ---: | ---: |
-| Array | 136 | 52% |
+| Array | 136 | 51% |
 | Two Pointers | 40 | 15% |
 | Hash Table | 39 | 15% |
-| String | 36 | 14% |
+| String | 38 | 14% |
+| Dynamic Programming | 36 | 14% |
 | Sorting | 35 | 13% |
-| Dynamic Programming | 34 | 13% |
-| Depth-First Search | 33 | 13% |
+| Depth-First Search | 33 | 12% |
 | Math | 28 | 11% |
 | Binary Search | 27 | 10% |
 | Binary Tree | 27 | 10% |
@@ -79,7 +79,7 @@ Contains topicwise list of solved problems.
 | [Directed Acyclic Graph](Topics/directed-acyclic-graph/) | 1 |
 | [Divide and Conquer](Topics/divide-and-conquer/) | 11 |
 | [DP on Trees](Topics/dp-on-trees/) | 1 |
-| [Dynamic Programming](Topics/dynamic-programming/) | 35 |
+| [Dynamic Programming](Topics/dynamic-programming/) | 37 |
 | [Enumeration](Topics/enumeration/) | 4 |
 | [Euclidean Algorithm](Topics/euclidean-algorithm/) | 1 |
 | [Floyd–Warshall Algorithm](Topics/floyd-warshall-algorithm/) | 1 |
@@ -99,7 +99,7 @@ Contains topicwise list of solved problems.
 | [Kosaraju's Algorithm](Topics/kosarajus-algorithm/) | 1 |
 | [Kruskal's Algorithm](Topics/kruskals-algorithm/) | 1 |
 | [Linked List](Topics/linked-list/) | 24 |
-| [Longest Common Subsequence](Topics/longest-common-subsequence/) | 1 |
+| [Longest Common Subsequence](Topics/longest-common-subsequence/) | 2 |
 | [Lowest Common Ancestor](Topics/lowest-common-ancestor/) | 2 |
 | [Math](Topics/math/) | 28 |
 | [Matrix](Topics/matrix/) | 13 |
@@ -129,7 +129,7 @@ Contains topicwise list of solved problems.
 | [Sliding Window](Topics/sliding-window/) | 8 |
 | [Sorting](Topics/sorting/) | 36 |
 | [Stack](Topics/stack/) | 23 |
-| [String](Topics/string/) | 37 |
+| [String](Topics/string/) | 39 |
 | [String Matching](Topics/string-matching/) | 2 |
 | [Sweep Line](Topics/sweep-line/) | 1 |
 | [Tarjan's SCC Algorithm](Topics/tarjans-scc-algorithm/) | 1 |
