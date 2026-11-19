@@ -5,7 +5,7 @@
     "name": "Backtracking",
     "tagId": "14"
   },
-  "updatedAt": "2026-11-07T06:09:05.384Z",
+  "updatedAt": "2026-11-19T08:31:53.372Z",
   "problems": [
     {
       "frontendId": "39",
@@ -184,6 +184,26 @@
           "path": "Easy/0257-binary-tree-paths/Java/0257-binary-tree-paths.java",
           "sha": "39a736a7de3ee4530b13a7821ab7a342b6cc38ab",
           "lastSyncedAt": "2026-11-07T06:01:04.086Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "494",
+      "title": "Target Sum",
+      "slug": "target-sum",
+      "problemName": "0494-target-sum",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/target-sum/",
+      "folderPath": "Medium/0494-target-sum/",
+      "readmePath": "Medium/0494-target-sum/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "0494-target-sum.java",
+          "path": "Medium/0494-target-sum/Java/0494-target-sum.java",
+          "sha": "0af1fa6c3209e9d8e66846cb14b0329965abfad2",
+          "lastSyncedAt": "2026-11-19T08:31:53.372Z"
         }
       ]
     }
