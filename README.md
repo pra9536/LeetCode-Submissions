@@ -5,7 +5,7 @@ Contains topicwise list of solved problems.
 
 | Total Solved | Easy | Medium | Hard |
 | ---: | ---: | ---: | ---: |
-| 262 | 105 | 143 | 14 |
+| 263 | 105 | 144 | 14 |
 
 ## Activity
 
@@ -28,7 +28,7 @@ Contains topicwise list of solved problems.
 | 2026-11-15 | 1 |
 | 2026-11-16 | 1 |
 | 2026-11-18 | 1 |
-| 2026-11-19 | 3 |
+| 2026-11-19 | 4 |
 
 ## Top Tags
 
@@ -37,10 +37,10 @@ Contains topicwise list of solved problems.
 | Array | 136 | 52% |
 | Two Pointers | 40 | 15% |
 | Hash Table | 39 | 15% |
+| String | 36 | 14% |
 | Sorting | 35 | 13% |
-| String | 35 | 13% |
+| Dynamic Programming | 34 | 13% |
 | Depth-First Search | 33 | 13% |
-| Dynamic Programming | 33 | 13% |
 | Math | 28 | 11% |
 | Binary Search | 27 | 10% |
 | Binary Tree | 27 | 10% |
@@ -79,7 +79,7 @@ Contains topicwise list of solved problems.
 | [Directed Acyclic Graph](Topics/directed-acyclic-graph/) | 1 |
 | [Divide and Conquer](Topics/divide-and-conquer/) | 11 |
 | [DP on Trees](Topics/dp-on-trees/) | 1 |
-| [Dynamic Programming](Topics/dynamic-programming/) | 34 |
+| [Dynamic Programming](Topics/dynamic-programming/) | 35 |
 | [Enumeration](Topics/enumeration/) | 4 |
 | [Euclidean Algorithm](Topics/euclidean-algorithm/) | 1 |
 | [Floyd–Warshall Algorithm](Topics/floyd-warshall-algorithm/) | 1 |
@@ -129,7 +129,7 @@ Contains topicwise list of solved problems.
 | [Sliding Window](Topics/sliding-window/) | 8 |
 | [Sorting](Topics/sorting/) | 36 |
 | [Stack](Topics/stack/) | 23 |
-| [String](Topics/string/) | 36 |
+| [String](Topics/string/) | 37 |
 | [String Matching](Topics/string-matching/) | 2 |
 | [Sweep Line](Topics/sweep-line/) | 1 |
 | [Tarjan's SCC Algorithm](Topics/tarjans-scc-algorithm/) | 1 |
