@@ -5,7 +5,7 @@
     "name": "String",
     "tagId": "10"
   },
-  "updatedAt": "2026-11-19T17:42:16.800Z",
+  "updatedAt": "2026-11-19T18:08:06.124Z",
   "problems": [
     {
       "frontendId": "3",
@@ -384,6 +384,26 @@
           "path": "Medium/0443-string-compression/Java/0443-string-compression.java",
           "sha": "db68e914a7065ffaefc24841cd659bff5d67829d",
           "lastSyncedAt": "2026-11-07T05:52:05.470Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "516",
+      "title": "Longest Palindromic Subsequence",
+      "slug": "longest-palindromic-subsequence",
+      "problemName": "0516-longest-palindromic-subsequence",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/longest-palindromic-subsequence/",
+      "folderPath": "Medium/0516-longest-palindromic-subsequence/",
+      "readmePath": "Medium/0516-longest-palindromic-subsequence/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "0516-longest-palindromic-subsequence.java",
+          "path": "Medium/0516-longest-palindromic-subsequence/Java/0516-longest-palindromic-subsequence.java",
+          "sha": "dde17b42eeb9c36656b190affcf876fb940cd3a0",
+          "lastSyncedAt": "2026-11-19T18:08:06.124Z"
         }
       ]
     },
