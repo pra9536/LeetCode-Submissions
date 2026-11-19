@@ -5,7 +5,7 @@
     "name": "0-1 Knapsack",
     "tagId": "88229"
   },
-  "updatedAt": "2026-11-19T06:18:41.766Z",
+  "updatedAt": "2026-11-19T08:12:33.791Z",
   "problems": [
     {
       "frontendId": "416",
@@ -24,6 +24,26 @@
           "path": "Medium/0416-partition-equal-subset-sum/Java/0416-partition-equal-subset-sum.java",
           "sha": "1cc0f9192c8ab3eff2dd1035bce0787ffcd99fdd",
           "lastSyncedAt": "2026-11-19T06:18:41.766Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "2915",
+      "title": "Length of the Longest Subsequence That Sums to Target",
+      "slug": "length-of-the-longest-subsequence-that-sums-to-target",
+      "problemName": "2915-length-of-the-longest-subsequence-that-sums-to-target",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/length-of-the-longest-subsequence-that-sums-to-target/",
+      "folderPath": "Medium/2915-length-of-the-longest-subsequence-that-sums-to-target/",
+      "readmePath": "Medium/2915-length-of-the-longest-subsequence-that-sums-to-target/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "2915-length-of-the-longest-subsequence-that-sums-to-target.java",
+          "path": "Medium/2915-length-of-the-longest-subsequence-that-sums-to-target/Java/2915-length-of-the-longest-subsequence-that-sums-to-target.java",
+          "sha": "286d5b2a26fef3c7e6ee35032ba8db63984065c9",
+          "lastSyncedAt": "2026-11-19T08:12:33.791Z"
         }
       ]
     }
