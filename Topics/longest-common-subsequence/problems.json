@@ -1,0 +1,31 @@
+{
+  "version": 1,
+  "topic": {
+    "slug": "longest-common-subsequence",
+    "name": "Longest Common Subsequence",
+    "tagId": "122080"
+  },
+  "updatedAt": "2026-11-19T17:32:34.672Z",
+  "problems": [
+    {
+      "frontendId": "1143",
+      "title": "Longest Common Subsequence",
+      "slug": "longest-common-subsequence",
+      "problemName": "1143-longest-common-subsequence",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/longest-common-subsequence/",
+      "folderPath": "Medium/1143-longest-common-subsequence/",
+      "readmePath": "Medium/1143-longest-common-subsequence/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "1143-longest-common-subsequence.java",
+          "path": "Medium/1143-longest-common-subsequence/Java/1143-longest-common-subsequence.java",
+          "sha": "eb6cfbdcfb230d7c62a097d383fd63f6b99c7d22",
+          "lastSyncedAt": "2026-11-19T17:32:34.672Z"
+        }
+      ]
+    }
+  ]
+}
