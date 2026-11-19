@@ -5,7 +5,7 @@
     "name": "Dynamic Programming",
     "tagId": "13"
   },
-  "updatedAt": "2026-11-19T18:08:06.124Z",
+  "updatedAt": "2026-11-19T18:32:04.429Z",
   "problems": [
     {
       "frontendId": "45",
@@ -383,7 +383,7 @@
           "filename": "0516-longest-palindromic-subsequence.java",
           "path": "Medium/0516-longest-palindromic-subsequence/Java/0516-longest-palindromic-subsequence.java",
           "sha": "dde17b42eeb9c36656b190affcf876fb940cd3a0",
-          "lastSyncedAt": "2026-11-19T18:08:06.124Z"
+          "lastSyncedAt": "2026-11-19T18:32:04.429Z"
         }
       ]
     },
