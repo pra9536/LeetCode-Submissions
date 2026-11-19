@@ -5,7 +5,7 @@
     "name": "Array",
     "tagId": "5"
   },
-  "updatedAt": "2026-11-19T05:49:15.277Z",
+  "updatedAt": "2026-11-19T06:18:41.766Z",
   "problems": [
     {
       "frontendId": "1",
@@ -1123,7 +1123,7 @@
           "filename": "0416-partition-equal-subset-sum.java",
           "path": "Medium/0416-partition-equal-subset-sum/Java/0416-partition-equal-subset-sum.java",
           "sha": "1cc0f9192c8ab3eff2dd1035bce0787ffcd99fdd",
-          "lastSyncedAt": "2026-11-19T05:49:15.277Z"
+          "lastSyncedAt": "2026-11-19T06:18:41.766Z"
         }
       ]
     },
