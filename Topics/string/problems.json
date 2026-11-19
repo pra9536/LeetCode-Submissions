@@ -5,7 +5,7 @@
     "name": "String",
     "tagId": "10"
   },
-  "updatedAt": "2026-11-19T19:04:04.441Z",
+  "updatedAt": "2026-11-19T20:11:49.360Z",
   "problems": [
     {
       "frontendId": "3",
@@ -164,6 +164,26 @@
           "path": "Medium/0049-group-anagrams/Java/0049-group-anagrams.java",
           "sha": "8ea55edef11538716508c8c4f9b35e402b0c8d8f",
           "lastSyncedAt": "2026-11-07T04:48:31.483Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "72",
+      "title": "Edit Distance",
+      "slug": "edit-distance",
+      "problemName": "0072-edit-distance",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/edit-distance/",
+      "folderPath": "Medium/0072-edit-distance/",
+      "readmePath": "Medium/0072-edit-distance/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "0072-edit-distance.java",
+          "path": "Medium/0072-edit-distance/Java/0072-edit-distance.java",
+          "sha": "c9d421af129cc532d4ce9d624756186141abf55a",
+          "lastSyncedAt": "2026-11-19T20:11:49.360Z"
         }
       ]
     },
