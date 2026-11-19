@@ -5,8 +5,28 @@
     "name": "Longest Common Subsequence",
     "tagId": "122080"
   },
-  "updatedAt": "2026-11-19T17:42:16.800Z",
+  "updatedAt": "2026-11-19T19:03:53.876Z",
   "problems": [
+    {
+      "frontendId": "583",
+      "title": "Delete Operation for Two Strings",
+      "slug": "delete-operation-for-two-strings",
+      "problemName": "0583-delete-operation-for-two-strings",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/delete-operation-for-two-strings/",
+      "folderPath": "Medium/0583-delete-operation-for-two-strings/",
+      "readmePath": "Medium/0583-delete-operation-for-two-strings/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "0583-delete-operation-for-two-strings.java",
+          "path": "Medium/0583-delete-operation-for-two-strings/Java/0583-delete-operation-for-two-strings.java",
+          "sha": "ba527f51005fc330d9c4dbd9a5f58781fae0cad2",
+          "lastSyncedAt": "2026-11-19T19:03:53.876Z"
+        }
+      ]
+    },
     {
       "frontendId": "1143",
       "title": "Longest Common Subsequence",
