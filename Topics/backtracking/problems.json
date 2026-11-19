@@ -5,7 +5,7 @@
     "name": "Backtracking",
     "tagId": "14"
   },
-  "updatedAt": "2026-11-19T08:31:53.372Z",
+  "updatedAt": "2026-11-19T15:15:18.445Z",
   "problems": [
     {
       "frontendId": "39",
@@ -203,7 +203,7 @@
           "filename": "0494-target-sum.java",
           "path": "Medium/0494-target-sum/Java/0494-target-sum.java",
           "sha": "0af1fa6c3209e9d8e66846cb14b0329965abfad2",
-          "lastSyncedAt": "2026-11-19T08:31:53.372Z"
+          "lastSyncedAt": "2026-11-19T15:15:18.445Z"
         }
       ]
     }
