@@ -5,7 +5,7 @@
     "name": "Dynamic Programming",
     "tagId": "13"
   },
-  "updatedAt": "2026-11-19T06:59:39.188Z",
+  "updatedAt": "2026-11-19T08:12:33.791Z",
   "problems": [
     {
       "frontendId": "45",
@@ -544,6 +544,26 @@
           "path": "Medium/2770-maximum-number-of-jumps-to-reach-the-last-index/Java/2770-maximum-number-of-jumps-to-reach-the-last-index.java",
           "sha": "6b821046ae54fd29282fb3c225d1767c879baace",
           "lastSyncedAt": "2026-11-07T05:47:38.264Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "2915",
+      "title": "Length of the Longest Subsequence That Sums to Target",
+      "slug": "length-of-the-longest-subsequence-that-sums-to-target",
+      "problemName": "2915-length-of-the-longest-subsequence-that-sums-to-target",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/length-of-the-longest-subsequence-that-sums-to-target/",
+      "folderPath": "Medium/2915-length-of-the-longest-subsequence-that-sums-to-target/",
+      "readmePath": "Medium/2915-length-of-the-longest-subsequence-that-sums-to-target/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "2915-length-of-the-longest-subsequence-that-sums-to-target.java",
+          "path": "Medium/2915-length-of-the-longest-subsequence-that-sums-to-target/Java/2915-length-of-the-longest-subsequence-that-sums-to-target.java",
+          "sha": "286d5b2a26fef3c7e6ee35032ba8db63984065c9",
+          "lastSyncedAt": "2026-11-19T08:12:33.791Z"
         }
       ]
     },
