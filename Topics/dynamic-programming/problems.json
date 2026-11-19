@@ -5,7 +5,7 @@
     "name": "Dynamic Programming",
     "tagId": "13"
   },
-  "updatedAt": "2026-11-19T17:42:16.800Z",
+  "updatedAt": "2026-11-19T18:08:06.124Z",
   "problems": [
     {
       "frontendId": "45",
@@ -364,6 +364,26 @@
           "path": "Easy/0509-fibonacci-number/Java/0509-fibonacci-number.java",
           "sha": "c9c70886cc3d306daa5b0ef465665798778ab6f1",
           "lastSyncedAt": "2026-11-16T09:05:30.010Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "516",
+      "title": "Longest Palindromic Subsequence",
+      "slug": "longest-palindromic-subsequence",
+      "problemName": "0516-longest-palindromic-subsequence",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/longest-palindromic-subsequence/",
+      "folderPath": "Medium/0516-longest-palindromic-subsequence/",
+      "readmePath": "Medium/0516-longest-palindromic-subsequence/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "0516-longest-palindromic-subsequence.java",
+          "path": "Medium/0516-longest-palindromic-subsequence/Java/0516-longest-palindromic-subsequence.java",
+          "sha": "dde17b42eeb9c36656b190affcf876fb940cd3a0",
+          "lastSyncedAt": "2026-11-19T18:08:06.124Z"
         }
       ]
     },
