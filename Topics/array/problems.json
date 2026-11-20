@@ -5,7 +5,7 @@
     "name": "Array",
     "tagId": "5"
   },
-  "updatedAt": "2026-11-20T14:39:51.654Z",
+  "updatedAt": "2026-11-20T15:31:58.744Z",
   "problems": [
     {
       "frontendId": "1",
@@ -1063,7 +1063,7 @@
           "filename": "0322-coin-change.java",
           "path": "Medium/0322-coin-change/Java/0322-coin-change.java",
           "sha": "64916ed0d989f97d6cf1b991c80b45a72eb4ba2d",
-          "lastSyncedAt": "2026-11-20T14:39:51.654Z"
+          "lastSyncedAt": "2026-11-20T15:31:58.744Z"
         }
       ]
     },
