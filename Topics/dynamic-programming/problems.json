@@ -5,7 +5,7 @@
     "name": "Dynamic Programming",
     "tagId": "13"
   },
-  "updatedAt": "2026-11-19T20:11:49.360Z",
+  "updatedAt": "2026-11-20T12:06:47.872Z",
   "problems": [
     {
       "frontendId": "45",
@@ -343,7 +343,7 @@
           "filename": "0416-partition-equal-subset-sum.java",
           "path": "Medium/0416-partition-equal-subset-sum/Java/0416-partition-equal-subset-sum.java",
           "sha": "1cc0f9192c8ab3eff2dd1035bce0787ffcd99fdd",
-          "lastSyncedAt": "2026-11-19T06:18:41.766Z"
+          "lastSyncedAt": "2026-11-20T12:06:47.872Z"
         }
       ]
     },
