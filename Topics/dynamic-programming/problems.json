@@ -5,7 +5,7 @@
     "name": "Dynamic Programming",
     "tagId": "13"
   },
-  "updatedAt": "2026-11-21T02:07:31.685Z",
+  "updatedAt": "2026-11-21T02:09:29.864Z",
   "problems": [
     {
       "frontendId": "45",
@@ -523,7 +523,7 @@
           "filename": "1092-shortest-common-supersequence.java",
           "path": "Hard/1092-shortest-common-supersequence/Java/1092-shortest-common-supersequence.java",
           "sha": "a509a0817a7b59b647bccf43f281f09389031437",
-          "lastSyncedAt": "2026-11-21T02:07:31.685Z"
+          "lastSyncedAt": "2026-11-21T02:09:29.864Z"
         }
       ]
     },
