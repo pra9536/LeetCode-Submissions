@@ -5,7 +5,7 @@
     "name": "Longest Common Subsequence",
     "tagId": "122080"
   },
-  "updatedAt": "2026-11-21T01:55:03.237Z",
+  "updatedAt": "2026-11-21T02:07:31.685Z",
   "problems": [
     {
       "frontendId": "583",
@@ -43,7 +43,7 @@
           "filename": "1092-shortest-common-supersequence.java",
           "path": "Hard/1092-shortest-common-supersequence/Java/1092-shortest-common-supersequence.java",
           "sha": "a509a0817a7b59b647bccf43f281f09389031437",
-          "lastSyncedAt": "2026-11-21T01:55:03.237Z"
+          "lastSyncedAt": "2026-11-21T02:07:31.685Z"
         }
       ]
     },
