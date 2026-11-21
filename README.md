@@ -5,7 +5,7 @@ Contains topicwise list of solved problems.
 
 | Total Solved | Easy | Medium | Hard |
 | ---: | ---: | ---: | ---: |
-| 268 | 105 | 147 | 16 |
+| 269 | 105 | 148 | 16 |
 
 ## Activity
 
@@ -28,17 +28,17 @@ Contains topicwise list of solved problems.
 | 2026-11-18 | 1 |
 | 2026-11-19 | 4 |
 | 2026-11-20 | 3 |
-| 2026-11-21 | 2 |
+| 2026-11-21 | 3 |
 
 ## Top Tags
 
 | Tag | Problems | Coverage |
 | --- | ---: | ---: |
 | Array | 136 | 51% |
-| String | 41 | 15% |
-| Two Pointers | 41 | 15% |
-| Dynamic Programming | 39 | 15% |
-| Hash Table | 39 | 15% |
+| String | 42 | 16% |
+| Two Pointers | 42 | 16% |
+| Dynamic Programming | 40 | 15% |
+| Hash Table | 39 | 14% |
 | Sorting | 35 | 13% |
 | Depth-First Search | 33 | 12% |
 | Math | 28 | 10% |
@@ -79,7 +79,7 @@ Contains topicwise list of solved problems.
 | [Directed Acyclic Graph](Topics/directed-acyclic-graph/) | 1 |
 | [Divide and Conquer](Topics/divide-and-conquer/) | 11 |
 | [DP on Trees](Topics/dp-on-trees/) | 1 |
-| [Dynamic Programming](Topics/dynamic-programming/) | 40 |
+| [Dynamic Programming](Topics/dynamic-programming/) | 41 |
 | [Enumeration](Topics/enumeration/) | 4 |
 | [Euclidean Algorithm](Topics/euclidean-algorithm/) | 1 |
 | [Floyd–Warshall Algorithm](Topics/floyd-warshall-algorithm/) | 1 |
@@ -101,6 +101,7 @@ Contains topicwise list of solved problems.
 | [Linked List](Topics/linked-list/) | 24 |
 | [Longest Common Subsequence](Topics/longest-common-subsequence/) | 3 |
 | [Lowest Common Ancestor](Topics/lowest-common-ancestor/) | 2 |
+| [Manacher](Topics/manacher/) | 1 |
 | [Math](Topics/math/) | 28 |
 | [Matrix](Topics/matrix/) | 13 |
 | [Memoization](Topics/memoization/) | 3 |
@@ -129,14 +130,14 @@ Contains topicwise list of solved problems.
 | [Sliding Window](Topics/sliding-window/) | 8 |
 | [Sorting](Topics/sorting/) | 36 |
 | [Stack](Topics/stack/) | 23 |
-| [String](Topics/string/) | 42 |
+| [String](Topics/string/) | 43 |
 | [String Matching](Topics/string-matching/) | 2 |
 | [Sweep Line](Topics/sweep-line/) | 1 |
 | [Tarjan's SCC Algorithm](Topics/tarjans-scc-algorithm/) | 1 |
 | [Topological Sort](Topics/topological-sort/) | 3 |
 | [Tree](Topics/tree/) | 27 |
 | [Trie](Topics/trie/) | 3 |
-| [Two Pointers](Topics/two-pointers/) | 41 |
+| [Two Pointers](Topics/two-pointers/) | 42 |
 | [Union-Find](Topics/union-find/) | 9 |
 | [Z Algorithm](Topics/z-algorithm/) | 2 |
 <!---LeetHub Summary End-->
