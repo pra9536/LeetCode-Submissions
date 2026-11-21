@@ -5,7 +5,7 @@ Contains topicwise list of solved problems.
 
 | Total Solved | Easy | Medium | Hard |
 | ---: | ---: | ---: | ---: |
-| 270 | 105 | 149 | 16 |
+| 271 | 105 | 150 | 16 |
 
 ## Activity
 
@@ -28,22 +28,22 @@ Contains topicwise list of solved problems.
 | 2026-11-18 | 1 |
 | 2026-11-19 | 4 |
 | 2026-11-20 | 3 |
-| 2026-11-21 | 4 |
+| 2026-11-21 | 5 |
 
 ## Top Tags
 
 | Tag | Problems | Coverage |
 | --- | ---: | ---: |
 | Array | 137 | 51% |
-| String | 42 | 16% |
-| Two Pointers | 42 | 16% |
-| Dynamic Programming | 41 | 15% |
+| Dynamic Programming | 42 | 15% |
+| String | 42 | 15% |
+| Two Pointers | 42 | 15% |
 | Hash Table | 39 | 14% |
 | Sorting | 35 | 13% |
 | Depth-First Search | 33 | 12% |
+| Math | 29 | 11% |
 | Binary Search | 28 | 10% |
-| Math | 28 | 10% |
-| Binary Tree | 27 | 10% |
+| Binary Tree | 28 | 10% |
 
 ## Topics
 
@@ -56,8 +56,8 @@ Contains topicwise list of solved problems.
 | [Bellman–Ford Algorithm](Topics/bellman-ford-algorithm/) | 1 |
 | [Binary Lifting](Topics/binary-lifting/) | 2 |
 | [Binary Search](Topics/binary-search/) | 28 |
-| [Binary Search Tree](Topics/binary-search-tree/) | 10 |
-| [Binary Tree](Topics/binary-tree/) | 27 |
+| [Binary Search Tree](Topics/binary-search-tree/) | 11 |
+| [Binary Tree](Topics/binary-tree/) | 28 |
 | [Bipartite Graph](Topics/bipartite-graph/) | 1 |
 | [Bit Manipulation](Topics/bit-manipulation/) | 15 |
 | [Borůvka's Algorithm](Topics/boruvkas-algorithm/) | 1 |
@@ -79,7 +79,7 @@ Contains topicwise list of solved problems.
 | [Directed Acyclic Graph](Topics/directed-acyclic-graph/) | 1 |
 | [Divide and Conquer](Topics/divide-and-conquer/) | 11 |
 | [DP on Trees](Topics/dp-on-trees/) | 1 |
-| [Dynamic Programming](Topics/dynamic-programming/) | 42 |
+| [Dynamic Programming](Topics/dynamic-programming/) | 43 |
 | [Enumeration](Topics/enumeration/) | 4 |
 | [Euclidean Algorithm](Topics/euclidean-algorithm/) | 1 |
 | [Floyd–Warshall Algorithm](Topics/floyd-warshall-algorithm/) | 1 |
@@ -103,7 +103,7 @@ Contains topicwise list of solved problems.
 | [Longest Increasing Subsequence](Topics/longest-increasing-subsequence/) | 1 |
 | [Lowest Common Ancestor](Topics/lowest-common-ancestor/) | 2 |
 | [Manacher](Topics/manacher/) | 1 |
-| [Math](Topics/math/) | 28 |
+| [Math](Topics/math/) | 29 |
 | [Matrix](Topics/matrix/) | 13 |
 | [Memoization](Topics/memoization/) | 3 |
 | [Merge Sort](Topics/merge-sort/) | 2 |
@@ -136,7 +136,7 @@ Contains topicwise list of solved problems.
 | [Sweep Line](Topics/sweep-line/) | 1 |
 | [Tarjan's SCC Algorithm](Topics/tarjans-scc-algorithm/) | 1 |
 | [Topological Sort](Topics/topological-sort/) | 3 |
-| [Tree](Topics/tree/) | 27 |
+| [Tree](Topics/tree/) | 28 |
 | [Trie](Topics/trie/) | 3 |
 | [Two Pointers](Topics/two-pointers/) | 42 |
 | [Union-Find](Topics/union-find/) | 9 |
