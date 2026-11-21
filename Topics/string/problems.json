@@ -5,7 +5,7 @@
     "name": "String",
     "tagId": "10"
   },
-  "updatedAt": "2026-11-21T02:16:35.521Z",
+  "updatedAt": "2026-11-21T02:24:14.384Z",
   "problems": [
     {
       "frontendId": "3",
@@ -444,6 +444,26 @@
           "path": "Medium/0583-delete-operation-for-two-strings/Java/0583-delete-operation-for-two-strings.java",
           "sha": "ba527f51005fc330d9c4dbd9a5f58781fae0cad2",
           "lastSyncedAt": "2026-11-19T19:04:04.441Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "647",
+      "title": "Palindromic Substrings",
+      "slug": "palindromic-substrings",
+      "problemName": "0647-palindromic-substrings",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/palindromic-substrings/",
+      "folderPath": "Medium/0647-palindromic-substrings/",
+      "readmePath": "Medium/0647-palindromic-substrings/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "0647-palindromic-substrings.java",
+          "path": "Medium/0647-palindromic-substrings/Java/0647-palindromic-substrings.java",
+          "sha": "ce0033d6f3c91f722d279adb26116c7d01d65f63",
+          "lastSyncedAt": "2026-11-21T02:24:14.384Z"
         }
       ]
     },
