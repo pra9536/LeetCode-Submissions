@@ -5,7 +5,7 @@
     "name": "Dynamic Programming",
     "tagId": "13"
   },
-  "updatedAt": "2026-11-21T15:00:26.651Z",
+  "updatedAt": "2026-11-21T15:44:51.396Z",
   "problems": [
     {
       "frontendId": "5",
@@ -204,6 +204,26 @@
           "path": "Hard/0085-maximal-rectangle/Java/0085-maximal-rectangle.java",
           "sha": "1355c83dd82d59a103c3b662892108d78ff898f4",
           "lastSyncedAt": "2026-11-07T06:04:51.658Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "96",
+      "title": "Unique Binary Search Trees",
+      "slug": "unique-binary-search-trees",
+      "problemName": "0096-unique-binary-search-trees",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/unique-binary-search-trees/",
+      "folderPath": "Medium/0096-unique-binary-search-trees/",
+      "readmePath": "Medium/0096-unique-binary-search-trees/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "0096-unique-binary-search-trees.java",
+          "path": "Medium/0096-unique-binary-search-trees/Java/0096-unique-binary-search-trees.java",
+          "sha": "6a009d96eb99be1c5e87deb1628b008d920f2ae7",
+          "lastSyncedAt": "2026-11-21T15:44:51.396Z"
         }
       ]
     },
