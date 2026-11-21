@@ -5,7 +5,7 @@
     "name": "Tree",
     "tagId": "20"
   },
-  "updatedAt": "2026-11-21T15:44:51.396Z",
+  "updatedAt": "2026-11-21T15:46:29.407Z",
   "problems": [
     {
       "frontendId": "94",
@@ -43,7 +43,7 @@
           "filename": "0096-unique-binary-search-trees.java",
           "path": "Medium/0096-unique-binary-search-trees/Java/0096-unique-binary-search-trees.java",
           "sha": "6a009d96eb99be1c5e87deb1628b008d920f2ae7",
-          "lastSyncedAt": "2026-11-21T15:44:51.396Z"
+          "lastSyncedAt": "2026-11-21T15:46:29.407Z"
         }
       ]
     },
