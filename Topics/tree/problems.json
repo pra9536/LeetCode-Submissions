@@ -5,7 +5,7 @@
     "name": "Tree",
     "tagId": "20"
   },
-  "updatedAt": "2026-11-07T06:03:22.002Z",
+  "updatedAt": "2026-11-21T15:44:51.396Z",
   "problems": [
     {
       "frontendId": "94",
@@ -24,6 +24,26 @@
           "path": "Easy/0094-binary-tree-inorder-traversal/Java/0094-binary-tree-inorder-traversal.java",
           "sha": "0c8957816abcb5da1647c397f717a8bf600d813e",
           "lastSyncedAt": "2026-11-07T05:48:02.475Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "96",
+      "title": "Unique Binary Search Trees",
+      "slug": "unique-binary-search-trees",
+      "problemName": "0096-unique-binary-search-trees",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/unique-binary-search-trees/",
+      "folderPath": "Medium/0096-unique-binary-search-trees/",
+      "readmePath": "Medium/0096-unique-binary-search-trees/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "0096-unique-binary-search-trees.java",
+          "path": "Medium/0096-unique-binary-search-trees/Java/0096-unique-binary-search-trees.java",
+          "sha": "6a009d96eb99be1c5e87deb1628b008d920f2ae7",
+          "lastSyncedAt": "2026-11-21T15:44:51.396Z"
         }
       ]
     },
