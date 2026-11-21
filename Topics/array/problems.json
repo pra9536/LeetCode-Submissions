@@ -5,7 +5,7 @@
     "name": "Array",
     "tagId": "5"
   },
-  "updatedAt": "2026-11-20T15:31:58.744Z",
+  "updatedAt": "2026-11-21T12:15:56.062Z",
   "problems": [
     {
       "frontendId": "1",
@@ -1044,6 +1044,26 @@
           "path": "Medium/0287-find-the-duplicate-number/Java/0287-find-the-duplicate-number.java",
           "sha": "fad54e2da4dcfe6c73fc28b2251a9064cbe70ffc",
           "lastSyncedAt": "2026-11-07T04:55:24.736Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "300",
+      "title": "Longest Increasing Subsequence",
+      "slug": "longest-increasing-subsequence",
+      "problemName": "0300-longest-increasing-subsequence",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/longest-increasing-subsequence/",
+      "folderPath": "Medium/0300-longest-increasing-subsequence/",
+      "readmePath": "Medium/0300-longest-increasing-subsequence/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "0300-longest-increasing-subsequence.java",
+          "path": "Medium/0300-longest-increasing-subsequence/Java/0300-longest-increasing-subsequence.java",
+          "sha": "636fb233285be32820f689cbcbd10f18169ed2e6",
+          "lastSyncedAt": "2026-11-21T12:15:56.062Z"
         }
       ]
     },
