@@ -5,7 +5,7 @@
     "name": "String",
     "tagId": "10"
   },
-  "updatedAt": "2026-11-20T15:37:59.130Z",
+  "updatedAt": "2026-11-21T01:43:41.668Z",
   "problems": [
     {
       "frontendId": "3",
@@ -524,6 +524,26 @@
           "path": "Easy/1047-remove-all-adjacent-duplicates-in-string/Java/1047-remove-all-adjacent-duplicates-in-string.java",
           "sha": "5cdc1ccbf2445fad3995269caace33d10218dafe",
           "lastSyncedAt": "2026-11-07T05:31:26.930Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "1092",
+      "title": "Shortest Common Supersequence ",
+      "slug": "shortest-common-supersequence",
+      "problemName": "1092-shortest-common-supersequence",
+      "difficulty": "Hard",
+      "leetcodeUrl": "https://leetcode.com/problems/shortest-common-supersequence/",
+      "folderPath": "Hard/1092-shortest-common-supersequence/",
+      "readmePath": "Hard/1092-shortest-common-supersequence/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "1092-shortest-common-supersequence.java",
+          "path": "Hard/1092-shortest-common-supersequence/Java/1092-shortest-common-supersequence.java",
+          "sha": "a509a0817a7b59b647bccf43f281f09389031437",
+          "lastSyncedAt": "2026-11-21T01:43:41.668Z"
         }
       ]
     },
