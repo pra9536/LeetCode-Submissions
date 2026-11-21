@@ -5,7 +5,7 @@
     "name": "Math",
     "tagId": "8"
   },
-  "updatedAt": "2026-11-18T23:54:01.450Z",
+  "updatedAt": "2026-11-21T15:44:51.396Z",
   "problems": [
     {
       "frontendId": "7",
@@ -144,6 +144,26 @@
           "path": "Easy/0070-climbing-stairs/Java/0070-climbing-stairs.java",
           "sha": "7c99690be84633b23b8ad85cfc453805ceb6c3b7",
           "lastSyncedAt": "2026-11-16T10:54:11.930Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "96",
+      "title": "Unique Binary Search Trees",
+      "slug": "unique-binary-search-trees",
+      "problemName": "0096-unique-binary-search-trees",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/unique-binary-search-trees/",
+      "folderPath": "Medium/0096-unique-binary-search-trees/",
+      "readmePath": "Medium/0096-unique-binary-search-trees/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "0096-unique-binary-search-trees.java",
+          "path": "Medium/0096-unique-binary-search-trees/Java/0096-unique-binary-search-trees.java",
+          "sha": "6a009d96eb99be1c5e87deb1628b008d920f2ae7",
+          "lastSyncedAt": "2026-11-21T15:44:51.396Z"
         }
       ]
     },
