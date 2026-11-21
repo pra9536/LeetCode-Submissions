@@ -5,7 +5,7 @@
     "name": "Manacher",
     "tagId": "80991"
   },
-  "updatedAt": "2026-11-21T11:16:16.757Z",
+  "updatedAt": "2026-11-21T11:16:40.235Z",
   "problems": [
     {
       "frontendId": "5",
@@ -23,7 +23,7 @@
           "filename": "0005-longest-palindromic-substring.java",
           "path": "Medium/0005-longest-palindromic-substring/Java/0005-longest-palindromic-substring.java",
           "sha": "5e1b4441db6597d42e0263244353bca5768bf18f",
-          "lastSyncedAt": "2026-11-21T11:16:16.757Z"
+          "lastSyncedAt": "2026-11-21T11:16:40.235Z"
         }
       ]
     }
