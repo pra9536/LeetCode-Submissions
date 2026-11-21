@@ -5,7 +5,7 @@ Contains topicwise list of solved problems.
 
 | Total Solved | Easy | Medium | Hard |
 | ---: | ---: | ---: | ---: |
-| 269 | 105 | 148 | 16 |
+| 270 | 105 | 149 | 16 |
 
 ## Activity
 
@@ -28,21 +28,21 @@ Contains topicwise list of solved problems.
 | 2026-11-18 | 1 |
 | 2026-11-19 | 4 |
 | 2026-11-20 | 3 |
-| 2026-11-21 | 3 |
+| 2026-11-21 | 4 |
 
 ## Top Tags
 
 | Tag | Problems | Coverage |
 | --- | ---: | ---: |
-| Array | 136 | 51% |
+| Array | 137 | 51% |
 | String | 42 | 16% |
 | Two Pointers | 42 | 16% |
-| Dynamic Programming | 40 | 15% |
+| Dynamic Programming | 41 | 15% |
 | Hash Table | 39 | 14% |
 | Sorting | 35 | 13% |
 | Depth-First Search | 33 | 12% |
+| Binary Search | 28 | 10% |
 | Math | 28 | 10% |
-| Binary Search | 27 | 10% |
 | Binary Tree | 27 | 10% |
 
 ## Topics
@@ -51,11 +51,11 @@ Contains topicwise list of solved problems.
 | --- | ---: |
 | [0-1 Knapsack](Topics/0-1-knapsack/) | 3 |
 | [Algorithm X](Topics/algorithm-x/) | 1 |
-| [Array](Topics/array/) | 138 |
+| [Array](Topics/array/) | 139 |
 | [Backtracking](Topics/backtracking/) | 10 |
 | [Bellman–Ford Algorithm](Topics/bellman-ford-algorithm/) | 1 |
 | [Binary Lifting](Topics/binary-lifting/) | 2 |
-| [Binary Search](Topics/binary-search/) | 27 |
+| [Binary Search](Topics/binary-search/) | 28 |
 | [Binary Search Tree](Topics/binary-search-tree/) | 10 |
 | [Binary Tree](Topics/binary-tree/) | 27 |
 | [Bipartite Graph](Topics/bipartite-graph/) | 1 |
@@ -79,7 +79,7 @@ Contains topicwise list of solved problems.
 | [Directed Acyclic Graph](Topics/directed-acyclic-graph/) | 1 |
 | [Divide and Conquer](Topics/divide-and-conquer/) | 11 |
 | [DP on Trees](Topics/dp-on-trees/) | 1 |
-| [Dynamic Programming](Topics/dynamic-programming/) | 41 |
+| [Dynamic Programming](Topics/dynamic-programming/) | 42 |
 | [Enumeration](Topics/enumeration/) | 4 |
 | [Euclidean Algorithm](Topics/euclidean-algorithm/) | 1 |
 | [Floyd–Warshall Algorithm](Topics/floyd-warshall-algorithm/) | 1 |
@@ -100,6 +100,7 @@ Contains topicwise list of solved problems.
 | [Kruskal's Algorithm](Topics/kruskals-algorithm/) | 1 |
 | [Linked List](Topics/linked-list/) | 24 |
 | [Longest Common Subsequence](Topics/longest-common-subsequence/) | 3 |
+| [Longest Increasing Subsequence](Topics/longest-increasing-subsequence/) | 1 |
 | [Lowest Common Ancestor](Topics/lowest-common-ancestor/) | 2 |
 | [Manacher](Topics/manacher/) | 1 |
 | [Math](Topics/math/) | 28 |
