@@ -5,7 +5,7 @@
     "name": "Two Pointers",
     "tagId": "9"
   },
-  "updatedAt": "2026-11-21T02:24:14.384Z",
+  "updatedAt": "2026-11-21T10:02:01.604Z",
   "problems": [
     {
       "frontendId": "15",
@@ -523,7 +523,7 @@
           "filename": "0647-palindromic-substrings.java",
           "path": "Medium/0647-palindromic-substrings/Java/0647-palindromic-substrings.java",
           "sha": "ce0033d6f3c91f722d279adb26116c7d01d65f63",
-          "lastSyncedAt": "2026-11-21T02:24:14.384Z"
+          "lastSyncedAt": "2026-11-21T10:02:01.604Z"
         }
       ]
     },
