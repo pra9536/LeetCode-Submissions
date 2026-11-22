@@ -5,7 +5,7 @@
     "name": "Greedy",
     "tagId": "17"
   },
-  "updatedAt": "2026-11-22T15:00:58.116Z",
+  "updatedAt": "2026-11-22T17:42:32.731Z",
   "problems": [
     {
       "frontendId": "45",
@@ -123,7 +123,7 @@
           "filename": "0860-lemonade-change.java",
           "path": "Easy/0860-lemonade-change/Java/0860-lemonade-change.java",
           "sha": "32f38c49ca8f1293c0c240203f4b06942d904012",
-          "lastSyncedAt": "2026-11-15T08:50:11.601Z"
+          "lastSyncedAt": "2026-11-22T17:42:32.731Z"
         }
       ]
     },
