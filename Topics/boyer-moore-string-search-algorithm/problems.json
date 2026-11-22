@@ -5,7 +5,7 @@
     "name": "Boyer–Moore String-Search Algorithm",
     "tagId": "122019"
   },
-  "updatedAt": "2026-11-07T05:01:42.650Z",
+  "updatedAt": "2026-11-22T17:33:38.358Z",
   "problems": [
     {
       "frontendId": "28",
@@ -44,6 +44,26 @@
           "path": "Medium/0187-repeated-dna-sequences/Java/0187-repeated-dna-sequences.java",
           "sha": "917d620f365ada180dccc34138b7e5b6858f2822",
           "lastSyncedAt": "2026-11-07T05:01:42.650Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "686",
+      "title": "Repeated String Match",
+      "slug": "repeated-string-match",
+      "problemName": "0686-repeated-string-match",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/repeated-string-match/",
+      "folderPath": "Medium/0686-repeated-string-match/",
+      "readmePath": "Medium/0686-repeated-string-match/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "0686-repeated-string-match.java",
+          "path": "Medium/0686-repeated-string-match/Java/0686-repeated-string-match.java",
+          "sha": "ab6d306ba8d1bac5ec14b57a812bcbf64460bebf",
+          "lastSyncedAt": "2026-11-22T17:33:38.358Z"
         }
       ]
     }
