@@ -5,7 +5,7 @@
     "name": "Greedy",
     "tagId": "17"
   },
-  "updatedAt": "2026-11-22T14:35:57.149Z",
+  "updatedAt": "2026-11-22T14:46:13.600Z",
   "problems": [
     {
       "frontendId": "45",
@@ -204,6 +204,26 @@
           "path": "Medium/2244-minimum-rounds-to-complete-all-tasks/Java/2244-minimum-rounds-to-complete-all-tasks.java",
           "sha": "f0c47b5a5e89a140c34d0a707ffd9b8097032074",
           "lastSyncedAt": "2026-11-16T13:56:29.506Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "2410",
+      "title": "Maximum Matching of Players With Trainers",
+      "slug": "maximum-matching-of-players-with-trainers",
+      "problemName": "2410-maximum-matching-of-players-with-trainers",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/maximum-matching-of-players-with-trainers/",
+      "folderPath": "Medium/2410-maximum-matching-of-players-with-trainers/",
+      "readmePath": "Medium/2410-maximum-matching-of-players-with-trainers/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "2410-maximum-matching-of-players-with-trainers.java",
+          "path": "Medium/2410-maximum-matching-of-players-with-trainers/Java/2410-maximum-matching-of-players-with-trainers.java",
+          "sha": "a2064908fa61058d5f4197596af9d63a82e4078e",
+          "lastSyncedAt": "2026-11-22T14:46:13.600Z"
         }
       ]
     },
