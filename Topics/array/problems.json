@@ -5,7 +5,7 @@
     "name": "Array",
     "tagId": "5"
   },
-  "updatedAt": "2026-11-22T14:46:13.600Z",
+  "updatedAt": "2026-11-22T15:00:58.116Z",
   "problems": [
     {
       "frontendId": "1",
@@ -1504,6 +1504,26 @@
           "path": "Easy/0746-min-cost-climbing-stairs/Java/0746-min-cost-climbing-stairs.java",
           "sha": "f4165b46b1ae5886ddee19cd9cd7d890f9753c4a",
           "lastSyncedAt": "2026-11-16T09:57:10.736Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "826",
+      "title": "Most Profit Assigning Work",
+      "slug": "most-profit-assigning-work",
+      "problemName": "0826-most-profit-assigning-work",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/most-profit-assigning-work/",
+      "folderPath": "Medium/0826-most-profit-assigning-work/",
+      "readmePath": "Medium/0826-most-profit-assigning-work/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "0826-most-profit-assigning-work.java",
+          "path": "Medium/0826-most-profit-assigning-work/Java/0826-most-profit-assigning-work.java",
+          "sha": "09fb886a9283ce1d152e67e20dbb3fad3f27c144",
+          "lastSyncedAt": "2026-11-22T15:00:58.116Z"
         }
       ]
     },
