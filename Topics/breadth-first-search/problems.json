@@ -5,7 +5,7 @@
     "name": "Breadth-First Search",
     "tagId": "22"
   },
-  "updatedAt": "2026-11-22T10:18:27.563Z",
+  "updatedAt": "2026-11-22T10:18:41.291Z",
   "problems": [
     {
       "frontendId": "100",
@@ -383,7 +383,7 @@
           "filename": "0802-find-eventual-safe-states.java",
           "path": "Medium/0802-find-eventual-safe-states/Java/0802-find-eventual-safe-states.java",
           "sha": "4b83a50ebbbbeee1b910581d9b31744b20e352fb",
-          "lastSyncedAt": "2026-11-22T10:18:27.563Z"
+          "lastSyncedAt": "2026-11-22T10:18:41.291Z"
         }
       ]
     },
