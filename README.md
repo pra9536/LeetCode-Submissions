@@ -5,17 +5,16 @@ Contains topicwise list of solved problems.
 
 | Total Solved | Easy | Medium | Hard |
 | ---: | ---: | ---: | ---: |
-| 271 | 105 | 150 | 16 |
+| 273 | 105 | 152 | 16 |
 
 ## Activity
 
 | Current Streak | Best Streak | Active Days |
 | ---: | ---: | ---: |
-| 4 days | 8 days | 151 |
+| 5 days | 8 days | 152 |
 
 | Date | Problems |
 | --- | ---: |
-| 2026-09-26 | 6 |
 | 2026-09-27 | 3 |
 | 2026-10-23 | 5 |
 | 2026-11-07 | 1 |
@@ -29,20 +28,21 @@ Contains topicwise list of solved problems.
 | 2026-11-19 | 4 |
 | 2026-11-20 | 3 |
 | 2026-11-21 | 5 |
+| 2026-11-22 | 2 |
 
 ## Top Tags
 
 | Tag | Problems | Coverage |
 | --- | ---: | ---: |
-| Array | 137 | 51% |
+| Array | 139 | 51% |
+| Two Pointers | 44 | 16% |
 | Dynamic Programming | 42 | 15% |
 | String | 42 | 15% |
-| Two Pointers | 42 | 15% |
 | Hash Table | 39 | 14% |
-| Sorting | 35 | 13% |
+| Sorting | 37 | 14% |
 | Depth-First Search | 33 | 12% |
+| Binary Search | 29 | 11% |
 | Math | 29 | 11% |
-| Binary Search | 28 | 10% |
 | Binary Tree | 28 | 10% |
 
 ## Topics
@@ -51,11 +51,11 @@ Contains topicwise list of solved problems.
 | --- | ---: |
 | [0-1 Knapsack](Topics/0-1-knapsack/) | 3 |
 | [Algorithm X](Topics/algorithm-x/) | 1 |
-| [Array](Topics/array/) | 139 |
+| [Array](Topics/array/) | 141 |
 | [Backtracking](Topics/backtracking/) | 10 |
 | [Bellman–Ford Algorithm](Topics/bellman-ford-algorithm/) | 1 |
 | [Binary Lifting](Topics/binary-lifting/) | 2 |
-| [Binary Search](Topics/binary-search/) | 28 |
+| [Binary Search](Topics/binary-search/) | 29 |
 | [Binary Search Tree](Topics/binary-search-tree/) | 11 |
 | [Binary Tree](Topics/binary-tree/) | 28 |
 | [Bipartite Graph](Topics/bipartite-graph/) | 1 |
@@ -88,7 +88,7 @@ Contains topicwise list of solved problems.
 | [Graph Coloring](Topics/graph-coloring/) | 1 |
 | [Graph Theory](Topics/graph/) | 14 |
 | [Greatest Common Divisor](Topics/greatest-common-divisor/) | 1 |
-| [Greedy](Topics/greedy/) | 17 |
+| [Greedy](Topics/greedy/) | 19 |
 | [Hash Function](Topics/hash-function/) | 1 |
 | [Hash Table](Topics/hash-table/) | 40 |
 | [Heap (Priority Queue)](Topics/heap-priority-queue/) | 12 |
@@ -129,7 +129,7 @@ Contains topicwise list of solved problems.
 | [Sieve Theory](Topics/sieve-theory/) | 1 |
 | [Simulation](Topics/simulation/) | 8 |
 | [Sliding Window](Topics/sliding-window/) | 8 |
-| [Sorting](Topics/sorting/) | 36 |
+| [Sorting](Topics/sorting/) | 38 |
 | [Stack](Topics/stack/) | 23 |
 | [String](Topics/string/) | 43 |
 | [String Matching](Topics/string-matching/) | 2 |
@@ -138,7 +138,7 @@ Contains topicwise list of solved problems.
 | [Topological Sort](Topics/topological-sort/) | 3 |
 | [Tree](Topics/tree/) | 28 |
 | [Trie](Topics/trie/) | 3 |
-| [Two Pointers](Topics/two-pointers/) | 42 |
+| [Two Pointers](Topics/two-pointers/) | 44 |
 | [Union-Find](Topics/union-find/) | 9 |
 | [Z Algorithm](Topics/z-algorithm/) | 2 |
 <!---LeetHub Summary End-->
