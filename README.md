@@ -5,7 +5,7 @@ Contains topicwise list of solved problems.
 
 | Total Solved | Easy | Medium | Hard |
 | ---: | ---: | ---: | ---: |
-| 275 | 105 | 154 | 16 |
+| 276 | 105 | 155 | 16 |
 
 ## Activity
 
@@ -28,16 +28,16 @@ Contains topicwise list of solved problems.
 | 2026-11-20 | 3 |
 | 2026-11-21 | 5 |
 | 2026-11-22 | 3 |
-| 2026-11-23 | 1 |
+| 2026-11-23 | 2 |
 
 ## Top Tags
 
 | Tag | Problems | Coverage |
 | --- | ---: | ---: |
 | Array | 140 | 51% |
+| String | 44 | 16% |
 | Two Pointers | 44 | 16% |
-| String | 43 | 16% |
-| Dynamic Programming | 42 | 15% |
+| Dynamic Programming | 43 | 16% |
 | Hash Table | 39 | 14% |
 | Sorting | 38 | 14% |
 | Depth-First Search | 33 | 12% |
@@ -63,7 +63,7 @@ Contains topicwise list of solved problems.
 | [Borůvka's Algorithm](Topics/boruvkas-algorithm/) | 1 |
 | [Boyer–Moore Majority Vote Algorithm](Topics/boyer-moore-majority-vote-algorithm/) | 2 |
 | [Boyer–Moore String-Search Algorithm](Topics/boyer-moore-string-search-algorithm/) | 3 |
-| [Bracket Sequences](Topics/bracket-sequences/) | 2 |
+| [Bracket Sequences](Topics/bracket-sequences/) | 3 |
 | [Breadth-First Search](Topics/breadth-first-search/) | 27 |
 | [Bubble Sort](Topics/bubble-sort/) | 1 |
 | [Bucket Sort](Topics/bucket-sort/) | 1 |
@@ -79,7 +79,7 @@ Contains topicwise list of solved problems.
 | [Directed Acyclic Graph](Topics/directed-acyclic-graph/) | 1 |
 | [Divide and Conquer](Topics/divide-and-conquer/) | 11 |
 | [DP on Trees](Topics/dp-on-trees/) | 1 |
-| [Dynamic Programming](Topics/dynamic-programming/) | 43 |
+| [Dynamic Programming](Topics/dynamic-programming/) | 44 |
 | [Enumeration](Topics/enumeration/) | 4 |
 | [Euclidean Algorithm](Topics/euclidean-algorithm/) | 1 |
 | [Floyd–Warshall Algorithm](Topics/floyd-warshall-algorithm/) | 1 |
@@ -88,7 +88,7 @@ Contains topicwise list of solved problems.
 | [Graph Coloring](Topics/graph-coloring/) | 1 |
 | [Graph Theory](Topics/graph/) | 14 |
 | [Greatest Common Divisor](Topics/greatest-common-divisor/) | 1 |
-| [Greedy](Topics/greedy/) | 19 |
+| [Greedy](Topics/greedy/) | 20 |
 | [Hash Function](Topics/hash-function/) | 1 |
 | [Hash Table](Topics/hash-table/) | 40 |
 | [Heap (Priority Queue)](Topics/heap-priority-queue/) | 13 |
@@ -130,8 +130,8 @@ Contains topicwise list of solved problems.
 | [Simulation](Topics/simulation/) | 8 |
 | [Sliding Window](Topics/sliding-window/) | 8 |
 | [Sorting](Topics/sorting/) | 39 |
-| [Stack](Topics/stack/) | 23 |
-| [String](Topics/string/) | 44 |
+| [Stack](Topics/stack/) | 24 |
+| [String](Topics/string/) | 45 |
 | [String Matching](Topics/string-matching/) | 3 |
 | [Sweep Line](Topics/sweep-line/) | 1 |
 | [Tarjan's SCC Algorithm](Topics/tarjans-scc-algorithm/) | 1 |
