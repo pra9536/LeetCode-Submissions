@@ -5,7 +5,7 @@
     "name": "Heap (Priority Queue)",
     "tagId": "61050"
   },
-  "updatedAt": "2026-11-22T18:30:48.207Z",
+  "updatedAt": "2026-11-23T13:36:31.960Z",
   "problems": [
     {
       "frontendId": "215",
@@ -24,6 +24,26 @@
           "path": "Medium/0215-kth-largest-element-in-an-array/Java/0215-kth-largest-element-in-an-array.java",
           "sha": "645bcd0d0b0ab2550bd264dc745530b69051ccd3",
           "lastSyncedAt": "2026-11-07T05:53:11.279Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "239",
+      "title": "Sliding Window Maximum",
+      "slug": "sliding-window-maximum",
+      "problemName": "0239-sliding-window-maximum",
+      "difficulty": "Hard",
+      "leetcodeUrl": "https://leetcode.com/problems/sliding-window-maximum/",
+      "folderPath": "Hard/0239-sliding-window-maximum/",
+      "readmePath": "Hard/0239-sliding-window-maximum/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "0239-sliding-window-maximum.java",
+          "path": "Hard/0239-sliding-window-maximum/Java/0239-sliding-window-maximum.java",
+          "sha": "e1cec0c7abbbb7f60beccc6eceda84008eb98dfb",
+          "lastSyncedAt": "2026-11-23T13:36:31.960Z"
         }
       ]
     },
