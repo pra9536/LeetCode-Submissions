@@ -5,7 +5,7 @@
     "name": "Queue",
     "tagId": "34"
   },
-  "updatedAt": "2026-11-07T06:04:28.802Z",
+  "updatedAt": "2026-11-23T13:36:31.960Z",
   "problems": [
     {
       "frontendId": "225",
@@ -44,6 +44,26 @@
           "path": "Easy/0232-implement-queue-using-stacks/Java/0232-implement-queue-using-stacks.java",
           "sha": "75f356c950b9ff29b995b38c958f1dcf8a2b0aff",
           "lastSyncedAt": "2026-11-07T05:30:42.875Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "239",
+      "title": "Sliding Window Maximum",
+      "slug": "sliding-window-maximum",
+      "problemName": "0239-sliding-window-maximum",
+      "difficulty": "Hard",
+      "leetcodeUrl": "https://leetcode.com/problems/sliding-window-maximum/",
+      "folderPath": "Hard/0239-sliding-window-maximum/",
+      "readmePath": "Hard/0239-sliding-window-maximum/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "0239-sliding-window-maximum.java",
+          "path": "Hard/0239-sliding-window-maximum/Java/0239-sliding-window-maximum.java",
+          "sha": "e1cec0c7abbbb7f60beccc6eceda84008eb98dfb",
+          "lastSyncedAt": "2026-11-23T13:36:31.960Z"
         }
       ]
     },
