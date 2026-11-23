@@ -5,7 +5,7 @@ Contains topicwise list of solved problems.
 
 | Total Solved | Easy | Medium | Hard |
 | ---: | ---: | ---: | ---: |
-| 276 | 105 | 155 | 16 |
+| 277 | 105 | 155 | 17 |
 
 ## Activity
 
@@ -28,21 +28,21 @@ Contains topicwise list of solved problems.
 | 2026-11-20 | 3 |
 | 2026-11-21 | 5 |
 | 2026-11-22 | 3 |
-| 2026-11-23 | 2 |
+| 2026-11-23 | 3 |
 
 ## Top Tags
 
 | Tag | Problems | Coverage |
 | --- | ---: | ---: |
-| Array | 140 | 51% |
+| Array | 141 | 51% |
 | String | 44 | 16% |
 | Two Pointers | 44 | 16% |
 | Dynamic Programming | 43 | 16% |
 | Hash Table | 39 | 14% |
 | Sorting | 38 | 14% |
 | Depth-First Search | 33 | 12% |
-| Binary Search | 29 | 11% |
-| Math | 29 | 11% |
+| Binary Search | 29 | 10% |
+| Math | 29 | 10% |
 | Binary Tree | 28 | 10% |
 
 ## Topics
@@ -51,7 +51,7 @@ Contains topicwise list of solved problems.
 | --- | ---: |
 | [0-1 Knapsack](Topics/0-1-knapsack/) | 3 |
 | [Algorithm X](Topics/algorithm-x/) | 1 |
-| [Array](Topics/array/) | 142 |
+| [Array](Topics/array/) | 143 |
 | [Backtracking](Topics/backtracking/) | 10 |
 | [Bellman–Ford Algorithm](Topics/bellman-ford-algorithm/) | 1 |
 | [Binary Lifting](Topics/binary-lifting/) | 2 |
@@ -91,7 +91,7 @@ Contains topicwise list of solved problems.
 | [Greedy](Topics/greedy/) | 20 |
 | [Hash Function](Topics/hash-function/) | 1 |
 | [Hash Table](Topics/hash-table/) | 40 |
-| [Heap (Priority Queue)](Topics/heap-priority-queue/) | 13 |
+| [Heap (Priority Queue)](Topics/heap-priority-queue/) | 14 |
 | [Interactive](Topics/interactive/) | 2 |
 | [K-D Tree](Topics/k-d-tree/) | 1 |
 | [Knapsack Problem](Topics/knapsack-problem/) | 6 |
@@ -108,6 +108,7 @@ Contains topicwise list of solved problems.
 | [Memoization](Topics/memoization/) | 3 |
 | [Merge Sort](Topics/merge-sort/) | 2 |
 | [Minimum Spanning Tree](Topics/minimum-spanning-tree/) | 1 |
+| [Monotonic Queue](Topics/monotonic-queue/) | 1 |
 | [Monotonic Stack](Topics/monotonic-stack/) | 7 |
 | [Newton's Method](Topics/newtons-method/) | 1 |
 | [Number Theory](Topics/number-theory/) | 3 |
@@ -117,18 +118,18 @@ Contains topicwise list of solved problems.
 | [Prim's Algorithm](Topics/prims-algorithm/) | 1 |
 | [Primality Test](Topics/primality-test/) | 1 |
 | [Prime Number Sieve](Topics/prime-number-sieve/) | 1 |
-| [Queue](Topics/queue/) | 6 |
+| [Queue](Topics/queue/) | 7 |
 | [Quickselect](Topics/quickselect/) | 3 |
 | [Quicksort](Topics/quicksort/) | 3 |
 | [Radix Sort](Topics/radix-sort/) | 1 |
-| [Range Minimum/Maximum Query](Topics/range-minimum-maximum-query/) | 1 |
+| [Range Minimum/Maximum Query](Topics/range-minimum-maximum-query/) | 2 |
 | [Recursion](Topics/recursion/) | 11 |
 | [Rolling Hash](Topics/rolling-hash/) | 1 |
 | [Segment Tree](Topics/segment-tree/) | 1 |
 | [Shortest Path](Topics/shortest-path/) | 5 |
 | [Sieve Theory](Topics/sieve-theory/) | 1 |
 | [Simulation](Topics/simulation/) | 8 |
-| [Sliding Window](Topics/sliding-window/) | 8 |
+| [Sliding Window](Topics/sliding-window/) | 9 |
 | [Sorting](Topics/sorting/) | 39 |
 | [Stack](Topics/stack/) | 24 |
 | [String](Topics/string/) | 45 |
