@@ -5,7 +5,7 @@
     "name": "Range Minimum/Maximum Query",
     "tagId": "122086"
   },
-  "updatedAt": "2026-11-07T06:05:09.170Z",
+  "updatedAt": "2026-11-23T13:36:31.960Z",
   "problems": [
     {
       "frontendId": "84",
@@ -24,6 +24,26 @@
           "path": "Hard/0084-largest-rectangle-in-histogram/Java/0084-largest-rectangle-in-histogram.java",
           "sha": "19e3ac20e780f88438a9dacf75fe73d09cf8a6ef",
           "lastSyncedAt": "2026-11-07T06:05:09.170Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "239",
+      "title": "Sliding Window Maximum",
+      "slug": "sliding-window-maximum",
+      "problemName": "0239-sliding-window-maximum",
+      "difficulty": "Hard",
+      "leetcodeUrl": "https://leetcode.com/problems/sliding-window-maximum/",
+      "folderPath": "Hard/0239-sliding-window-maximum/",
+      "readmePath": "Hard/0239-sliding-window-maximum/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "0239-sliding-window-maximum.java",
+          "path": "Hard/0239-sliding-window-maximum/Java/0239-sliding-window-maximum.java",
+          "sha": "e1cec0c7abbbb7f60beccc6eceda84008eb98dfb",
+          "lastSyncedAt": "2026-11-23T13:36:31.960Z"
         }
       ]
     }
