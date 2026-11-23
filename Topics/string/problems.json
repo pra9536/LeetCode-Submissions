@@ -5,7 +5,7 @@
     "name": "String",
     "tagId": "10"
   },
-  "updatedAt": "2026-11-22T17:33:38.358Z",
+  "updatedAt": "2026-11-23T03:05:50.611Z",
   "problems": [
     {
       "frontendId": "3",
@@ -484,6 +484,26 @@
           "path": "Medium/0647-palindromic-substrings/Java/0647-palindromic-substrings.java",
           "sha": "ce0033d6f3c91f722d279adb26116c7d01d65f63",
           "lastSyncedAt": "2026-11-21T10:02:01.604Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "678",
+      "title": "Valid Parenthesis String",
+      "slug": "valid-parenthesis-string",
+      "problemName": "0678-valid-parenthesis-string",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/valid-parenthesis-string/",
+      "folderPath": "Medium/0678-valid-parenthesis-string/",
+      "readmePath": "Medium/0678-valid-parenthesis-string/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "0678-valid-parenthesis-string.java",
+          "path": "Medium/0678-valid-parenthesis-string/Java/0678-valid-parenthesis-string.java",
+          "sha": "443bd71f43d4ff4cacf17ecfbdc67bca4de061f8",
+          "lastSyncedAt": "2026-11-23T03:05:50.611Z"
         }
       ]
     },
