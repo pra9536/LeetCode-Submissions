@@ -5,7 +5,7 @@
     "name": "Array",
     "tagId": "5"
   },
-  "updatedAt": "2026-11-24T04:02:07.939Z",
+  "updatedAt": "2026-11-24T08:45:32.681Z",
   "problems": [
     {
       "frontendId": "1",
@@ -1564,6 +1564,26 @@
           "path": "Easy/0860-lemonade-change/Java/0860-lemonade-change.java",
           "sha": "32f38c49ca8f1293c0c240203f4b06942d904012",
           "lastSyncedAt": "2026-11-22T17:44:01.365Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "862",
+      "title": "Shortest Subarray with Sum at Least K",
+      "slug": "shortest-subarray-with-sum-at-least-k",
+      "problemName": "0862-shortest-subarray-with-sum-at-least-k",
+      "difficulty": "Hard",
+      "leetcodeUrl": "https://leetcode.com/problems/shortest-subarray-with-sum-at-least-k/",
+      "folderPath": "Hard/0862-shortest-subarray-with-sum-at-least-k/",
+      "readmePath": "Hard/0862-shortest-subarray-with-sum-at-least-k/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "0862-shortest-subarray-with-sum-at-least-k.java",
+          "path": "Hard/0862-shortest-subarray-with-sum-at-least-k/Java/0862-shortest-subarray-with-sum-at-least-k.java",
+          "sha": "72bc1e298b6de0ed4f0c64079214eed526ec5e4e",
+          "lastSyncedAt": "2026-11-24T08:45:32.681Z"
         }
       ]
     },
