@@ -5,7 +5,7 @@
     "name": "Monotonic Queue",
     "tagId": "61071"
   },
-  "updatedAt": "2026-11-23T13:36:31.960Z",
+  "updatedAt": "2026-11-24T03:49:01.286Z",
   "problems": [
     {
       "frontendId": "239",
@@ -24,6 +24,26 @@
           "path": "Hard/0239-sliding-window-maximum/Java/0239-sliding-window-maximum.java",
           "sha": "e1cec0c7abbbb7f60beccc6eceda84008eb98dfb",
           "lastSyncedAt": "2026-11-23T13:36:31.960Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "1425",
+      "title": "Constrained Subsequence Sum",
+      "slug": "constrained-subsequence-sum",
+      "problemName": "1425-constrained-subsequence-sum",
+      "difficulty": "Hard",
+      "leetcodeUrl": "https://leetcode.com/problems/constrained-subsequence-sum/",
+      "folderPath": "Hard/1425-constrained-subsequence-sum/",
+      "readmePath": "Hard/1425-constrained-subsequence-sum/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "1425-constrained-subsequence-sum.java",
+          "path": "Hard/1425-constrained-subsequence-sum/Java/1425-constrained-subsequence-sum.java",
+          "sha": "1b1eb5e3258dbb4a7f2f7c7e81b223dc5081cd84",
+          "lastSyncedAt": "2026-11-24T03:49:01.286Z"
         }
       ]
     }
