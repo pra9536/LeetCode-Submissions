@@ -5,17 +5,16 @@ Contains topicwise list of solved problems.
 
 | Total Solved | Easy | Medium | Hard |
 | ---: | ---: | ---: | ---: |
-| 277 | 105 | 155 | 17 |
+| 278 | 105 | 155 | 18 |
 
 ## Activity
 
 | Current Streak | Best Streak | Active Days |
 | ---: | ---: | ---: |
-| 6 days | 8 days | 153 |
+| 7 days | 8 days | 154 |
 
 | Date | Problems |
 | --- | ---: |
-| 2026-10-23 | 5 |
 | 2026-11-07 | 1 |
 | 2026-11-09 | 1 |
 | 2026-11-10 | 1 |
@@ -29,15 +28,16 @@ Contains topicwise list of solved problems.
 | 2026-11-21 | 5 |
 | 2026-11-22 | 3 |
 | 2026-11-23 | 3 |
+| 2026-11-24 | 1 |
 
 ## Top Tags
 
 | Tag | Problems | Coverage |
 | --- | ---: | ---: |
-| Array | 141 | 51% |
+| Array | 142 | 51% |
+| Dynamic Programming | 44 | 16% |
 | String | 44 | 16% |
 | Two Pointers | 44 | 16% |
-| Dynamic Programming | 43 | 16% |
 | Hash Table | 39 | 14% |
 | Sorting | 38 | 14% |
 | Depth-First Search | 33 | 12% |
@@ -51,7 +51,7 @@ Contains topicwise list of solved problems.
 | --- | ---: |
 | [0-1 Knapsack](Topics/0-1-knapsack/) | 3 |
 | [Algorithm X](Topics/algorithm-x/) | 1 |
-| [Array](Topics/array/) | 143 |
+| [Array](Topics/array/) | 144 |
 | [Backtracking](Topics/backtracking/) | 10 |
 | [Bellman–Ford Algorithm](Topics/bellman-ford-algorithm/) | 1 |
 | [Binary Lifting](Topics/binary-lifting/) | 2 |
@@ -79,7 +79,7 @@ Contains topicwise list of solved problems.
 | [Directed Acyclic Graph](Topics/directed-acyclic-graph/) | 1 |
 | [Divide and Conquer](Topics/divide-and-conquer/) | 11 |
 | [DP on Trees](Topics/dp-on-trees/) | 1 |
-| [Dynamic Programming](Topics/dynamic-programming/) | 44 |
+| [Dynamic Programming](Topics/dynamic-programming/) | 45 |
 | [Enumeration](Topics/enumeration/) | 4 |
 | [Euclidean Algorithm](Topics/euclidean-algorithm/) | 1 |
 | [Floyd–Warshall Algorithm](Topics/floyd-warshall-algorithm/) | 1 |
@@ -91,7 +91,7 @@ Contains topicwise list of solved problems.
 | [Greedy](Topics/greedy/) | 20 |
 | [Hash Function](Topics/hash-function/) | 1 |
 | [Hash Table](Topics/hash-table/) | 40 |
-| [Heap (Priority Queue)](Topics/heap-priority-queue/) | 14 |
+| [Heap (Priority Queue)](Topics/heap-priority-queue/) | 15 |
 | [Interactive](Topics/interactive/) | 2 |
 | [K-D Tree](Topics/k-d-tree/) | 1 |
 | [Knapsack Problem](Topics/knapsack-problem/) | 6 |
@@ -108,7 +108,7 @@ Contains topicwise list of solved problems.
 | [Memoization](Topics/memoization/) | 3 |
 | [Merge Sort](Topics/merge-sort/) | 2 |
 | [Minimum Spanning Tree](Topics/minimum-spanning-tree/) | 1 |
-| [Monotonic Queue](Topics/monotonic-queue/) | 1 |
+| [Monotonic Queue](Topics/monotonic-queue/) | 2 |
 | [Monotonic Stack](Topics/monotonic-stack/) | 7 |
 | [Newton's Method](Topics/newtons-method/) | 1 |
 | [Number Theory](Topics/number-theory/) | 3 |
@@ -118,7 +118,7 @@ Contains topicwise list of solved problems.
 | [Prim's Algorithm](Topics/prims-algorithm/) | 1 |
 | [Primality Test](Topics/primality-test/) | 1 |
 | [Prime Number Sieve](Topics/prime-number-sieve/) | 1 |
-| [Queue](Topics/queue/) | 7 |
+| [Queue](Topics/queue/) | 8 |
 | [Quickselect](Topics/quickselect/) | 3 |
 | [Quicksort](Topics/quicksort/) | 3 |
 | [Radix Sort](Topics/radix-sort/) | 1 |
@@ -129,7 +129,7 @@ Contains topicwise list of solved problems.
 | [Shortest Path](Topics/shortest-path/) | 5 |
 | [Sieve Theory](Topics/sieve-theory/) | 1 |
 | [Simulation](Topics/simulation/) | 8 |
-| [Sliding Window](Topics/sliding-window/) | 9 |
+| [Sliding Window](Topics/sliding-window/) | 10 |
 | [Sorting](Topics/sorting/) | 39 |
 | [Stack](Topics/stack/) | 24 |
 | [String](Topics/string/) | 45 |
