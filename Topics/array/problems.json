@@ -5,7 +5,7 @@
     "name": "Array",
     "tagId": "5"
   },
-  "updatedAt": "2026-11-24T03:49:01.286Z",
+  "updatedAt": "2026-11-24T04:02:07.939Z",
   "problems": [
     {
       "frontendId": "1",
@@ -2024,6 +2024,26 @@
           "path": "Medium/1674-minimum-moves-to-make-array-complementary/Java/1674-minimum-moves-to-make-array-complementary.java",
           "sha": "463e0c8e1759a71135af1ef2dae04ecc86743d87",
           "lastSyncedAt": "2026-11-07T05:46:58.229Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "1696",
+      "title": "Jump Game VI",
+      "slug": "jump-game-vi",
+      "problemName": "1696-jump-game-vi",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/jump-game-vi/",
+      "folderPath": "Medium/1696-jump-game-vi/",
+      "readmePath": "Medium/1696-jump-game-vi/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "1696-jump-game-vi.java",
+          "path": "Medium/1696-jump-game-vi/Java/1696-jump-game-vi.java",
+          "sha": "c11036f22d08e6f5fe00124f235957b2784f0a77",
+          "lastSyncedAt": "2026-11-24T04:02:07.939Z"
         }
       ]
     },
