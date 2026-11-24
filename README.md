@@ -5,7 +5,7 @@ Contains topicwise list of solved problems.
 
 | Total Solved | Easy | Medium | Hard |
 | ---: | ---: | ---: | ---: |
-| 279 | 105 | 155 | 19 |
+| 280 | 105 | 155 | 20 |
 
 ## Activity
 
@@ -28,13 +28,13 @@ Contains topicwise list of solved problems.
 | 2026-11-21 | 5 |
 | 2026-11-22 | 3 |
 | 2026-11-23 | 3 |
-| 2026-11-24 | 2 |
+| 2026-11-24 | 3 |
 
 ## Top Tags
 
 | Tag | Problems | Coverage |
 | --- | ---: | ---: |
-| Array | 143 | 51% |
+| Array | 144 | 51% |
 | Dynamic Programming | 44 | 16% |
 | String | 44 | 16% |
 | Two Pointers | 44 | 16% |
@@ -51,7 +51,7 @@ Contains topicwise list of solved problems.
 | --- | ---: |
 | [0-1 Knapsack](Topics/0-1-knapsack/) | 3 |
 | [Algorithm X](Topics/algorithm-x/) | 1 |
-| [Array](Topics/array/) | 146 |
+| [Array](Topics/array/) | 147 |
 | [Backtracking](Topics/backtracking/) | 10 |
 | [Bellman–Ford Algorithm](Topics/bellman-ford-algorithm/) | 1 |
 | [Binary Lifting](Topics/binary-lifting/) | 2 |
@@ -91,7 +91,7 @@ Contains topicwise list of solved problems.
 | [Greedy](Topics/greedy/) | 20 |
 | [Hash Function](Topics/hash-function/) | 1 |
 | [Hash Table](Topics/hash-table/) | 40 |
-| [Heap (Priority Queue)](Topics/heap-priority-queue/) | 16 |
+| [Heap (Priority Queue)](Topics/heap-priority-queue/) | 17 |
 | [Interactive](Topics/interactive/) | 2 |
 | [K-D Tree](Topics/k-d-tree/) | 1 |
 | [Knapsack Problem](Topics/knapsack-problem/) | 6 |
@@ -108,7 +108,7 @@ Contains topicwise list of solved problems.
 | [Memoization](Topics/memoization/) | 3 |
 | [Merge Sort](Topics/merge-sort/) | 2 |
 | [Minimum Spanning Tree](Topics/minimum-spanning-tree/) | 1 |
-| [Monotonic Queue](Topics/monotonic-queue/) | 3 |
+| [Monotonic Queue](Topics/monotonic-queue/) | 4 |
 | [Monotonic Stack](Topics/monotonic-stack/) | 7 |
 | [Newton's Method](Topics/newtons-method/) | 1 |
 | [Number Theory](Topics/number-theory/) | 3 |
@@ -118,7 +118,7 @@ Contains topicwise list of solved problems.
 | [Prim's Algorithm](Topics/prims-algorithm/) | 1 |
 | [Primality Test](Topics/primality-test/) | 1 |
 | [Prime Number Sieve](Topics/prime-number-sieve/) | 1 |
-| [Queue](Topics/queue/) | 10 |
+| [Queue](Topics/queue/) | 11 |
 | [Quickselect](Topics/quickselect/) | 3 |
 | [Quicksort](Topics/quicksort/) | 3 |
 | [Radix Sort](Topics/radix-sort/) | 1 |
@@ -129,7 +129,7 @@ Contains topicwise list of solved problems.
 | [Shortest Path](Topics/shortest-path/) | 5 |
 | [Sieve Theory](Topics/sieve-theory/) | 1 |
 | [Simulation](Topics/simulation/) | 8 |
-| [Sliding Window](Topics/sliding-window/) | 11 |
+| [Sliding Window](Topics/sliding-window/) | 12 |
 | [Sorting](Topics/sorting/) | 39 |
 | [Stack](Topics/stack/) | 24 |
 | [String](Topics/string/) | 45 |
