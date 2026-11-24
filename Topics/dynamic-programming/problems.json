@@ -5,7 +5,7 @@
     "name": "Dynamic Programming",
     "tagId": "13"
   },
-  "updatedAt": "2026-11-23T03:06:06.789Z",
+  "updatedAt": "2026-11-24T03:49:01.286Z",
   "problems": [
     {
       "frontendId": "5",
@@ -744,6 +744,26 @@
           "path": "Hard/1340-jump-game-v/Java/1340-jump-game-v.java",
           "sha": "c6239eb9fc814ddf6d0e81a2c1562d0224ef8ba0",
           "lastSyncedAt": "2026-11-07T05:44:45.708Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "1425",
+      "title": "Constrained Subsequence Sum",
+      "slug": "constrained-subsequence-sum",
+      "problemName": "1425-constrained-subsequence-sum",
+      "difficulty": "Hard",
+      "leetcodeUrl": "https://leetcode.com/problems/constrained-subsequence-sum/",
+      "folderPath": "Hard/1425-constrained-subsequence-sum/",
+      "readmePath": "Hard/1425-constrained-subsequence-sum/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "1425-constrained-subsequence-sum.java",
+          "path": "Hard/1425-constrained-subsequence-sum/Java/1425-constrained-subsequence-sum.java",
+          "sha": "1b1eb5e3258dbb4a7f2f7c7e81b223dc5081cd84",
+          "lastSyncedAt": "2026-11-24T03:49:01.286Z"
         }
       ]
     },
