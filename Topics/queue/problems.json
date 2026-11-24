@@ -5,7 +5,7 @@
     "name": "Queue",
     "tagId": "34"
   },
-  "updatedAt": "2026-11-24T09:42:57.217Z",
+  "updatedAt": "2026-11-24T10:25:24.550Z",
   "problems": [
     {
       "frontendId": "225",
@@ -144,6 +144,26 @@
           "path": "Hard/1425-constrained-subsequence-sum/Java/1425-constrained-subsequence-sum.java",
           "sha": "1b1eb5e3258dbb4a7f2f7c7e81b223dc5081cd84",
           "lastSyncedAt": "2026-11-24T03:49:01.286Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "1499",
+      "title": "Max Value of Equation",
+      "slug": "max-value-of-equation",
+      "problemName": "1499-max-value-of-equation",
+      "difficulty": "Hard",
+      "leetcodeUrl": "https://leetcode.com/problems/max-value-of-equation/",
+      "folderPath": "Hard/1499-max-value-of-equation/",
+      "readmePath": "Hard/1499-max-value-of-equation/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "1499-max-value-of-equation.java",
+          "path": "Hard/1499-max-value-of-equation/Java/1499-max-value-of-equation.java",
+          "sha": "fc03a884dbacd920d79ca575a19a26cd656ca810",
+          "lastSyncedAt": "2026-11-24T10:25:24.550Z"
         }
       ]
     },
