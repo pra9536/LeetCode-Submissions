@@ -5,7 +5,7 @@
     "name": "Sliding Window",
     "tagId": "55821"
   },
-  "updatedAt": "2026-11-23T13:36:31.960Z",
+  "updatedAt": "2026-11-24T03:49:01.286Z",
   "problems": [
     {
       "frontendId": "3",
@@ -144,6 +144,26 @@
           "path": "Medium/1004-max-consecutive-ones-iii/Java/1004-max-consecutive-ones-iii.java",
           "sha": "2f9ccd85f30562aaa64e1dd94df888c3d55188bc",
           "lastSyncedAt": "2026-11-07T06:06:32.331Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "1425",
+      "title": "Constrained Subsequence Sum",
+      "slug": "constrained-subsequence-sum",
+      "problemName": "1425-constrained-subsequence-sum",
+      "difficulty": "Hard",
+      "leetcodeUrl": "https://leetcode.com/problems/constrained-subsequence-sum/",
+      "folderPath": "Hard/1425-constrained-subsequence-sum/",
+      "readmePath": "Hard/1425-constrained-subsequence-sum/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "1425-constrained-subsequence-sum.java",
+          "path": "Hard/1425-constrained-subsequence-sum/Java/1425-constrained-subsequence-sum.java",
+          "sha": "1b1eb5e3258dbb4a7f2f7c7e81b223dc5081cd84",
+          "lastSyncedAt": "2026-11-24T03:49:01.286Z"
         }
       ]
     },
