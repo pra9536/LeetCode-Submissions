@@ -5,7 +5,7 @@
     "name": "Heap (Priority Queue)",
     "tagId": "61050"
   },
-  "updatedAt": "2026-11-24T03:49:01.286Z",
+  "updatedAt": "2026-11-24T08:45:32.681Z",
   "problems": [
     {
       "frontendId": "215",
@@ -104,6 +104,26 @@
           "path": "Medium/0787-cheapest-flights-within-k-stops/Java/0787-cheapest-flights-within-k-stops.java",
           "sha": "30874433c7ca2933dffd0ca0d985c39a97c91fd6",
           "lastSyncedAt": "2026-11-11T18:10:29.757Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "862",
+      "title": "Shortest Subarray with Sum at Least K",
+      "slug": "shortest-subarray-with-sum-at-least-k",
+      "problemName": "0862-shortest-subarray-with-sum-at-least-k",
+      "difficulty": "Hard",
+      "leetcodeUrl": "https://leetcode.com/problems/shortest-subarray-with-sum-at-least-k/",
+      "folderPath": "Hard/0862-shortest-subarray-with-sum-at-least-k/",
+      "readmePath": "Hard/0862-shortest-subarray-with-sum-at-least-k/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "0862-shortest-subarray-with-sum-at-least-k.java",
+          "path": "Hard/0862-shortest-subarray-with-sum-at-least-k/Java/0862-shortest-subarray-with-sum-at-least-k.java",
+          "sha": "72bc1e298b6de0ed4f0c64079214eed526ec5e4e",
+          "lastSyncedAt": "2026-11-24T08:45:32.681Z"
         }
       ]
     },
