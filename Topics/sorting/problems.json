@@ -5,7 +5,7 @@
     "name": "Sorting",
     "tagId": "61049"
   },
-  "updatedAt": "2026-11-22T18:30:48.207Z",
+  "updatedAt": "2026-11-24T11:38:05.378Z",
   "problems": [
     {
       "frontendId": "15",
@@ -623,7 +623,7 @@
           "filename": "2410-maximum-matching-of-players-with-trainers.java",
           "path": "Medium/2410-maximum-matching-of-players-with-trainers/Java/2410-maximum-matching-of-players-with-trainers.java",
           "sha": "a2064908fa61058d5f4197596af9d63a82e4078e",
-          "lastSyncedAt": "2026-11-22T14:46:13.600Z"
+          "lastSyncedAt": "2026-11-24T11:38:05.378Z"
         }
       ]
     },
