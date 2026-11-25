@@ -5,7 +5,7 @@
     "name": "Prefix Sum",
     "tagId": "61068"
   },
-  "updatedAt": "2026-11-24T09:42:57.217Z",
+  "updatedAt": "2026-11-25T03:02:42.226Z",
   "problems": [
     {
       "frontendId": "209",
@@ -184,6 +184,26 @@
           "path": "Medium/1871-jump-game-vii/Java/1871-jump-game-vii.java",
           "sha": "3f297e9bd9f53acf828166671b4c1a48ac9b76f8",
           "lastSyncedAt": "2026-11-07T05:44:27.375Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "2945",
+      "title": "Find Maximum Non-decreasing Array Length",
+      "slug": "find-maximum-non-decreasing-array-length",
+      "problemName": "2945-find-maximum-non-decreasing-array-length",
+      "difficulty": "Hard",
+      "leetcodeUrl": "https://leetcode.com/problems/find-maximum-non-decreasing-array-length/",
+      "folderPath": "Hard/2945-find-maximum-non-decreasing-array-length/",
+      "readmePath": "Hard/2945-find-maximum-non-decreasing-array-length/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "2945-find-maximum-non-decreasing-array-length.java",
+          "path": "Hard/2945-find-maximum-non-decreasing-array-length/Java/2945-find-maximum-non-decreasing-array-length.java",
+          "sha": "c8e45013aff9927c09ed3a0608a32da56e1ea64d",
+          "lastSyncedAt": "2026-11-25T03:02:42.226Z"
         }
       ]
     },
